@@ -28,7 +28,7 @@ session = cfscrape.create_scraper()
 cookies = session.cookies.get_dict()
 
 # Khởi tạo trình duyệt
-driver = webdriver.Edge()
+driver = webdriver.Chrome()
 
 # Mở trang web
 driver.get('https://voice-models.com/')
