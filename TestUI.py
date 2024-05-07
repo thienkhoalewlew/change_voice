@@ -64,7 +64,6 @@ def search_models(query):
         if query.lower() in model[0].lower():
             results.append(model)
     return results
-
 def run_convert(
         vc_upload,
         f0_up_key,
@@ -180,26 +179,32 @@ def download_model(model):
                 zip_ref.extractall(extract_directory)  # Giải nén tất cả các tệp vào thư mục
             os.remove(zip_file_path)  # Xóa tệp zip sau khi giải nén
             print("Download successful!")
+            delete_model(parts[1])
+            model_dirs = get_model_dirs()
+            return gr.Dropdown.update(choices=model_dirs)
         else:
             print("Failed to create extract directory.")
     else:
         print("Failed to download model.")
-
+def delete_model(model_name):
+    for i, model in enumerate(model_data):
+        if model[0] == model_name:
+            del model_data[i]
 # def update_dropdown():
 #     models_dropdown.choices = model_dirs
+def get_model_dirs():
+    return [d for d in os.listdir('models') if os.path.isdir(os.path.join('models', d))]
 
 if __name__ == '__main__':
     with gr.Blocks() as main_app:
         with gr.Row():
             dl_model_dropdown = gr.Dropdown(choices=[model for model in model_data], label="Download Model")
             dl_btn = gr.Button("Download Model")
-            dl_btn.click(download_model, inputs=[dl_model_dropdown])
 
         with gr.Tab("Chuyển đổi giọng nói"):
-                model_dirs = [d for d in os.listdir('models') if os.path.isdir(os.path.join('models', d))]
+                model_dirs = get_model_dirs()
                 models_dropdown = gr.Dropdown(choices=model_dirs, label="Chọn model:")
                 models_dropdown.change(fn=change_model_name, inputs=models_dropdown)
-                models_dropdown.update(choices=model_dirs)
                 vc_upload = gr.Audio(label="Upload audio file", interactive=True)
                 f0_up_key = gr.Number(label="Transpose(f0_up_key)", interactive=True)
                 f0_method = gr.Radio(label="Pitch extraction algorithm(f0_method)", choices=["rmvpe", "pm"],
@@ -225,7 +230,7 @@ if __name__ == '__main__':
                                          protect],
                                  outputs=[vc_log, vc_output]
                                  )
-
+                dl_btn.click(download_model, inputs=[dl_model_dropdown], outputs=models_dropdown)
         main_app.queue(
             max_size=20,
             api_open=config.api,
