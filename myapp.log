@@ -1001,3 +1001,630 @@ INFO:lib.vc.utils:hubert_base.pt found.
 INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
 INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
 INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Started
+INFO:__main__:Started
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 12:46]: npy: 0.5106043815612793, f0: 1.9214904308319092s, infer: 3.934934139251709s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 94, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 13:05]: npy: 0.3871293067932129, f0: 1.1926324367523193s, infer: 3.558640718460083s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 13:05]: npy: 0.369617223739624, f0: 0.3183174133300781s, infer: 3.2665114402770996s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 16:17]: npy: 0.39673757553100586, f0: 0.945270299911499s, infer: 3.1116230487823486s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:01]: npy: 0.5800490379333496, f0: 2.2743959426879883s, infer: 3.401970148086548s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:01]: npy: 0.405566930770874, f0: 0.32318949699401855s, infer: 3.2447171211242676s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:01]: npy: 0.3795349597930908, f0: 0.2973616123199463s, infer: 3.1559319496154785s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:01]: npy: 0.3946366310119629, f0: 0.011771440505981445s, infer: 3.173563241958618s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:02]: npy: 0.40436506271362305, f0: 0.004997730255126953s, infer: 3.1281204223632812s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:02]: npy: 0.38817620277404785, f0: 0.33905982971191406s, infer: 3.1338083744049072s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:02]: npy: 0.41123533248901367, f0: 0.9463906288146973s, infer: 3.209146499633789s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:04]: npy: 0.38733720779418945, f0: 1.0110547542572021s, infer: 3.542064905166626s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:04]: npy: 0.39815330505371094, f0: 0.33605360984802246s, infer: 3.1419715881347656s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:05]: npy: 0.8345718383789062, f0: 1.0134055614471436s, infer: 3.245762586593628s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:05]: npy: 0.4039576053619385, f0: 0.9442858695983887s, infer: 3.5172786712646484s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:06]: npy: 0.36299872398376465, f0: 0.31606316566467285s, infer: 3.671936511993408s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:07]: npy: 0.33276891708374023, f0: 0.968517541885376s, infer: 2.808785915374756s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:09]: npy: 0.424849271774292, f0: 0.9783003330230713s, infer: 3.4609549045562744s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:09]: npy: 0.37186145782470703, f0: 0.3225414752960205s, infer: 3.210212230682373s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:10]: npy: 0.39089083671569824, f0: 0.34737181663513184s, infer: 3.235058307647705s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:10]: npy: 0.3809196949005127, f0: 0.3503293991088867s, infer: 3.178457260131836s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:12]: npy: 0.3595719337463379, f0: 0.9543979167938232s, infer: 3.2353947162628174s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:12]: npy: 0.3636758327484131, f0: 0.30907130241394043s, infer: 3.09098744392395s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:12]: npy: 0.3728907108306885, f0: 0.9887783527374268s, infer: 3.1762378215789795s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:12]: npy: 0.3733181953430176, f0: 0.3409252166748047s, infer: 3.0850398540496826s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:13]: npy: 0.35051655769348145, f0: 0.9124414920806885s, infer: 3.170121192932129s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:20]: npy: 49.38967180252075, f0: 18.78684115409851s, infer: 302.20527362823486s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:27]: npy: 0.8052680492401123, f0: 0.9839563369750977s, infer: 3.022020101547241s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:27]: npy: 0.35561680793762207, f0: 0.34494638442993164s, infer: 2.3492982387542725s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:28]: npy: 0.3380265235900879, f0: 1.2103965282440186s, infer: 2.584510564804077s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:httpx:HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+INFO:httpx:HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:41]: npy: 1.299065113067627, f0: 1.4312198162078857s, infer: 10.216368913650513s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:42]: npy: 1.0067644119262695, f0: 1.4921231269836426s, infer: 7.395911931991577s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:43]: npy: 1.1802222728729248, f0: 1.4664306640625s, infer: 8.784750699996948s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:43]: npy: 1.073988676071167, f0: 1.3513660430908203s, infer: 9.175297021865845s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:44]: npy: 1.0763397216796875, f0: 1.369673490524292s, infer: 7.439829349517822s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:47]: npy: 1.0589122772216797, f0: 0.8684656620025635s, infer: 7.4487059116363525s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:47]: npy: 1.2017149925231934, f0: 0.8140621185302734s, infer: 7.378015518188477s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:47]: npy: 1.0058166980743408, f0: 1.4340870380401611s, infer: 8.521395444869995s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:48]: npy: 1.0091748237609863, f0: 0.8277971744537354s, infer: 8.770349979400635s
+INFO:__main__:Converting ...
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:50]: npy: 0.39791321754455566, f0: 0.9546873569488525s, infer: 3.2216320037841797s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:50]: npy: 0.32062792778015137, f0: 0.9380519390106201s, infer: 2.8885316848754883s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:51]: npy: 0.3155062198638916, f0: 0.9043166637420654s, infer: 2.865135669708252s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:54]: npy: 0.4042792320251465, f0: 0.3807039260864258s, infer: 3.34210205078125s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 20:55]: npy: 0.33638906478881836, f0: 0.3757438659667969s, infer: 3.0528714656829834s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 22:01]: npy: 1.4759881496429443, f0: 2.3155789375305176s, infer: 9.733818292617798s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 22:03]: npy: 1.2160313129425049, f0: 0.895916223526001s, infer: 9.381083726882935s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 22:05]: npy: 0.6025035381317139, f0: 2.2484967708587646s, infer: 6.808177709579468s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 22:05]: npy: 0.959069013595581, f0: 0.8533008098602295s, infer: 4.017289876937866s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 93, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-07 23:54]: npy: 0.43955254554748535, f0: 1.7666501998901367s, infer: 3.5982162952423096s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:00]: npy: 0.37267494201660156, f0: 0.9392504692077637s, infer: 2.68344783782959s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:01]: npy: 0.3745133876800537, f0: 0.947648286819458s, infer: 3.5797455310821533s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:01]: npy: 0.39972972869873047, f0: 0.32970356941223145s, infer: 3.526651382446289s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:02]: npy: 0.3763539791107178, f0: 0.33055877685546875s, infer: 3.1972243785858154s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:03]: npy: 0.44544363021850586, f0: 1.0774662494659424s, infer: 3.8969998359680176s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:04]: npy: 0.4394259452819824, f0: 0.7876248359680176s, infer: 3.130723714828491s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:05]: npy: 1.60697603225708, f0: 1.397287368774414s, infer: 7.056034088134766s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:06]: npy: 1.2210783958435059, f0: 0.8280215263366699s, infer: 7.650684833526611s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:06]: npy: 0.949772834777832, f0: 1.2905120849609375s, infer: 8.921081066131592s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:07]: npy: 1.1643035411834717, f0: 0.8452572822570801s, infer: 9.126343488693237s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:08]: npy: 1.1329143047332764, f0: 0.8726322650909424s, infer: 8.36990213394165s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 95, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 95, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:12]: npy: 0.4199857711791992, f0: 0.951322078704834s, infer: 3.40688157081604s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:13]: npy: 1.1251308917999268, f0: 1.3449175357818604s, infer: 9.747788906097412s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:22]: npy: 1.1357226371765137, f0: 1.3465876579284668s, infer: 11.357587575912476s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:45]: npy: 0.41620898246765137, f0: 1.4402177333831787s, infer: 3.4150052070617676s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:45]: npy: 0.33638477325439453, f0: 0.9274001121520996s, infer: 2.532928705215454s
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 00:46]: npy: 0.3635571002960205, f0: 0.31378841400146484s, infer: 2.761610269546509s
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:Converting ...
+ERROR:__main__:Traceback (most recent call last):
+  File "D:\baitap\python\change_voice\TestUI.py", line 95, in run_convert
+    audio_opt = vc.pipeline(
+NameError: name 'vc' is not defined
+
+ERROR:__main__:Error when using .
+name 'vc' is not defined
+INFO:__main__:Started
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:lib.vc.utils:hubert_base.pt found.
+INFO:fairseq.tasks.hubert_pretraining:current directory is D:\baitap\python\change_voice
+INFO:fairseq.tasks.hubert_pretraining:HubertPretrainingTask Config {'_name': 'hubert_pretraining', 'data': 'metadata', 'fine_tuning': False, 'labels': ['km'], 'label_dir': 'label', 'label_rate': 50.0, 'sample_rate': 16000, 'normalize': False, 'enable_padding': False, 'max_keep_size': None, 'max_sample_size': 250000, 'min_sample_size': 32000, 'single_target': False, 'random_crop': True, 'pad_audio': False}
+INFO:fairseq.models.hubert.hubert:HubertModel Config: {'_name': 'hubert', 'label_rate': 50.0, 'extractor_mode': default, 'encoder_layers': 12, 'encoder_embed_dim': 768, 'encoder_ffn_embed_dim': 3072, 'encoder_attention_heads': 12, 'activation_fn': gelu, 'layer_type': transformer, 'dropout': 0.1, 'attention_dropout': 0.1, 'activation_dropout': 0.0, 'encoder_layerdrop': 0.05, 'dropout_input': 0.1, 'dropout_features': 0.1, 'final_dim': 256, 'untie_final_proj': True, 'layer_norm_first': False, 'conv_feature_layers': '[(512,10,5)] + [(512,3,2)] * 4 + [(512,2,2)] * 2', 'conv_bias': False, 'logit_temp': 0.1, 'target_glu': False, 'feature_grad_mult': 0.1, 'mask_length': 10, 'mask_prob': 0.8, 'mask_selection': static, 'mask_other': 0.0, 'no_mask_overlap': False, 'mask_min_space': 1, 'mask_channel_length': 10, 'mask_channel_prob': 0.0, 'mask_channel_selection': static, 'mask_channel_other': 0.0, 'no_mask_channel_overlap': False, 'mask_channel_min_space': 1, 'conv_pos': 128, 'conv_pos_groups': 16, 'latent_temp': [2.0, 0.5, 0.999995], 'skip_masked': False, 'skip_nomask': False, 'checkpoint_activations': False, 'required_seq_len_multiple': 2, 'depthwise_conv_kernel_size': 31, 'attn_type': '', 'pos_enc_type': 'abs', 'fp16': False}
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 01:04]: npy: 0.38307690620422363, f0: 1.3863162994384766s, infer: 2.762833833694458s
+INFO:__main__:<All keys matched successfully>
+INFO:__main__:Converting ...
+INFO:__main__: | [2024-05-08 01:05]: npy: 0.7674522399902344, f0: 0.9089386463165283s, infer: 2.710695505142212s

@@ -1,251 +1,911 @@
-Name,Link,Epochs
-"Vox (Hazbin Hotel, Italian Dub) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/Vox/resolve/main/Vox.zip?download=true,100
-"Valentino (Hazbin Hotel, Italian Dub) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/Valentino/resolve/main/Valentino.zip?download=true,100
-"Pierdestro (Italian Tiktoker) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/Pierdestro/resolve/main/Pierdestro.zip?download=true,100
-Clyde Donovan [V2] (South Park) (RMVPE / RVC-V2 / 600 Epochs),https://huggingface.co/RandomlyCreatedAI/ClydeDonovanV3/resolve/main/ClydeDonovanV3.zip,600
-Angel Dust (V2)(italian Dub)(Hazbin Hotel)(voice actor Riccardo Suarez)[RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/Angel-Dust-V2-Ita-Dub/resolve/main/Angel%20Dust%20ita%20V2.zip?download=true,300
-Korean Girl Vol7 Ver2 [한국 여성 목소리] RVC V2 / KLMv7sE / 600 Epochs,https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/KoreanGirl_Vol7v2.zip?download=true,600
-"Mary Poppins (Emily Blunt, Mary Poppins Returns) [RVCv2, TITAN, RMVPE] [120 Epochs]",https://huggingface.co/huckleberrypie/BluntPoppins/resolve/main/BluntPoppins_RVCv2.zip?download=true,120
-"Finn/Финн (Adventure Time) (Russian Dub) (RVC V2, Snowie V3 Pretrain) [400 Epochs]",https://huggingface.co/iamalexcaspian/Finn-AdventureTime-RusDub-SnowieV3/resolve/main/Finn-AdventureTime-RusDub-SnowieV3.zip?download=true,400
-"Martha Lorraine (Martha Speaks) - RVC v2, 200 Epochs, RMVPE, TITAN Pretrain",https://huggingface.co/Xhepyxopila/MiscCartoonModelsRVC/resolve/main/MarthaSpeaks.zip?download=true,200
-Jesse The Telemarketer (RVC V2-TITAN Pretrain) (160 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Jesse_Telemarketer/resolve/main/Jesse_Telemarketer_e160_s1600.zip?download=true,160
-Nick Avocado (RVC V2-TITAN Pretrain) (270 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Nickavacado/resolve/main/Nickavacado.zip?download=true,270
-Boyfriend FNF erect update RVC v2 200 epochs,https://huggingface.co/mrcreeper5/Boyfriendv3/resolve/main/bfv3.zip?download=true,200
-Minerva (The Walking Dead Telltale Game) (Titan Pretrain) (RVC V2) (RMVPE 40K) (290 epochs),https://huggingface.co/Cauthess/MinervaTWD/resolve/main/Minerva%20-%20Walking%20Dead.zip?download=true,290
-"Starvwared Tentacles ( Friday Night Funkin, FNF, Hit Single, RMVPE, TITAN, Lore Accurate) 300 Epochs",https://huggingface.co/C0ttontheBunny/StarvedOv2/resolve/main/StarvwaredTentaclesTITAN.zip?download=true,300
-Big The Cat (Sonic Heroes) (TITAN pretrain) (RVC v2) (180 Epochs),https://huggingface.co/thedoodooman/experimentalrvcmodels/resolve/main/BigTheCat_TitanRemake.zip?download=true,180
-"Gark (Counterfeit Cat/Псевдокот) Russian Dub (RVC V2) (SnowieV3, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/Gark_RUS/resolve/main/Gark_RUS.zip?download=true,200
-JT from City Girls (RVCv2 250 Epoch),https://huggingface.co/jentiecult/thatgirljt/resolve/main/thatgirljt.zip?download=true,250
-"Starved Eggman (Friday Night Funkin, FNF, Vs Sonic.exe, RMVPE, TITAN pretrain) 300 Epochs",https://huggingface.co/C0ttontheBunny/StarvedOv2/resolve/main/StarvedTITAN.zip?download=true,300
-"Omi (Xiaolin Showdown DS) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/OmiXiaolinShowdownDS.zip,350
-TheStellarJay (RMVPE) (Ov2.1Super40k) 400 epochs,https://huggingface.co/SimplCup/TheStellarJay/resolve/main/TheStellarJay.zip?download=true,400
-"Peter Parker/Spider-Man (Tobey Maguire, Sam Raimi Spider-Man PC game) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/dbffe1f352d3e587adea5924cb1096201d1bcb68/SpiderManTobeyMaguire.zip?download=true,350
-Matt Willis (Busted) (TITAN) (RVC v2) (RMVPE) (300 Epochs),https://huggingface.co/SUP3RMASS1VE/Matt-Willis/resolve/main/Matt%20Willis%20(TITAN).zip?download=true,300
-"Max (Counterfeit Cat/Псевдокот) Russian Dub (RVC V2) (SnowieV3, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/Max_RUS/resolve/main/Max_RUS.zip?download=true,200
-Morgan Wallen (V2) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MorganWallenV2/resolve/main/MorganWallenV2.zip,300
-"Darnell (Friday Night Funkin) 300 Epochs, Titan, RMVPE, RVC V2",https://huggingface.co/BunnyToon/darnel/resolve/main/darnell.zip?download=true,300
-Yoru (Daisuke Takahashi) (Vanlorant) (TITAN) (RVC V2) (32k) (Rmvpe) (150 epoch),https://huggingface.co/Goldeath/Valorant/resolve/main/YoruTITAN-Medium.zip?download=true,150
-"MiyukiVA (DMR V0.5, 32K) (RMVPE 32) (120 Epochs)",https://huggingface.co/FredDoes2/FredsRVCModels/resolve/main/MiyukiVA-E120-32k-RMVPE32-DMRV0.5Pretrain.zip?download=true,120
-"Gnarly [Smiling Friends] (OV2, RMVPE) (RVC V2) 300 Epochs",https://huggingface.co/MrSneakyD/SmilingFriends_RVC_Models/resolve/main/Gnarly-FrowningFriends.zip,300
-"Grim [Smiling Friends] (OV2, RMVPE) (RVC V2) 300 Epochs",https://huggingface.co/MrSneakyD/SmilingFriends_RVC_Models/resolve/main/Grim-FrowningFriends.zip,300
-"Playboi Carti - Mi$fit (RMVPE, RVC v2, 250 Epochs, OV2)",https://huggingface.co/y0usly/MisfitCarti_250_Epochs/resolve/main/Mi%24fitCarti.zip?download=true,250
-"""Mustard on the beat, hoe"" (RVC v2) (RIN_E3) (RMVPE) (500 epochs)",https://huggingface.co/NewTab/RVCModelsV1orV2/resolve/main/MustardOnTheBeatHoe.zip?download=true,500
-Kratos UPDATED (God of War Ragnarok) (Christopher Judge) RVC V2 565 Epochs,https://huggingface.co/TheGreasyGamer/GoWKratosV2/resolve/main/GoWKratosV2.zip?download=true,565
-EndearinAudio | DMR V0.5 32K | RMVPE 160 Epochs,https://huggingface.co/Razer112/EndearinAudio/resolve/main/EndearinAudio.zip?download=true,160
-"SantiOkuu - Attack of the Stupid King (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/AttackOfTheStupidKingDrums.zip?download=true,300
-Megan Thee Stallion (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/szajean/MEGAN_BY_SZAJEAN/resolve/main/MEGAN_BY_SZAJEAN.zip?download=true,300
-Kevin Richardson (Backstreet Boys) (TITAN) (RVC v2) (RMVPE) (300 Epochs),https://huggingface.co/SUP3RMASS1VE/Kevin-Richardson/resolve/main/Kevin%20Richardson%20(TITAN).zip?download=true,300
-Samsung Notification(2020)(RVC V2)(RMVPE)(TITAN)(2000 Epochs - 1999 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/samsung%202020_e2000_s1999.zip?download=true,2000
-Sera (Hazbin Hotel) (italian Dub) (vocie actor Domitilla D'Amico) [RVCV2] [Itaila] [200 Epochs],https://huggingface.co/Loren85/Sera-Italian-dub-hazbin-hotel-200/resolve/main/Sera%20Italian%20dub%20200.zip?download=true,200
-"Finn/Финн (Adventure Time) (Russian Dub) (RVC V2, RMVPE) [410 Epochs] (Ov2 Pretrain)",https://huggingface.co/iamalexcaspian/Finn-AdventureTime-RusDub/resolve/main/Finn-AdventureTime-RusDub.zip?download=true,410
-Brit Smith (RVC v2 400 epochs),https://huggingface.co/Kremixes/brit/resolve/main/britsmith.zip?download=true,400
-"Darnell (Pico vs. Uberkids, Friday Night Funkin', Newgrounds) | RVC v2 | RVMPE | Ov2 | 300 Epochs",https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/darnell.zip?download=true,300
-"TupperV3 (50 files, 390 epochs, TITAN pretrain)",https://huggingface.co/Kryptone/RVCollection-Revamped/resolve/main/TupperV3.zip?download=true,390
-Tool Gun (Garry's Mod) (RVC v2) (TITAN-Medium) (RMVPE) (1000 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/GmodToolgun_1000e.zip,1000
-Hulk (Avengers Movies) - (TITAN-Pretrain) (RVMPE 40k) (500 epochs),https://huggingface.co/Homiebear/Hulk-TITAN/resolve/main/Hulk%20-TITAN.zip?download=true,500
-"Sir Topham Hatt but only when he says ""SILENCE"" (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/Sir_Topham_Hatt_Silence/resolve/main/Sir_Topham_Hatt_Silence.zip?download=true,200
-Whis [DB-FighterZ | 🇺🇸] (RVC v2 | 150 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/Whis-FighterZ.zip?download=true,150
-"Moxxine (Helluva Boss) (RMVPE, RVC, v2) (400 Epoches)",https://huggingface.co/John2007john/Moxxine/resolve/main/Moxxine.zip?download=true,400
-"Pico (FNF, Friday Night Funkin, RMVPE, TITAN pretrain) 300 Epochs",https://huggingface.co/C0ttontheBunny/FNFBasegamemodels/resolve/main/PicoTITAN.zip?download=true,300
-"Jeffy (SuperMarioLogan) - RVC v2, 100 Epochs, OV2Super",https://huggingface.co/Xhepyxopila/SMLModels/resolve/main/JeffySML.zip?download=true,100
-Freddy Fazbear (FNAF AR) - (TITAN-Pretrain) (RVMPE 40k) (800 epochs),https://huggingface.co/Homiebear/ArFreddy-TITAN/resolve/main/ArFreddy-TITAN.zip?download=true,800
-Yoru (Daisuke Takahashi) (Vanlorant) (TITAN) (RVC V2) (32k) (Rmvpe) (150 epoch),https://huggingface.co/Goldeath/Valorant/resolve/main/YoruTITAN-Medium.zip?download=true,150
-"MiyukiVA (DMR V0.5, 32K) (RMVPE 32) (120 Epochs)",https://huggingface.co/FredDoes2/FredsRVCModels/resolve/main/MiyukiVA-E120-32k-RMVPE32-DMRV0.5Pretrain.zip?download=true,120
-"Gnarly [Smiling Friends] (OV2, RMVPE) (RVC V2) 300 Epochs",https://huggingface.co/MrSneakyD/SmilingFriends_RVC_Models/resolve/main/Gnarly-FrowningFriends.zip,300
-"Grim [Smiling Friends] (OV2, RMVPE) (RVC V2) 300 Epochs",https://huggingface.co/MrSneakyD/SmilingFriends_RVC_Models/resolve/main/Grim-FrowningFriends.zip,300
-"Playboi Carti - Mi$fit (RMVPE, RVC v2, 250 Epochs, OV2)",https://huggingface.co/y0usly/MisfitCarti_250_Epochs/resolve/main/Mi%24fitCarti.zip?download=true,250
-"""Mustard on the beat, hoe"" (RVC v2) (RIN_E3) (RMVPE) (500 epochs)",https://huggingface.co/NewTab/RVCModelsV1orV2/resolve/main/MustardOnTheBeatHoe.zip?download=true,500
-Kratos UPDATED (God of War Ragnarok) (Christopher Judge) RVC V2 565 Epochs,https://huggingface.co/TheGreasyGamer/GoWKratosV2/resolve/main/GoWKratosV2.zip?download=true,565
-EndearinAudio | DMR V0.5 32K | RMVPE 160 Epochs,https://huggingface.co/Razer112/EndearinAudio/resolve/main/EndearinAudio.zip?download=true,160
-"SantiOkuu - Attack of the Stupid King (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/AttackOfTheStupidKingDrums.zip?download=true,300
-Megan Thee Stallion (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/szajean/MEGAN_BY_SZAJEAN/resolve/main/MEGAN_BY_SZAJEAN.zip?download=true,300
-Kevin Richardson (Backstreet Boys) (TITAN) (RVC v2) (RMVPE) (300 Epochs),https://huggingface.co/SUP3RMASS1VE/Kevin-Richardson/resolve/main/Kevin%20Richardson%20(TITAN).zip?download=true,300
-Samsung Notification(2020)(RVC V2)(RMVPE)(TITAN)(2000 Epochs - 1999 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/samsung%202020_e2000_s1999.zip?download=true,2000
-Sera (Hazbin Hotel) (italian Dub) (vocie actor Domitilla D'Amico) [RVCV2] [Itaila] [200 Epochs],https://huggingface.co/Loren85/Sera-Italian-dub-hazbin-hotel-200/resolve/main/Sera%20Italian%20dub%20200.zip?download=true,200
-"Finn/Финн (Adventure Time) (Russian Dub) (RVC V2, RMVPE) [410 Epochs] (Ov2 Pretrain)",https://huggingface.co/iamalexcaspian/Finn-AdventureTime-RusDub/resolve/main/Finn-AdventureTime-RusDub.zip?download=true,410
-Brit Smith (RVC v2 400 epochs),https://huggingface.co/Kremixes/brit/resolve/main/britsmith.zip?download=true,400
-"Darnell (Pico vs. Uberkids, Friday Night Funkin', Newgrounds) | RVC v2 | RVMPE | Ov2 | 300 Epochs",https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/darnell.zip?download=true,300
-"TupperV3 (50 files, 390 epochs, TITAN pretrain)",https://huggingface.co/Kryptone/RVCollection-Revamped/resolve/main/TupperV3.zip?download=true,390
-Tool Gun (Garry's Mod) (RVC v2) (TITAN-Medium) (RMVPE) (1000 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/GmodToolgun_1000e.zip,1000
-Hulk (Avengers Movies) - (TITAN-Pretrain) (RVMPE 40k) (500 epochs),https://huggingface.co/Homiebear/Hulk-TITAN/resolve/main/Hulk%20-TITAN.zip?download=true,500
-"Sir Topham Hatt but only when he says ""SILENCE"" (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/Sir_Topham_Hatt_Silence/resolve/main/Sir_Topham_Hatt_Silence.zip?download=true,200
-Whis [DB-FighterZ | 🇺🇸] (RVC v2 | 150 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/Whis-FighterZ.zip?download=true,150
-"Moxxine (Helluva Boss) (RMVPE, RVC, v2) (400 Epoches)",https://huggingface.co/John2007john/Moxxine/resolve/main/Moxxine.zip?download=true,400
-"Pico (FNF, Friday Night Funkin, RMVPE, TITAN pretrain) 300 Epochs",https://huggingface.co/C0ttontheBunny/FNFBasegamemodels/resolve/main/PicoTITAN.zip?download=true,300
-"Jeffy (SuperMarioLogan) - RVC v2, 100 Epochs, OV2Super",https://huggingface.co/Xhepyxopila/SMLModels/resolve/main/JeffySML.zip?download=true,100
-Freddy Fazbear (FNAF AR) - (TITAN-Pretrain) (RVMPE 40k) (800 epochs),https://huggingface.co/Homiebear/ArFreddy-TITAN/resolve/main/ArFreddy-TITAN.zip?download=true,800
-Ketta (Breadwinners) [RMVPE] (RVC v2) (300 Epochs),https://huggingface.co/Elinvasor12/Otros_Personajes/resolve/main/Ketta_Eng.zip,300
-Noshiro (Azur Lane) [JP] (RVC v2) (220 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Noshiro-JP.zip?download=true,220
-"D.va (Overwatch) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/DvaOverwatch.zip,350
-Princesa Loolilalu (The Amazing Digital Circus/Latin American Spanish Dub) - 400 Epochs,https://huggingface.co/Sam846/My_Models/resolve/main/PrincesaLoolilaluLatino.zip?download=true,400
-NyanGirl 150 Epochs CREPE 32 HopLength 32k DMRV0.5,https://huggingface.co/Blyuv/NyanGirl/resolve/main/NyanGirl.zip?download=true,150
-"Funtime Freddy (Five Nights At Freddy's Sister Location, FNAF 5, RMVPE, TITAN pretrain) 300 Epochs",https://huggingface.co/C0ttontheBunny/NewFuntimeModels/resolve/main/FuntimeFreddyTITAN.zip?download=true,300
-Pomni (ENG) (RMVPE) (Ov2.1Super40k) 350 epochs,https://huggingface.co/SimplCup/Pomni/resolve/main/Pomni.zip?download=true,350
-The Joker (Batman Arkham Series) - (TITAN-Pretrain) (RVMPE 40k) (250 epochs),https://huggingface.co/Homiebear/TheJokerTITAN/resolve/main/JokerMarkHamill-TITAN.zip?download=true,250
-"Literally the music from a video of Thomas Müller dancing (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/MusicOfThomasMullerDancingDrums.zip?download=true,300
-"Beaux ASMR (Rmvpe, RVC v2, 100 Epochs) (DMR Pretrain)",https://huggingface.co/PlayerBPlaytime/My-Models/resolve/main/BeauxASMR.zip,100
-"Roxanne Wolf (RMVPE, v2, 170 epochs, 3.060 steps)",https://huggingface.co/EthanWinters176/Roxanne_Wolf/resolve/main/Roxanne%20Wolf.zip?download=true,170
-"Packie McReary (Grand Theft Auto IV) (RVC V2, OV2, RMVPE) (210 Epochs)",https://huggingface.co/BibEBobberson/BibRVC/resolve/main/Packie.zip,210
-"ABBA - Gimme! Gimme! Gimme! (A Man After Midnight) (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/GimmeGimmeGimmeDrums.zip?download=true,300
-Asmodeus (sing voice) (Helluva Boss) [RVCV2] [Titan Petrain] [250 epochs],https://huggingface.co/Loren85/Asmodeus-Sing-voice/resolve/main/Asmodeus%20Sing.zip?download=true,250
-Creppy Theories (RVC V2) (500 Epochs) (Russian Youtuber) (Trained on Mi Chan Pretrain),https://huggingface.co/Player1444/AI.models/resolve/main/Creppy%20Theories%20(Trained%20on%20Mi%20chan).zip?download=true,500
-Pochonbo (North Korean Singer) (RVC V2 - KLM_v7s) (200 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Pochonbo/resolve/main/Pochonbo_e200_s4600.zip?download=true,200
-"Jeffrey Jey (Italian singer, member of Eiffel 65) [Eiffel 65 Album Era]",https://huggingface.co/DJ491/Jeffrey_Jey/resolve/main/Jeffrey%20Jey%20(Eiffel%2065%20-%20Third%20Album%20Era).zip,
-Olivia Rodrigo RVCv2 (2021-2023) [100 Epochs],https://huggingface.co/itt0lp/oliviasourguts/resolve/main/oliviarodrigo.zip?download=true,100
-"Lego Darth Vader(Lego Star Wars The Skywalker Saga, LEGO, Star Wars, RMVPE, TITANpretrain) 300 Epoch",https://huggingface.co/C0ttontheBunny/starwarsmodels/resolve/main/LegoDartVaderTITAN.zip?download=true,300
-"Quadra (BBEU, Japanese - CV: Azumi Asakura) (Updated) (RVC v2, RMVPE, 300 epochs, TITAN Pretrain)",https://huggingface.co/RegalHyperus/BeybladeBurstExpandedUniverseJapaneseRVCModels/resolve/main/QuadraBBEUJPV2.zip?download=true,300
-Roxanne Wolf (FNaF: Security Breach) (RVC v2) (RIN_E3) (RMVPE) (400 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/RoxanneWolf_400e.zip,400
-Genshin Impact Arlecchino (원신 아를레키노),https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/Genshin_Impact_Arlecchino.zip?download=true,
-"No More Saying Cuss Words Kid (GPT-SoVITS) (15 - 20 Epochs, Both GPT & SOVITS)",https://huggingface.co/SonicInGug/No-More-Saying-Cuss-Words-Kid/resolve/main/NoMoreSayingCussWordsKid.zip,20
-Runie Ruse (Phase Connect / VTuber) (RVC v2) - 320 Epochs,https://huggingface.co/sxndypz/rvc-v2-models/resolve/main/runie.zip,320
-The Kid Laroi (Fūck Love 3) RVC v2 - TITAN (400 Epochs),https://huggingface.co/pinguG/THE_KID_LAROI/resolve/main/fucklove3.zip,400
-Ketta (Breadwinners) [RMVPE] (RVC v2) (300 Epochs),https://huggingface.co/Elinvasor12/Otros_Personajes/resolve/main/Ketta_Eng.zip,300
-Noshiro (Azur Lane) [JP] (RVC v2) (220 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Noshiro-JP.zip?download=true,220
-"D.va (Overwatch) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/DvaOverwatch.zip,350
-Princesa Loolilalu (The Amazing Digital Circus/Latin American Spanish Dub) - 400 Epochs,https://huggingface.co/Sam846/My_Models/resolve/main/PrincesaLoolilaluLatino.zip?download=true,400
-NyanGirl 150 Epochs CREPE 32 HopLength 32k DMRV0.5,https://huggingface.co/Blyuv/NyanGirl/resolve/main/NyanGirl.zip?download=true,150
-"Funtime Freddy (Five Nights At Freddy's Sister Location, FNAF 5, RMVPE, TITAN pretrain) 300 Epochs",https://huggingface.co/C0ttontheBunny/NewFuntimeModels/resolve/main/FuntimeFreddyTITAN.zip?download=true,300
-Pomni (ENG) (RMVPE) (Ov2.1Super40k) 350 epochs,https://huggingface.co/SimplCup/Pomni/resolve/main/Pomni.zip?download=true,350
-The Joker (Batman Arkham Series) - (TITAN-Pretrain) (RVMPE 40k) (250 epochs),https://huggingface.co/Homiebear/TheJokerTITAN/resolve/main/JokerMarkHamill-TITAN.zip?download=true,250
-"Literally the music from a video of Thomas Müller dancing (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/MusicOfThomasMullerDancingDrums.zip?download=true,300
-"Beaux ASMR (Rmvpe, RVC v2, 100 Epochs) (DMR Pretrain)",https://huggingface.co/PlayerBPlaytime/My-Models/resolve/main/BeauxASMR.zip,100
-"Roxanne Wolf (RMVPE, v2, 170 epochs, 3.060 steps)",https://huggingface.co/EthanWinters176/Roxanne_Wolf/resolve/main/Roxanne%20Wolf.zip?download=true,170
-"Packie McReary (Grand Theft Auto IV) (RVC V2, OV2, RMVPE) (210 Epochs)",https://huggingface.co/BibEBobberson/BibRVC/resolve/main/Packie.zip,210
-"ABBA - Gimme! Gimme! Gimme! (A Man After Midnight) (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/GimmeGimmeGimmeDrums.zip?download=true,300
-Asmodeus (sing voice) (Helluva Boss) [RVCV2] [Titan Petrain] [250 epochs],https://huggingface.co/Loren85/Asmodeus-Sing-voice/resolve/main/Asmodeus%20Sing.zip?download=true,250
-Creppy Theories (RVC V2) (500 Epochs) (Russian Youtuber) (Trained on Mi Chan Pretrain),https://huggingface.co/Player1444/AI.models/resolve/main/Creppy%20Theories%20(Trained%20on%20Mi%20chan).zip?download=true,500
-Pochonbo (North Korean Singer) (RVC V2 - KLM_v7s) (200 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Pochonbo/resolve/main/Pochonbo_e200_s4600.zip?download=true,200
-"Jeffrey Jey (Italian singer, member of Eiffel 65) [Eiffel 65 Album Era]",https://huggingface.co/DJ491/Jeffrey_Jey/resolve/main/Jeffrey%20Jey%20(Eiffel%2065%20-%20Third%20Album%20Era).zip,
-Olivia Rodrigo RVCv2 (2021-2023) [100 Epochs],https://huggingface.co/itt0lp/oliviasourguts/resolve/main/oliviarodrigo.zip?download=true,100
-"Lego Darth Vader(Lego Star Wars The Skywalker Saga, LEGO, Star Wars, RMVPE, TITANpretrain) 300 Epoch",https://huggingface.co/C0ttontheBunny/starwarsmodels/resolve/main/LegoDartVaderTITAN.zip?download=true,300
-"Quadra (BBEU, Japanese - CV: Azumi Asakura) (Updated) (RVC v2, RMVPE, 300 epochs, TITAN Pretrain)",https://huggingface.co/RegalHyperus/BeybladeBurstExpandedUniverseJapaneseRVCModels/resolve/main/QuadraBBEUJPV2.zip?download=true,300
-Roxanne Wolf (FNaF: Security Breach) (RVC v2) (RIN_E3) (RMVPE) (400 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/RoxanneWolf_400e.zip,400
-Genshin Impact Arlecchino (원신 아를레키노),https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/Genshin_Impact_Arlecchino.zip?download=true,
-"No More Saying Cuss Words Kid (GPT-SoVITS) (15 - 20 Epochs, Both GPT & SOVITS)",https://huggingface.co/SonicInGug/No-More-Saying-Cuss-Words-Kid/resolve/main/NoMoreSayingCussWordsKid.zip,20
-Runie Ruse (Phase Connect / VTuber) (RVC v2) - 320 Epochs,https://huggingface.co/sxndypz/rvc-v2-models/resolve/main/runie.zip,320
-The Kid Laroi (Fūck Love 3) RVC v2 - TITAN (400 Epochs),https://huggingface.co/pinguG/THE_KID_LAROI/resolve/main/fucklove3.zip,400
-Ketta (Breadwinners) [RMVPE] (RVC v2) (300 Epochs),https://huggingface.co/Elinvasor12/Otros_Personajes/resolve/main/Ketta_Eng.zip,300
-Noshiro (Azur Lane) [JP] (RVC v2) (220 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Noshiro-JP.zip?download=true,220
-"D.va (Overwatch) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/DvaOverwatch.zip,350
-Princesa Loolilalu (The Amazing Digital Circus/Latin American Spanish Dub) - 400 Epochs,https://huggingface.co/Sam846/My_Models/resolve/main/PrincesaLoolilaluLatino.zip?download=true,400
-NyanGirl 150 Epochs CREPE 32 HopLength 32k DMRV0.5,https://huggingface.co/Blyuv/NyanGirl/resolve/main/NyanGirl.zip?download=true,150
-"Funtime Freddy (Five Nights At Freddy's Sister Location, FNAF 5, RMVPE, TITAN pretrain) 300 Epochs",https://huggingface.co/C0ttontheBunny/NewFuntimeModels/resolve/main/FuntimeFreddyTITAN.zip?download=true,300
-Pomni (ENG) (RMVPE) (Ov2.1Super40k) 350 epochs,https://huggingface.co/SimplCup/Pomni/resolve/main/Pomni.zip?download=true,350
-The Joker (Batman Arkham Series) - (TITAN-Pretrain) (RVMPE 40k) (250 epochs),https://huggingface.co/Homiebear/TheJokerTITAN/resolve/main/JokerMarkHamill-TITAN.zip?download=true,250
-"Literally the music from a video of Thomas Müller dancing (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/MusicOfThomasMullerDancingDrums.zip?download=true,300
-"Beaux ASMR (Rmvpe, RVC v2, 100 Epochs) (DMR Pretrain)",https://huggingface.co/PlayerBPlaytime/My-Models/resolve/main/BeauxASMR.zip,100
-"Roxanne Wolf (RMVPE, v2, 170 epochs, 3.060 steps)",https://huggingface.co/EthanWinters176/Roxanne_Wolf/resolve/main/Roxanne%20Wolf.zip?download=true,170
-"Packie McReary (Grand Theft Auto IV) (RVC V2, OV2, RMVPE) (210 Epochs)",https://huggingface.co/BibEBobberson/BibRVC/resolve/main/Packie.zip,210
-"ABBA - Gimme! Gimme! Gimme! (A Man After Midnight) (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/GimmeGimmeGimmeDrums.zip?download=true,300
-Asmodeus (sing voice) (Helluva Boss) [RVCV2] [Titan Petrain] [250 epochs],https://huggingface.co/Loren85/Asmodeus-Sing-voice/resolve/main/Asmodeus%20Sing.zip?download=true,250
-Creppy Theories (RVC V2) (500 Epochs) (Russian Youtuber) (Trained on Mi Chan Pretrain),https://huggingface.co/Player1444/AI.models/resolve/main/Creppy%20Theories%20(Trained%20on%20Mi%20chan).zip?download=true,500
-Pochonbo (North Korean Singer) (RVC V2 - KLM_v7s) (200 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Pochonbo/resolve/main/Pochonbo_e200_s4600.zip?download=true,200
-"Jeffrey Jey (Italian singer, member of Eiffel 65) [Eiffel 65 Album Era]",https://huggingface.co/DJ491/Jeffrey_Jey/resolve/main/Jeffrey%20Jey%20(Eiffel%2065%20-%20Third%20Album%20Era).zip,
-Olivia Rodrigo RVCv2 (2021-2023) [100 Epochs],https://huggingface.co/itt0lp/oliviasourguts/resolve/main/oliviarodrigo.zip?download=true,100
-"Lego Darth Vader(Lego Star Wars The Skywalker Saga, LEGO, Star Wars, RMVPE, TITANpretrain) 300 Epoch",https://huggingface.co/C0ttontheBunny/starwarsmodels/resolve/main/LegoDartVaderTITAN.zip?download=true,300
-"Quadra (BBEU, Japanese - CV: Azumi Asakura) (Updated) (RVC v2, RMVPE, 300 epochs, TITAN Pretrain)",https://huggingface.co/RegalHyperus/BeybladeBurstExpandedUniverseJapaneseRVCModels/resolve/main/QuadraBBEUJPV2.zip?download=true,300
-Roxanne Wolf (FNaF: Security Breach) (RVC v2) (RIN_E3) (RMVPE) (400 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/RoxanneWolf_400e.zip,400
-Genshin Impact Arlecchino (원신 아를레키노),https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/Genshin_Impact_Arlecchino.zip?download=true,
-"No More Saying Cuss Words Kid (GPT-SoVITS) (15 - 20 Epochs, Both GPT & SOVITS)",https://huggingface.co/SonicInGug/No-More-Saying-Cuss-Words-Kid/resolve/main/NoMoreSayingCussWordsKid.zip,20
-Runie Ruse (Phase Connect / VTuber) (RVC v2) - 320 Epochs,https://huggingface.co/sxndypz/rvc-v2-models/resolve/main/runie.zip,320
-The Kid Laroi (Fūck Love 3) RVC v2 - TITAN (400 Epochs),https://huggingface.co/pinguG/THE_KID_LAROI/resolve/main/fucklove3.zip,400
-YandereV2 175 Epochs RMVPE 32k,https://huggingface.co/Blyuv/YandereV2/resolve/main/Yanderev2.zip?download=true,175
-"Car Singing (Friday Night Funkin' Hit Single) - RVC v2, 100 Epochs, RMVPE",https://huggingface.co/Xhepyxopila/MiscCartoonModelsRVC/resolve/main/Car.zip?download=true,100
-GLaDOS (Portal Series) - (TITAN-Pretrain) (RVMPE 40k) (100 epochs),https://huggingface.co/Homiebear/GLaDOS-TITAN/resolve/main/GLaDOS-TITAN.zip?download=true,100
-Baldi Patricia (DA Games) (RVC V2) (200 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Baldi_Patricia/resolve/main/Baldi_Patricia_v2.zip?download=true,200
-Mr. Monopoly Commercial (GPT-SoVITS) (20 Epochs),https://huggingface.co/GoldoBasic/mrmonopolycommercial/resolve/main/Mr_Monopoly_Commercial_GPT.zip?download=true,20
-"Gummigoo (The Amazing Digital Circus - Ep:1) - (RVC V2, RMVPE) - (500 epochs)",https://huggingface.co/Thatsnazzyartist22/Gummigoo/resolve/main/GummiGoo_Final.zip?download=true,500
-LGR (RVC V2) (270 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/LGR/resolve/main/LGR.zip?download=true,270
-"Clockwork Zoo (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/clockworkzoo/resolve/main/clockworkzoo.zip?download=true,200
-Goomba (Super Mario Franchise) (RVC v2) (1000 Epochs),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/Goomba.zip?download=true,1000
-Calliope Mori [RVC v2] [RMVPE] [Itaila] 200 Epochs 89000 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/CalliopeMori_RVC_v2_Itaila_e200_s89000.zip?download=true,200
-"Brucie Kibbutz (Grand Theft Auto IV) (RVC V2, OV2, RMVPE) (250 Epochs)",https://huggingface.co/BibEBobberson/BibRVC/blob/main/Brucie.zip,250
-SillyBilly! [FNF Hit Single Mod (Chromatic) ] | Rvc v2 | RMVPE | 500 Epochs,https://huggingface.co/SkibidiPomniSigma/Spamton/resolve/main/SillyBilly.zip,500
-"Beatkid, Coco, & Deeo - Key to My Core (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/KeyToMyCoreDrums.zip?download=true,300
-Morgan Wallen (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MorganWallen/resolve/main/MorganWallen.zip,300
-Sonic The Edgehog (Knuckles: Series/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam846/Sonic_Models/resolve/main/SonicJorgeRoig.zip?download=true,400
-"Princess Loolilalu (The Amazing Digital Circus) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/PrincessLoolilalu.zip,350
-2015 Samsung Notification Sound (RVC V2) (1000 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/2015_Samsung_Notification_Sound/resolve/main/_2015_Samsung_Notification_Sound_v2.zip?download=true,1000
-Nori Doorman - Murder Drones  (RVC V2) (rmvpe) (600 Epochs),https://huggingface.co/Freaky98/Nori-rvc-v2-600e/resolve/main/Nori-rvc-v2-600e.zip?download=true,600
-"Дорогой, где ты был? (Russian Meme) (RMVPE) (RVC v2) (250 Epochs)",https://huggingface.co/Stepan2033/Models/resolve/main/Sweetie.zip?download=true,250
-"No Shave No Haircut Guy (Instagram Page) (RVC V2, OV2) (100 Epochs)",https://huggingface.co/FanFierik/NoShaveNoHaircut/resolve/main/NoShaveNoHaircut.zip?download=true,100
-iPhone Radar(RVC V2)(RMVPE)(TITAN)(1070 Epochs - 2138 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/iPhone%20Radar_e1070_s2138.zip?download=true,1070
-Wanna Break From The Ads Guy (Spotify) (RVC V2-Ov2) (250 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Wanna_Break_From_The_Ads_Guy/resolve/main/Wanna_Break_From_The_Ads_Guy.zip?download=true,250
-Poofesure (RVC V2) (160 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Poofesure/resolve/main/Poofesure_v2.zip?download=true,160
-Troy Mcclure (Simpson) (vocie actor Phil Hartman) [GPTSOVITS] [20 pochs both],https://huggingface.co/Loren85/Troy-McClure-Gpt-model/resolve/main/troy%20Gpt.zip?download=true,
-Brittany Murphy RVCV2 V3 2975 Epoch,https://huggingface.co/MrJordanL/Brittany_Murphy_RVC2/resolve/main/BrittanyMurphyV3.zip?download=true,2975
-YandereV2 175 Epochs RMVPE 32k,https://huggingface.co/Blyuv/YandereV2/resolve/main/Yanderev2.zip?download=true,175
-"Car Singing (Friday Night Funkin' Hit Single) - RVC v2, 100 Epochs, RMVPE",https://huggingface.co/Xhepyxopila/MiscCartoonModelsRVC/resolve/main/Car.zip?download=true,100
-GLaDOS (Portal Series) - (TITAN-Pretrain) (RVMPE 40k) (100 epochs),https://huggingface.co/Homiebear/GLaDOS-TITAN/resolve/main/GLaDOS-TITAN.zip?download=true,100
-Baldi Patricia (DA Games) (RVC V2) (200 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Baldi_Patricia/resolve/main/Baldi_Patricia_v2.zip?download=true,200
-Mr. Monopoly Commercial (GPT-SoVITS) (20 Epochs),https://huggingface.co/GoldoBasic/mrmonopolycommercial/resolve/main/Mr_Monopoly_Commercial_GPT.zip?download=true,20
-"Gummigoo (The Amazing Digital Circus - Ep:1) - (RVC V2, RMVPE) - (500 epochs)",https://huggingface.co/Thatsnazzyartist22/Gummigoo/resolve/main/GummiGoo_Final.zip?download=true,500
-LGR (RVC V2) (270 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/LGR/resolve/main/LGR.zip?download=true,270
-"Clockwork Zoo (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/clockworkzoo/resolve/main/clockworkzoo.zip?download=true,200
-Goomba (Super Mario Franchise) (RVC v2) (1000 Epochs),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/Goomba.zip?download=true,1000
-Calliope Mori [RVC v2] [RMVPE] [Itaila] 200 Epochs 89000 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/CalliopeMori_RVC_v2_Itaila_e200_s89000.zip?download=true,200
-"Brucie Kibbutz (Grand Theft Auto IV) (RVC V2, OV2, RMVPE) (250 Epochs)",https://huggingface.co/BibEBobberson/BibRVC/blob/main/Brucie.zip,250
-SillyBilly! [FNF Hit Single Mod (Chromatic) ] | Rvc v2 | RMVPE | 500 Epochs,https://huggingface.co/SkibidiPomniSigma/Spamton/resolve/main/SillyBilly.zip,500
-"Beatkid, Coco, & Deeo - Key to My Core (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/KeyToMyCoreDrums.zip?download=true,300
-Morgan Wallen (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MorganWallen/resolve/main/MorganWallen.zip,300
-Sonic The Edgehog (Knuckles: Series/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam846/Sonic_Models/resolve/main/SonicJorgeRoig.zip?download=true,400
-"Princess Loolilalu (The Amazing Digital Circus) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/PrincessLoolilalu.zip,350
-2015 Samsung Notification Sound (RVC V2) (1000 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/2015_Samsung_Notification_Sound/resolve/main/_2015_Samsung_Notification_Sound_v2.zip?download=true,1000
-Nori Doorman - Murder Drones  (RVC V2) (rmvpe) (600 Epochs),https://huggingface.co/Freaky98/Nori-rvc-v2-600e/resolve/main/Nori-rvc-v2-600e.zip?download=true,600
-"Дорогой, где ты был? (Russian Meme) (RMVPE) (RVC v2) (250 Epochs)",https://huggingface.co/Stepan2033/Models/resolve/main/Sweetie.zip?download=true,250
-"No Shave No Haircut Guy (Instagram Page) (RVC V2, OV2) (100 Epochs)",https://huggingface.co/FanFierik/NoShaveNoHaircut/resolve/main/NoShaveNoHaircut.zip?download=true,100
-iPhone Radar(RVC V2)(RMVPE)(TITAN)(1070 Epochs - 2138 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/iPhone%20Radar_e1070_s2138.zip?download=true,1070
-Wanna Break From The Ads Guy (Spotify) (RVC V2-Ov2) (250 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Wanna_Break_From_The_Ads_Guy/resolve/main/Wanna_Break_From_The_Ads_Guy.zip?download=true,250
-Poofesure (RVC V2) (160 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Poofesure/resolve/main/Poofesure_v2.zip?download=true,160
-Troy Mcclure (Simpson) (vocie actor Phil Hartman) [GPTSOVITS] [20 pochs both],https://huggingface.co/Loren85/Troy-McClure-Gpt-model/resolve/main/troy%20Gpt.zip?download=true,
-Brittany Murphy RVCV2 V3 2975 Epoch,https://huggingface.co/MrJordanL/Brittany_Murphy_RVC2/resolve/main/BrittanyMurphyV3.zip?download=true,2975
-Wheatley (Portal Series) - (TITAN-Pretrain) (RVMPE 40k) (100 epochs),https://huggingface.co/Homiebear/WheatleyTITAN/resolve/main/README.md?download=true,100
-"Hammer Bro (Super Mario Franchise) - RVC v2, 100 Epochs",https://huggingface.co/Xhepyxopila/MarioRVCModels/resolve/main/hammerbro.zip?download=true,100
-"Amahane Miran (VSinger) - Talking | RVC v2, 230 Epochs, TITAN Medium",https://huggingface.co/listra92/MyRVC/resolve/main/AmahaneMiran_e230_s8280.zip?download=true,230
-MattKC (RVC V2) (220 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/MattKC/resolve/main/Matt_KC_e220_s15840.zip?download=true,220
-Sonic The Hedgehog (FNF:RodentRap/Sonic Legacy) (RVC V2-Ov2) (170 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Sonic_The_Hedgehog_FNF_RodentRap_Sonic_Legacy/resolve/main/Sonic_The_Hedgehog_v2.zip?download=true,170
-Little (RWBY) (RVC v2) (730 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Little.zip?download=true,730
-Venom (Insomiacs : Marvel Spider-man 2) - (TITAN-Pretrain) (RVMPE 40k) (600 epochs),https://huggingface.co/Homiebear/VenomTITAN/resolve/main/Venom%20SM2-TITAN.zip?download=true,600
-Mutahar (SomeOrdinaryGamers) (RVC V2) (220 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Mutahar/resolve/main/Mutahar_e220_s25300.zip?download=true,220
-"General Grievous (Star Wars Battlefront II, RMVPE, TITAN PRETRAIN) 300 Epochs",https://huggingface.co/C0ttontheBunny/starwarsmodels/resolve/main/GeneralGrievousTITAN.zip?download=true,300
-"B1 Battle Droid (Star Wars Battlefront II/Clone Wars, RMVPE, TITAN PRETRAIN) 300 Epochs",https://huggingface.co/C0ttontheBunny/starwarsmodels/resolve/main/B1BattledroidTITAN.zip?download=true,300
-Glamrock Chica (FNaF: Security Breach) (RVC v2) (RIN_E3) (RMVPE) (500 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/GlamrockChica_500e.zip,500
-"Ethan Winters (RMVPE, RVC v2, 70 epochs, 6160steps)",https://huggingface.co/EthanWinters176/Ethan_Winters/resolve/main/Ethan%20Winters.zip?download=true,70
-"Master Chief (Halo series, Bungie trilogy) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/MasterChiefBungieTrilogy.zip,350
-"Bad Omens Noah Sebastian (RVC v2, RMVPE, 310 Epochs)",https://huggingface.co/deadniell/BadOmensNoahSebastian/resolve/main/BadOmens_NoahSebastian.zip?download=true,310
-"GoldoBasic (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/goldobasic/resolve/main/goldobasic.zip?download=true,200
-"ValleyGirl Glamrock Chica (Fnaf:SB - Unused Audio) - (RVC V2, RVMPE) - (500 epochs)",https://huggingface.co/Thatsnazzyartist22/ValleyGirl_Chica/resolve/main/ValleyGirl_GlamrockChica.zip?download=true,500
-Rozetked (RMVPE) (RVC Ov2.1Super40k) 400 epochs,https://huggingface.co/SimplCup/Rozetked/resolve/main/Rozetked.zip?download=true,400
-"Fort Minor - Remember the Name (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/RememberTheNameDrums.zip?download=true,300
-Baymax (Big Hero 6) - (TITAN-Pretrain) (RVMPE 40k) (250 epochs),https://huggingface.co/Homiebear/Baymax/resolve/main/Baymax-TITAN.zip?download=true,250
-Little Prince (Clash Royale) (OV2) (RVC V2) (32k) (Rmvpe) (450 epoch),https://huggingface.co/Goldeath/ClashRoyale/resolve/main/LittlePrinceOV2.zip?download=true,450
-"Eminem - Not Afraid (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/NotAfraidDrums.zip?download=true,300
-Michael Jackson (Invincible Era) (V3) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MJInvincibleEra2001V3/resolve/main/MJInvincibleEraV3.zip,300
-Michael Jackson (Invincible Era) (V2) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MJInivincibleEra2001V2/resolve/main/MJInivincibleEra2001V2.zip,300
-Luke Combs (2022-2023) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/LukeCombs22-23/resolve/main/LukeCombs22-23.zip,300
-Luke Combs (2017-2018) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/LukeCombs17-18/resolve/main/LukeCombs17-18.zip,300
-Wheatley (Portal Series) - (TITAN-Pretrain) (RVMPE 40k) (100 epochs),https://huggingface.co/Homiebear/WheatleyTITAN/resolve/main/README.md?download=true,100
-"Hammer Bro (Super Mario Franchise) - RVC v2, 100 Epochs",https://huggingface.co/Xhepyxopila/MarioRVCModels/resolve/main/hammerbro.zip?download=true,100
-"Amahane Miran (VSinger) - Talking | RVC v2, 230 Epochs, TITAN Medium",https://huggingface.co/listra92/MyRVC/resolve/main/AmahaneMiran_e230_s8280.zip?download=true,230
-MattKC (RVC V2) (220 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/MattKC/resolve/main/Matt_KC_e220_s15840.zip?download=true,220
-Sonic The Hedgehog (FNF:RodentRap/Sonic Legacy) (RVC V2-Ov2) (170 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Sonic_The_Hedgehog_FNF_RodentRap_Sonic_Legacy/resolve/main/Sonic_The_Hedgehog_v2.zip?download=true,170
-Little (RWBY) (RVC v2) (730 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Little.zip?download=true,730
-Venom (Insomiacs : Marvel Spider-man 2) - (TITAN-Pretrain) (RVMPE 40k) (600 epochs),https://huggingface.co/Homiebear/VenomTITAN/resolve/main/Venom%20SM2-TITAN.zip?download=true,600
-Mutahar (SomeOrdinaryGamers) (RVC V2) (220 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Mutahar/resolve/main/Mutahar_e220_s25300.zip?download=true,220
-"General Grievous (Star Wars Battlefront II, RMVPE, TITAN PRETRAIN) 300 Epochs",https://huggingface.co/C0ttontheBunny/starwarsmodels/resolve/main/GeneralGrievousTITAN.zip?download=true,300
-"B1 Battle Droid (Star Wars Battlefront II/Clone Wars, RMVPE, TITAN PRETRAIN) 300 Epochs",https://huggingface.co/C0ttontheBunny/starwarsmodels/resolve/main/B1BattledroidTITAN.zip?download=true,300
-Glamrock Chica (FNaF: Security Breach) (RVC v2) (RIN_E3) (RMVPE) (500 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/GlamrockChica_500e.zip,500
-"Ethan Winters (RMVPE, RVC v2, 70 epochs, 6160steps)",https://huggingface.co/EthanWinters176/Ethan_Winters/resolve/main/Ethan%20Winters.zip?download=true,70
-"Master Chief (Halo series, Bungie trilogy) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/MasterChiefBungieTrilogy.zip,350
-"Bad Omens Noah Sebastian (RVC v2, RMVPE, 310 Epochs)",https://huggingface.co/deadniell/BadOmensNoahSebastian/resolve/main/BadOmens_NoahSebastian.zip?download=true,310
-"GoldoBasic (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/goldobasic/resolve/main/goldobasic.zip?download=true,200
-"ValleyGirl Glamrock Chica (Fnaf:SB - Unused Audio) - (RVC V2, RVMPE) - (500 epochs)",https://huggingface.co/Thatsnazzyartist22/ValleyGirl_Chica/resolve/main/ValleyGirl_GlamrockChica.zip?download=true,500
-Rozetked (RMVPE) (RVC Ov2.1Super40k) 400 epochs,https://huggingface.co/SimplCup/Rozetked/resolve/main/Rozetked.zip?download=true,400
-"Fort Minor - Remember the Name (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/RememberTheNameDrums.zip?download=true,300
-Baymax (Big Hero 6) - (TITAN-Pretrain) (RVMPE 40k) (250 epochs),https://huggingface.co/Homiebear/Baymax/resolve/main/Baymax-TITAN.zip?download=true,250
-Little Prince (Clash Royale) (OV2) (RVC V2) (32k) (Rmvpe) (450 epoch),https://huggingface.co/Goldeath/ClashRoyale/resolve/main/LittlePrinceOV2.zip?download=true,450
-"Eminem - Not Afraid (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/NotAfraidDrums.zip?download=true,300
-Michael Jackson (Invincible Era) (V3) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MJInvincibleEra2001V3/resolve/main/MJInvincibleEraV3.zip,300
-Michael Jackson (Invincible Era) (V2) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MJInivincibleEra2001V2/resolve/main/MJInivincibleEra2001V2.zip,300
-Luke Combs (2022-2023) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/LukeCombs22-23/resolve/main/LukeCombs22-23.zip,300
-Luke Combs (2017-2018) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/LukeCombs17-18/resolve/main/LukeCombs17-18.zip,300
+Name,Link
+IShowSpeed ASMR (TITAN-Medium Ver) (RVC v2) (TITAN-Medium) (RMVPE) (238 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/SpeedASMR_e238_s952.zip
+"Luigi (Nintendo DS sound quality) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/LuigiNintendoDS.zip
+"Mario (Nintendo DS sound quality) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/MarioNintendoDS.zip
+"Mick Foley (RVC V2, 100 Epochs, Ov2)",https://huggingface.co/dacoolkid44/Random-RVC/resolve/main/MickFoley.zip?download=true
+"Dwayne Forge (Grand Theft Auto IV) (RVC V2, OV2, RMVPE) (250 Epochs)",https://huggingface.co/BibEBobberson/BibRVC/resolve/main/Dwayne.zip?download=true
+Pripyat - Chernobyl Original voice Evacuation (1986) [RVCV2] [SnowieV3] [250 Epochs],https://huggingface.co/Loren85/Chernobyl-Pripyat-evacuation-voice/resolve/main/Voice%20Evacuation%20Pripyat%20-%20Chernobyl.zip?download=true
+Wii Sports Announcer (RVC V2-TITAN Pretrain) (200 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Wii_Sports_Announcer/resolve/main/Wii_Sports_Announcer_v2.zip?download=true
+"Nintendo DS 2004 Commercial Voice (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/NintendoDSCommercial2004.zip
+Matt From Wii Sports (RVC V2) (1000 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Matt_From_Wii_Sports/resolve/main/Matt_From_Wii_Sports.zip?download=true
+JVKE (RVC v2/rmvpe/OV2) 300 epochs,https://huggingface.co/Gridsada/YSNAiVoiceModel/resolve/main/JVKE300e.zip?download=true
+"Vox (Hazbin Hotel, Italian Dub) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/Vox/resolve/main/Vox.zip?download=true
+"Valentino (Hazbin Hotel, Italian Dub) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/Valentino/resolve/main/Valentino.zip?download=true
+"Pierdestro (Italian Tiktoker) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/Pierdestro/resolve/main/Pierdestro.zip?download=true
+Clyde Donovan [V2] (South Park) (RMVPE / RVC-V2 / 600 Epochs),https://huggingface.co/RandomlyCreatedAI/ClydeDonovanV3/resolve/main/ClydeDonovanV3.zip
+Angel Dust (V2)(italian Dub)(Hazbin Hotel)(voice actor Riccardo Suarez)[RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/Angel-Dust-V2-Ita-Dub/resolve/main/Angel%20Dust%20ita%20V2.zip?download=true
+Korean Girl Vol7 Ver2 [한국 여성 목소리] RVC V2 / KLMv7sE / 600 Epochs,https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/KoreanGirl_Vol7v2.zip?download=true
+"Mary Poppins (Emily Blunt, Mary Poppins Returns) [RVCv2, TITAN, RMVPE] [120 Epochs]",https://huggingface.co/huckleberrypie/BluntPoppins/resolve/main/BluntPoppins_RVCv2.zip?download=true
+"Finn/Финн (Adventure Time) (Russian Dub) (RVC V2, Snowie V3 Pretrain) [400 Epochs]",https://huggingface.co/iamalexcaspian/Finn-AdventureTime-RusDub-SnowieV3/resolve/main/Finn-AdventureTime-RusDub-SnowieV3.zip?download=true
+"Martha Lorraine (Martha Speaks) - RVC v2, 200 Epochs, RMVPE, TITAN Pretrain",https://huggingface.co/Xhepyxopila/MiscCartoonModelsRVC/resolve/main/MarthaSpeaks.zip?download=true
+Jesse The Telemarketer (RVC V2-TITAN Pretrain) (160 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Jesse_Telemarketer/resolve/main/Jesse_Telemarketer_e160_s1600.zip?download=true
+Nick Avocado (RVC V2-TITAN Pretrain) (270 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Nickavacado/resolve/main/Nickavacado.zip?download=true
+Boyfriend FNF erect update RVC v2 200 epochs,https://huggingface.co/mrcreeper5/Boyfriendv3/resolve/main/bfv3.zip?download=true
+Minerva (The Walking Dead Telltale Game) (Titan Pretrain) (RVC V2) (RMVPE 40K) (290 epochs),https://huggingface.co/Cauthess/MinervaTWD/resolve/main/Minerva%20-%20Walking%20Dead.zip?download=true
+Big The Cat (Sonic Heroes) (TITAN pretrain) (RVC v2) (180 Epochs),https://huggingface.co/thedoodooman/experimentalrvcmodels/resolve/main/BigTheCat_TitanRemake.zip?download=true
+"Gark (Counterfeit Cat/Псевдокот) Russian Dub (RVC V2) (SnowieV3, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/Gark_RUS/resolve/main/Gark_RUS.zip?download=true
+JT from City Girls (RVCv2 250 Epoch),https://huggingface.co/jentiecult/thatgirljt/resolve/main/thatgirljt.zip?download=true
+"Omi (Xiaolin Showdown DS) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/OmiXiaolinShowdownDS.zip
+"Peter Parker/Spider-Man (Tobey Maguire, Sam Raimi Spider-Man PC game) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/dbffe1f352d3e587adea5924cb1096201d1bcb68/SpiderManTobeyMaguire.zip?download=true
+Matt Willis (Busted) (TITAN) (RVC v2) (RMVPE) (300 Epochs),https://huggingface.co/SUP3RMASS1VE/Matt-Willis/resolve/main/Matt%20Willis%20(TITAN).zip?download=true
+"Max (Counterfeit Cat/Псевдокот) Russian Dub (RVC V2) (SnowieV3, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/Max_RUS/resolve/main/Max_RUS.zip?download=true
+Morgan Wallen (V2) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MorganWallenV2/resolve/main/MorganWallenV2.zip
+"Darnell (Friday Night Funkin) 300 Epochs, Titan, RMVPE, RVC V2",https://huggingface.co/BunnyToon/darnel/resolve/main/darnell.zip?download=true
+Yoru (Daisuke Takahashi) (Vanlorant) (TITAN) (RVC V2) (32k) (Rmvpe) (150 epoch),https://huggingface.co/Goldeath/Valorant/resolve/main/YoruTITAN-Medium.zip?download=true
+"Gnarly [Smiling Friends] (OV2, RMVPE) (RVC V2) 300 Epochs",https://huggingface.co/MrSneakyD/SmilingFriends_RVC_Models/resolve/main/Gnarly-FrowningFriends.zip
+"Grim [Smiling Friends] (OV2, RMVPE) (RVC V2) 300 Epochs",https://huggingface.co/MrSneakyD/SmilingFriends_RVC_Models/resolve/main/Grim-FrowningFriends.zip
+"Playboi Carti - Mi$fit (RMVPE, RVC v2, 250 Epochs, OV2)",https://huggingface.co/y0usly/MisfitCarti_250_Epochs/resolve/main/Mi%24fitCarti.zip?download=true
+"""Mustard on the beat, hoe"" (RVC v2) (RIN_E3) (RMVPE) (500 epochs)",https://huggingface.co/NewTab/RVCModelsV1orV2/resolve/main/MustardOnTheBeatHoe.zip?download=true
+Kratos UPDATED (God of War Ragnarok) (Christopher Judge) RVC V2 565 Epochs,https://huggingface.co/TheGreasyGamer/GoWKratosV2/resolve/main/GoWKratosV2.zip?download=true
+"SantiOkuu - Attack of the Stupid King (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/AttackOfTheStupidKingDrums.zip?download=true
+Megan Thee Stallion (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/szajean/MEGAN_BY_SZAJEAN/resolve/main/MEGAN_BY_SZAJEAN.zip?download=true
+Kevin Richardson (Backstreet Boys) (TITAN) (RVC v2) (RMVPE) (300 Epochs),https://huggingface.co/SUP3RMASS1VE/Kevin-Richardson/resolve/main/Kevin%20Richardson%20(TITAN).zip?download=true
+Samsung Notification(2020)(RVC V2)(RMVPE)(TITAN)(2000 Epochs - 1999 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/samsung%202020_e2000_s1999.zip?download=true
+Sera (Hazbin Hotel) (italian Dub) (vocie actor Domitilla D'Amico) [RVCV2] [Itaila] [200 Epochs],https://huggingface.co/Loren85/Sera-Italian-dub-hazbin-hotel-200/resolve/main/Sera%20Italian%20dub%20200.zip?download=true
+"Finn/Финн (Adventure Time) (Russian Dub) (RVC V2, RMVPE) [410 Epochs] (Ov2 Pretrain)",https://huggingface.co/iamalexcaspian/Finn-AdventureTime-RusDub/resolve/main/Finn-AdventureTime-RusDub.zip?download=true
+Brit Smith (RVC v2 400 epochs),https://huggingface.co/Kremixes/brit/resolve/main/britsmith.zip?download=true
+"Darnell (Pico vs. Uberkids, Friday Night Funkin', Newgrounds) | RVC v2 | RVMPE | Ov2 | 300 Epochs",https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/darnell.zip?download=true
+Tool Gun (Garry's Mod) (RVC v2) (TITAN-Medium) (RMVPE) (1000 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/GmodToolgun_1000e.zip
+"Sir Topham Hatt but only when he says ""SILENCE"" (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/Sir_Topham_Hatt_Silence/resolve/main/Sir_Topham_Hatt_Silence.zip?download=true
+Whis [DB-FighterZ | 🇺🇸] (RVC v2 | 150 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/Whis-FighterZ.zip?download=true
+"Moxxine (Helluva Boss) (RMVPE, RVC, v2) (400 Epoches)",https://huggingface.co/John2007john/Moxxine/resolve/main/Moxxine.zip?download=true
+"Jeffy (SuperMarioLogan) - RVC v2, 100 Epochs, OV2Super",https://huggingface.co/Xhepyxopila/SMLModels/resolve/main/JeffySML.zip?download=true
+Ketta (Breadwinners) [RMVPE] (RVC v2) (300 Epochs),https://huggingface.co/Elinvasor12/Otros_Personajes/resolve/main/Ketta_Eng.zip
+Noshiro (Azur Lane) [JP] (RVC v2) (220 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Noshiro-JP.zip?download=true
+"D.va (Overwatch) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/DvaOverwatch.zip
+"Literally the music from a video of Thomas Müller dancing (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/MusicOfThomasMullerDancingDrums.zip?download=true
+"Beaux ASMR (Rmvpe, RVC v2, 100 Epochs) (DMR Pretrain)",https://huggingface.co/PlayerBPlaytime/My-Models/resolve/main/BeauxASMR.zip
+"Packie McReary (Grand Theft Auto IV) (RVC V2, OV2, RMVPE) (210 Epochs)",https://huggingface.co/BibEBobberson/BibRVC/resolve/main/Packie.zip
+"ABBA - Gimme! Gimme! Gimme! (A Man After Midnight) (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/GimmeGimmeGimmeDrums.zip?download=true
+Asmodeus (sing voice) (Helluva Boss) [RVCV2] [Titan Petrain] [250 epochs],https://huggingface.co/Loren85/Asmodeus-Sing-voice/resolve/main/Asmodeus%20Sing.zip?download=true
+Creppy Theories (RVC V2) (500 Epochs) (Russian Youtuber) (Trained on Mi Chan Pretrain),https://huggingface.co/Player1444/AI.models/resolve/main/Creppy%20Theories%20(Trained%20on%20Mi%20chan).zip?download=true
+Pochonbo (North Korean Singer) (RVC V2 - KLM_v7s) (200 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Pochonbo/resolve/main/Pochonbo_e200_s4600.zip?download=true
+Olivia Rodrigo RVCv2 (2021-2023) [100 Epochs],https://huggingface.co/itt0lp/oliviasourguts/resolve/main/oliviarodrigo.zip?download=true
+"Quadra (BBEU, Japanese - CV: Azumi Asakura) (Updated) (RVC v2, RMVPE, 300 epochs, TITAN Pretrain)",https://huggingface.co/RegalHyperus/BeybladeBurstExpandedUniverseJapaneseRVCModels/resolve/main/QuadraBBEUJPV2.zip?download=true
+Roxanne Wolf (FNaF: Security Breach) (RVC v2) (RIN_E3) (RMVPE) (400 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/RoxanneWolf_400e.zip
+Runie Ruse (Phase Connect / VTuber) (RVC v2) - 320 Epochs,https://huggingface.co/sxndypz/rvc-v2-models/resolve/main/runie.zip
+The Kid Laroi (Fūck Love 3) RVC v2 - TITAN (400 Epochs),https://huggingface.co/pinguG/THE_KID_LAROI/resolve/main/fucklove3.zip
+"Car Singing (Friday Night Funkin' Hit Single) - RVC v2, 100 Epochs, RMVPE",https://huggingface.co/Xhepyxopila/MiscCartoonModelsRVC/resolve/main/Car.zip?download=true
+Baldi Patricia (DA Games) (RVC V2) (200 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Baldi_Patricia/resolve/main/Baldi_Patricia_v2.zip?download=true
+"Gummigoo (The Amazing Digital Circus - Ep:1) - (RVC V2, RMVPE) - (500 epochs)",https://huggingface.co/Thatsnazzyartist22/Gummigoo/resolve/main/GummiGoo_Final.zip?download=true
+LGR (RVC V2) (270 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/LGR/resolve/main/LGR.zip?download=true
+"Clockwork Zoo (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/clockworkzoo/resolve/main/clockworkzoo.zip?download=true
+Goomba (Super Mario Franchise) (RVC v2) (1000 Epochs),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/Goomba.zip?download=true
+Calliope Mori [RVC v2] [RMVPE] [Itaila] 200 Epochs 89000 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/CalliopeMori_RVC_v2_Itaila_e200_s89000.zip?download=true
+"Brucie Kibbutz (Grand Theft Auto IV) (RVC V2, OV2, RMVPE) (250 Epochs)",https://huggingface.co/BibEBobberson/BibRVC/blob/main/Brucie.zip
+"Beatkid, Coco, & Deeo - Key to My Core (Drums) (RVC v2, RMVPE, TITAN, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/KeyToMyCoreDrums.zip?download=true
+Morgan Wallen (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MorganWallen/resolve/main/MorganWallen.zip
+Sonic The Edgehog (Knuckles: Series/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam846/Sonic_Models/resolve/main/SonicJorgeRoig.zip?download=true
+"Princess Loolilalu (The Amazing Digital Circus) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/PrincessLoolilalu.zip
+2015 Samsung Notification Sound (RVC V2) (1000 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/2015_Samsung_Notification_Sound/resolve/main/_2015_Samsung_Notification_Sound_v2.zip?download=true
+Nori Doorman - Murder Drones  (RVC V2) (rmvpe) (600 Epochs),https://huggingface.co/Freaky98/Nori-rvc-v2-600e/resolve/main/Nori-rvc-v2-600e.zip?download=true
+"Дорогой, где ты был? (Russian Meme) (RMVPE) (RVC v2) (250 Epochs)",https://huggingface.co/Stepan2033/Models/resolve/main/Sweetie.zip?download=true
+"No Shave No Haircut Guy (Instagram Page) (RVC V2, OV2) (100 Epochs)",https://huggingface.co/FanFierik/NoShaveNoHaircut/resolve/main/NoShaveNoHaircut.zip?download=true
+iPhone Radar(RVC V2)(RMVPE)(TITAN)(1070 Epochs - 2138 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/iPhone%20Radar_e1070_s2138.zip?download=true
+Wanna Break From The Ads Guy (Spotify) (RVC V2-Ov2) (250 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Wanna_Break_From_The_Ads_Guy/resolve/main/Wanna_Break_From_The_Ads_Guy.zip?download=true
+Poofesure (RVC V2) (160 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Poofesure/resolve/main/Poofesure_v2.zip?download=true
+Brittany Murphy RVCV2 V3 2975 Epoch,https://huggingface.co/MrJordanL/Brittany_Murphy_RVC2/resolve/main/BrittanyMurphyV3.zip?download=true
+"Hammer Bro (Super Mario Franchise) - RVC v2, 100 Epochs",https://huggingface.co/Xhepyxopila/MarioRVCModels/resolve/main/hammerbro.zip?download=true
+"Amahane Miran (VSinger) - Talking | RVC v2, 230 Epochs, TITAN Medium",https://huggingface.co/listra92/MyRVC/resolve/main/AmahaneMiran_e230_s8280.zip?download=true
+MattKC (RVC V2) (220 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/MattKC/resolve/main/Matt_KC_e220_s15840.zip?download=true
+Sonic The Hedgehog (FNF:RodentRap/Sonic Legacy) (RVC V2-Ov2) (170 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Sonic_The_Hedgehog_FNF_RodentRap_Sonic_Legacy/resolve/main/Sonic_The_Hedgehog_v2.zip?download=true
+Little (RWBY) (RVC v2) (730 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Little.zip?download=true
+Mutahar (SomeOrdinaryGamers) (RVC V2) (220 Epochs) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Mutahar/resolve/main/Mutahar_e220_s25300.zip?download=true
+Glamrock Chica (FNaF: Security Breach) (RVC v2) (RIN_E3) (RMVPE) (500 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/GlamrockChica_500e.zip
+"Ethan Winters (RMVPE, RVC v2, 70 epochs, 6160steps)",https://huggingface.co/EthanWinters176/Ethan_Winters/resolve/main/Ethan%20Winters.zip?download=true
+"Master Chief (Halo series, Bungie trilogy) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/MasterChiefBungieTrilogy.zip
+"Bad Omens Noah Sebastian (RVC v2, RMVPE, 310 Epochs)",https://huggingface.co/deadniell/BadOmensNoahSebastian/resolve/main/BadOmens_NoahSebastian.zip?download=true
+"GoldoBasic (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/goldobasic/resolve/main/goldobasic.zip?download=true
+"ValleyGirl Glamrock Chica (Fnaf:SB - Unused Audio) - (RVC V2, RVMPE) - (500 epochs)",https://huggingface.co/Thatsnazzyartist22/ValleyGirl_Chica/resolve/main/ValleyGirl_GlamrockChica.zip?download=true
+Rozetked (RMVPE) (RVC Ov2.1Super40k) 400 epochs,https://huggingface.co/SimplCup/Rozetked/resolve/main/Rozetked.zip?download=true
+"Fort Minor - Remember the Name (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/RememberTheNameDrums.zip?download=true
+Little Prince (Clash Royale) (OV2) (RVC V2) (32k) (Rmvpe) (450 epoch),https://huggingface.co/Goldeath/ClashRoyale/resolve/main/LittlePrinceOV2.zip?download=true
+"Eminem - Not Afraid (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/NotAfraidDrums.zip?download=true
+Michael Jackson (Invincible Era) (V3) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MJInvincibleEra2001V3/resolve/main/MJInvincibleEraV3.zip
+Michael Jackson (Invincible Era) (V2) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/MJInivincibleEra2001V2/resolve/main/MJInivincibleEra2001V2.zip
+Luke Combs (2022-2023) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/LukeCombs22-23/resolve/main/LukeCombs22-23.zip
+Luke Combs (2017-2018) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/LukeCombs17-18/resolve/main/LukeCombs17-18.zip
+Brantley Gilbert (2013-2014) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/BrantleyGilbert13-14/resolve/main/BrantleyGilbert13-14.zip
+Brantley Gilbert (2022-2023) (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/mjfan1999/BrantleyGilbert23-24/resolve/main/BrantleyGilbert23-24.zip
+"Kagami Chihiro [RVC V2, 550 Epochs, RMVPE] [Blue Archive]",https://huggingface.co/TokiBotan/KagamiChihiroRVCV2/resolve/main/KagamiChihiro.zip?download=true
+AlphaJayShow (RMVPE) (RVC V2/TITAN) (298 Epochs),https://huggingface.co/MusologyWavey/MusologyRVC/resolve/main/AlphaJayShow.zip?download=true
+MsBigSausage (RMVPE) (RVC Ov2.1Super) 400 epochs,https://huggingface.co/SimplCup/MsBigsausage/resolve/main/MsBigSausage.zip?download=true
+Plainrock124 (RVC V2) (200 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Plainrock124/resolve/main/Plainrock124_e200_s14600.zip?download=true
+Rare Americans (frontman voice) [RVCV2] [TITAN Petrain] [300 Epochs],https://huggingface.co/Loren85/Rare-Americans-Frontman-voice/resolve/main/Rare%20Americans%20Frontman%20voice.zip?download=true
+"Usada Pekora (Hololive) | RVC v2, 241 Epochs, TITAN Medium",https://huggingface.co/listra92/MyRVC/resolve/main/Pekora_e241_s4820.zip?download=true
+Shahra (Sonic And The Secret Rings) (RVC V2) (240 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Shahra/resolve/main/Shahra_e240_s31920.zip?download=true
+"Tokino Sora (Hololive) | RVC v2, 210 Epochs",https://huggingface.co/listra92/MyRVC/resolve/main/TokinoSora_e210_s12810.zip?download=true
+"Tulus (Manusia Era, REVAMP 40k) (Indonesian Artist) (RVC V2) (500 Epochs, RMVPE)",https://huggingface.co/ABF54/ABFRVC/resolve/main/TulusManusiaEra_Revamp40k.zip?download=true
+Denisse Guerrero [ Belanova ] | RVC v2 | 320 Epoch,https://huggingface.co/mrf824/Belanova/resolve/main/Belanova_Denisse_320Epoch.zip?download=true
+Tien Shinhan [DB-FighterZ | 🇺🇸] (RVC v2 | 250 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/TienShinhan-FighterZ.zip?download=true
+"TV Static (RVC V2) (OV2, RMVPE, 200 Epochs, 1200 Steps)",https://huggingface.co/GoldoBasic/tvstatic/resolve/main/TV_STATIC.zip?download=true
+Yamcha [DB-FighterZ | 🇺🇸] (RVC v2 | 150 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/Yamcha-FighterZ.zip?download=true
+"RecD - Twinsomnia W/Lyrics - Boy - (RVC V2, RMVPE) - (300 epochs)",https://huggingface.co/Thatsnazzyartist22/Boy/resolve/main/RecD%20Boy.zip?download=true
+"Caine (TADC) - (RVC V2, RMVPE) - (100 epochs)",https://huggingface.co/Thatsnazzyartist22/Caine/resolve/main/CaineFinal.zip?download=true
+Harley Quinn V2 - (Batman: The Enemy Within) (Titan Pretrain) (RVC V2) (RVMPE 32K) (410 epochs),https://huggingface.co/Cauthess/HarleyQuinnTitanPretrain/resolve/main/Harley%20Quinn%20Version%202%20-%20Enemy%20Within.zip?download=true
+"MrPeto (Italian Ex-Youtuber) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/MrPeto/resolve/main/MrPeto.zip?download=true
+"Zerbiian (Italian Youtuber) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/Zerbiian/resolve/main/Zerbiian.zip?download=true
+Vittorio Vento (Azur Lane) [JP] (RVC v2) (350 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Vittorio-Vento-JP.zip?download=true
+"CaptainBlazer (Italian Youtuber) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/CaptainBlazer/resolve/main/CaptainBlazer.zip?download=true
+"Dark Queen (Battletoads 2020) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/DarkQueenBattletoads2020.zip
+"Clyde McBride (The Loud House, seasons 3-5, Andre Robinson) (RVC V2, RMVPE) [400 Epochs]",https://huggingface.co/iamalexcaspian/ClydeMcBride-TLH-AndreRobinson/resolve/main/ClydeMcBride-TLH-AndreRobinson.zip?download=true
+"Eminem - Mockingbird (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/MockingbirdDrums.zip?download=true
+"Filename2 (Baldi's Basics) - (RVC V2, RMVPE) - (300 epochs_",https://huggingface.co/Thatsnazzyartist22/FileName2/resolve/main/FileName2Final.zip?download=true
+"NewJeans - Gods (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/GodsDrums.zip?download=true
+"Candace Flynn (Phineas and Ferb) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/CandaceFlynn.zip
+"Beta Luigi (FNF: Mario's Madness) (RVC V2, OV2Super Pretrain) (RMVPE) 300 Epochs",https://huggingface.co/Timur04129/Luigi-Beta-FNF/resolve/main/Luigi-Beta-FNF.zip?download=true
+Helldivers 2 Automatons (RVC v2)  (RMVPE) (500 Epochs),https://huggingface.co/puro-changed/rvc_models/resolve/main/helldivers_2_automatons.zip?download=true
+Alexandra Stan (RVC v2) [trained with Replay],https://huggingface.co/DJ491/AlexandraStan/resolve/main/Alexandra%20Stan.zip?download=true
+Akari Yukino (RVC V2) (TITAN Pretrain) (RMVPE) (200 Epochs),https://huggingface.co/CrimsonZockt/RVC-Model/resolve/main/AkariYukino.zip
+Michael Jackson (Jackson Five Era) (Young voice) [RVCV2] [TITAN Petrain] [300 Epochs],https://huggingface.co/Loren85/Michael-Jackson-young-JK5/resolve/main/Michael%20jackson%20JK5%20voice%20(Young%20voice).zip?download=true
+"Industry Baby in the Ocean (Hybrid Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitFusionRVCModels/resolve/main/IndustryBabyInTheOceanHybridDrums.zip?download=true
+Lady Gaga (Poker Face FX) RVC v2 - 400 Epochs (TITAN),https://huggingface.co/VectorLua/Modelos/resolve/main/GagaPokerFaceVocal.zip
+"Pudding/Компот (Kid-E-Cats/Три Кота, Rus Dub) | RVC v2 | RVMPE | Titan | 500 Epochs",https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/Kompot.zip?download=true
+Halo(Master Chief)(RVC V2)(RMVPE)(TITAN)(40k Rate)(501 Epochs - 5000 Steps)(For Talking),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/Master%20Chief_e501_s5000.zip?download=true
+Android 21 [Retrained] [FighterZ | 🇺🇸] (RVC v2 | 100 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/Android21-FighterZ.zip?download=true
+Montgomery Gator (FNaF: Security Breach) (RVC v2) (RIN_E3) (RMVPE) (500 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/MontgomeryGator_500e.zip
+CatNap (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam846/Poppy_Spanish/resolve/main/CatNapV2Latino.zip?download=true
+Meghan Trainor (RMVPE 40k) (380 epoch) (RVC v2),https://huggingface.co/marcx/RVCModelsbyMarc/resolve/main/Meghan_Trainor.zip?download=true
+Vailskibum (Cartoon Youtuber) [TITAN Pretrained] (RVC 2/RVMPE) (240 Epochs),https://huggingface.co/MusologyWavey/MusologyRVC/resolve/main/Valkisbum.zip?download=true
+"Pac-Man Vs. Announcer (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/PacManVSAnnouncer.zip
+"Pac-Man (Debi Derryberry, Street Fighter X Tekken) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/PacManDD.zip
+"Camilo (Encanto - Disney) - (RVC V2, RMPVE) - (500 epochs)",https://huggingface.co/Thatsnazzyartist22/Camilo/resolve/main/Camilio%20final.zip?download=true
+"Ghost (Call of Duty: Modern Warfare 2) - (RVC V2, RMVPE) - (300 epochs)",https://huggingface.co/Thatsnazzyartist22/Ghost_COD-MW2/resolve/main/Ghost%20COD.zip?download=true
+Willow Park (The Owl house) (italian Dub) (voice actor Marta Filippi) [RVCV2] [Itaila] [250 epochs],https://huggingface.co/Loren85/Willow-Park-THO-Dub-Ita/resolve/main/Willow-the-owl-house-Ita.zip?download=true
+"Phineas Flynn (Phineas and Ferb) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/PhineasFlynn.zip
+"If I Can Stop One Heart from Breaking (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/IfICanStopOneHeartFromBreakingDrums.zip?download=true
+"Bruno Mars - That's What I Like (Drums, Updated) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/rvc-v2-drum-models/resolve/main/ThatIsWhatILikeDrumsV2.zip?download=true
+Nuova versione di MatteoHS (Italian streamer) (OV2) (RVCV2) (400 Epochs),https://huggingface.co/Gianlu0712/MatteoHS_NEW/resolve/main/MatteoHs%20NEW.zip?download=true
+Erik Gronwall (TITAN) (RMVPE) (RVC v2) (300 Epochs),https://huggingface.co/SUP3RMASS1VE/Erik-Gronwall/resolve/main/Erik%20Gronwall%20(TITAN).zip?download=true
+Vito Filliponio (The Loud House/The Casagrandes) (RVC V2) [400 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/VitoFilliponioTLH-CG/resolve/main/VitoFilliponioTLH-CG.zip?download=true
+"SZA Live (RVC v2, 350 Epoch)",https://huggingface.co/jentiecult/szalive/resolve/main/szalive.zip?download=true
+"Capo Plaza (Without Autotune) (Italian Rapper) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/CapoPlaza/resolve/main/CapoPlaza.zip?download=true
+Gregory (FNAF Security Breach) (RVC2) (TITAN Pretrained) (273 epochs),https://huggingface.co/MusologyWavey/MusologyRVC/resolve/main/Gregory%20(FNAF%20Secruity%20Breach).zip?download=true
+"Raito - Gathers Under Night... (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/GathersUnderNightDrums.zip?download=true
+"The World Red Army - Glory Glory Man United (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/GloryGloryManUnitedDrums.zip?download=true
+Micheal Jackson(Thriller Era)(RVC V2)(RMVPE)(TITAN)(500 Epochs - 3990 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/Micheal%20Jackson(Thriller%20Era)_e500_s3990.zip?download=true
+Adelaide Chang (The Loud House/The Casagrandes) (RVC V2) [405 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/AdelaideChangTLH-CG/resolve/main/AdelaideChangTLH-CG.zip?download=true
+Mater (RVC V2) (Cars) (Rus Dub) (500 Epochs) (Trained on Snowie V3),https://huggingface.co/Player1444/AI.models/resolve/main/Mater-rus%20dub%20(Trained%20on%20Snowie%20V3).zip?download=true
+Sonic (Sonic 06) (RVC V2) (280 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Sonic_06/resolve/main/Sonic_06_v2.zip?download=true
+Silver (Sonic The Hedgehog/Sonic 06) (RVC V2) (300 E) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Silver_06/resolve/main/Silver_06_v2.zip?download=true
+By The Seaside (DELTARUNE Chapter 1) (KRIS&SUSIE) (rmvpe) (150 epochs each) (RVC v2),https://huggingface.co/springCL/Kris/resolve/main/krisdreemurv2.zip?download=true
+Choco Yuzuki [RVC v2] [RMVPE] [Itaila] 100 Epochs 50000 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/ChocoYuzuki_RVC_v2_Itaila_e100_s50000.zip?download=true
+"Black Gryph0n & Baasik - Insane (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/InsaneDrums.zip?download=true
+Baldi (Baldi's Basics And Education And Learning) (RVC V2) (270 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Baldi/resolve/main/Baldi.zip?download=true
+"Shanghai Alice (Neptunia;Sisters Vs Sisters-EN) [250 Epochs, RVC V2 - SnowieV3xRIN_E3)",https://huggingface.co/CRoyce/Models_I_make/resolve/main/shanghai_alice_en.zip?download=true
+Chainsaw Sound Effect (RVC V2) (400 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Chainsaw/resolve/main/Chainsaw.zip?download=true
+"Glamrock Freddy - Five Nights at Freddy's: Security Breach (RVC v2, RMVPE, 119 epochs 7259 steps)",https://huggingface.co/martinvdv05/FNaF-SB/resolve/main/Glamrock-Freddy.zip?download=true
+Pbs Kids Announcer (1999-2002) (rmvpe) (200 Epochs) (RVC2),https://huggingface.co/MrDorian/PbsAnnouncer/resolve/main/pbs.zip?download=true
+Butterfinger Voice Commercial 90s (The Simpson spot's)[RVCV2] [TITAN Petrain] [100 Epochs],https://huggingface.co/Loren85/Butterfinger-voice-90s-spot-simpson/resolve/main/Butterfinger%20voice%20commercial%2090s%20simpson.zip?download=true
+TTS Discord(RVC V2)(RMVPE)(TITAN-Medium)(503 Epochs - 3510 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/TTS%20Discord_e503_s3510.zip?download=true
+Muzan Kibutsuji (Toshihiko Seki) (Kimetsu No Yaiba) (SnowieV3.1) (RVC V2) (40k) (Rmvpe) (150 epoch),https://huggingface.co/Goldeath/MuzanKibutsuji/resolve/main/MuzanKibutsuji545dSnowieV3.1-40k.zip
+Lincoln Loud/Линкольн Лауд (The Loud House Russian Dub Мой шумный дом) (RVC V2) [210 epochs] (RMVPE),https://huggingface.co/iamalexcaspian/LincolnLoud-TheLoudHouse-RusDub/resolve/main/LincolnLoud-TheLoudHouse-RusDub.zip?download=true
+Random Indian Tutorial Voice (RVC V2) (270 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Random_Indian_Tutorial_Voice/resolve/main/Random_Indian_Tutorial_Voice.zip?download=true
+"[Malice] Gwen Stefani (250 Epochs RVC V2) (Ov2, RMVPE)",https://huggingface.co/Cool629/GamePack/resolve/main/Malice(gwen).zip
+"Original Broadway cast of ""Hamilton"" - My Shot (Drums) (RVC v2 RMVPE SnowieV3 x Rin_E3 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/MyShotDrums.zip?download=true
+Sodachi Oikura (Monogatari Series) (RVC V2) (RVMPE) (300 Epochs),https://huggingface.co/1ski/1skiRVCModels/resolve/main/sodachiv3.zip?download=true
+"Jimmy Thang (WarioWare series) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/JimmyThang.zip
+CatNap - Poppy Playtime (recreation) (RVC V2) (rmvpe) (120 Epochs),https://huggingface.co/Freaky98/CatNap-rvc-v2-120e/resolve/main/CatNap-rvc-v2-120e.zip?download=true
+"TheTalentlessWriter (rmvpe) (RVC v2) (1,350 Epochs)",https://huggingface.co/WolfMK/Extra/resolve/main/TheTalentlessWriter.zip?download=true
+Pager Operator (GenSec) (PAYDAY 2) (RVC v2) (360 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Pager-Operator-GenSec.zip?download=true
+Mr. Puzzles - SMG4 (RVC V2) (rmvpe) (300 Epochs),https://huggingface.co/Freaky98/mr_puzzles_rvc_v2_300e/resolve/main/mr_puzzles_rvc_v2_300e.zip?download=true
+"Kamen Rider Girls - Toki no Hana (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/TokiNoHanaDrums.zip?download=true
+"Yûki Hayashi - You Say Run (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/YouSayRunDrums.zip?download=true
+Tiny Noise (the owl house) (voice actor Dana Terrace) [RVCV2] [TITAN Petrain] [100 Epochs],https://huggingface.co/Loren85/Tiny-nose-THO-Dana-Terrace/resolve/main/Tiny%20noise%20The%20owl%20house.zip?download=true
+Uzawa Reisa (Blue Archive) (RVC V2-Ov2) (200 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Reisa/resolve/main/Reisa_e200_s1800.zip?download=true
+Klaus Meine (Scorpions)(1988-1990) (RVC v2) (RMVPE) (700 Epochs),https://huggingface.co/OrcunAICovers/General_Voice_Models/resolve/main/klaus8890.zip?download=true
+Everyone Knows That / Ulterior Motives Singer (RVC V2) [300 Epochs - RMVPE],https://huggingface.co/TheStinger/ulteriormotivesv2/resolve/main/ulteriormotivesv2.zip?download=true
+Disney Fastplay Announcer (RVC V2-Ov2) (275 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Disney_Fastplay_Announcer/resolve/main/Disney_Fastplay_Announcer_v2.zip?download=true
+Curly Brace (FNF:Funk Story) (RVC V2) (300 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Curly_Brace/resolve/main/Curly_Brace_v2.zip?download=true
+Literally Pizza Pizza From The Little Caesars Commercial (RVC V2) (1000 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Pizza_Pizza/resolve/main/PizzaPizza.zip?download=true
+"Hakui Koyori - WAO!! (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/WaoDrums.zip?download=true
+Space Chip (Youtuber) (RVC V2) (200 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Space_Chip/resolve/main/Space_Chip_e200_s5600.zip?download=true
+"tristana (KR League of Legends) (RVC v2 , KLM , RMVPE) (800 Epochs)",https://huggingface.co/2star/tristana/resolve/main/tristana_KLM.zip?download=true
+Giorgio Vanni (New Version) (singer cartoons e anime) [RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/giorgio-vanni-new-version/resolve/main/Giorgio%20vanni%20new%20version--.zip?download=true
+"Narrator - The Stanley Parable: Ultra Deluxe (RVC v2, RMVPE, 278 epochs)",https://huggingface.co/martinvdv05/Narrator_Stanley_Parable/resolve/main/Narrator-TSP.zip?download=true
+"Hayase Yuuka (Blue Archive) (RVC V2, RMVPE) 350 Epochs",https://huggingface.co/Timur04129/Hayase-Yuuka/resolve/main/Hayase-Yuuka.zip?download=true
+Teamspeak 3(Male)(RVC V2)(RMVPE)(TITAN-Medium)(700 Epochs - 4192 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/TeamSpeak%20Male_e700_s4192.zip?download=true
+"Sameer (The Casagrandes, Nour Jude Assaf) (RVC V2) [200 Epochs] (Ov2 Pretrain) (RMVPE)",https://huggingface.co/iamalexcaspian/Sameer-TheCasagrandes-NourJudeAssaf/resolve/main/Sameer-TheCasagrandes-NourJudeAssaf.zip?download=true
+"Angel Dust Voz De Canto - (Hazbin Hotel/Brazil Português) RVC V2, Ov2, 300 Epochs",https://huggingface.co/BunnyToon/angel-cantando/resolve/main/angel%20cantando.zip?download=true
+"Korean actor Park Eun-bin (Strange Lawyer Woo Young-woo) version (RVC v2, RMVPE, 100 epochs)",https://huggingface.co/YangPa/wYUNGw/resolve/main/wYUNGw.zip?download=true
+"Runaway Starfruit (Hybrid Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitFusionRVCModels/resolve/main/RunawayStarfruitHybridDrums.zip?download=true
+Literally The VeggieTales Tuba (RVC V2) (400 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Veggietales_Tuba/resolve/main/Veggie_Tales_Tuba.zip?download=true
+Sung Jinwoo - English Dub (Solo Leveling) (RVC V2) (OV2) (RMPVE 32K) (150 epoch),https://huggingface.co/Cauthess/SungJinWoo/resolve/main/Sung%20Jinwoo%20-%20Solo%20Leveling.zip?download=true
+Elsa Frozen Brazilian Portuguese (RVC V2) 300 EPOCH RMVPE,https://huggingface.co/jaguleirah/modelos/resolve/main/elsabr.zip
+Knuckles (Sonic The Hedgehog 2/Knuckles) (RVC V2-Ov2) (250 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Knuckles_Sonic_The_Hedgehog_2_Knuckles/resolve/main/Knuckles_Sonic_The_Hedgehog_2_Knuckles.zip?download=true
+"Korean Girl Voice Model Vol7 - [RVC V2, 300 Epochs, KLMv7s]",https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/KoreanGirl_Vol7.zip?download=true
+"Rouge (Sonic the Hedgehog games, Kathleen Delaney) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/RougeKD.zip
+Grandpa (Caillou) (RVC V2) (240 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Caillou_Grandpa/resolve/main/Grandpa_e240_s2160.zip?download=true
+"AI Plankton saying ""Dr. Jr."" and other things (AI Sponge) (RVC v2) (420 Epochs)",https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/DoctorJunior.zip?download=true
+"Asagi Mutsuki (Blue Archive) (RVC V2, RMVPE) 320 Epochs",https://huggingface.co/Timur04129/Asagi-Mutsuki/resolve/main/Asagi-Mutsuki.zip?download=true
+Serj Tankian 1998 Era (first album system of a down) [RVCV2] [TITAN Petrain] [200 Epochs],https://huggingface.co/Loren85/serj-tankian-1998-era-titan/resolve/main/Serj%20tankian%201998%20era.zip?download=true
+"Sera (Catando/Singing) (Hazbin Hotel/Brazil Português) RVC V2, 300 Epochs, RMVPE, Ov2",https://huggingface.co/BunnyToon/sara/resolve/main/sera-cantando.zip?download=true
+"One Ok Rock - Prove (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/ProveDrums.zip?download=true
+FoundFlix (Movie Youtuber) (RVC V2/RVMPE) [386 Epochs],https://huggingface.co/MusologyWavey/MusologyRVC/resolve/main/FoundFlix.zip?download=true
+"Sera (Hazbin Hotel/Brazilian Português) RVC V2, Ov,2 200 Epochs, RMVPE",https://huggingface.co/BunnyToon/sara/resolve/main/sare%20(hazbin).zip?download=true
+"Odda (Arknights, Japanese - CV: Ryōta Asari) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/MiscellaneousRVCModels/resolve/main/OddaAKJP.zip?download=true
+Tatsuko Gakumazawa (rmvpe) (RVC v2 - 220 Epochs - 1540 Steps),https://huggingface.co/Nater-EX99/Tatsuko_Gakumazawa/resolve/main/Tatsuko_Gakumazawa.zip?download=true
+"Teamspeak Female Voice (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/teamspeak-female/resolve/main/Teamspeak_Female.zip?download=true
+DBZ Narrator [Kyle Hebert | Retrained] (RVC v2 | 150 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/Narrator-DBZBT3.zip?download=true
+The Powerpuff Girls(Drums)(RVC V2)(RMVPE)(TITAN)(1100 Epochs - 2198 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/Powerpuff%20Girls%20Drums_e1100_s2198.zip?download=true
+Olivia Rodrigo GUTS era (RVC V2/450epoch),https://huggingface.co/coreliastreet/OliviaRodrigo/resolve/main/OliviaRodrigo.zip?download=true
+Draco (Brawl Stars) (RVC V2) (TITAN PRE-TRAIN) (300 EPOCHS),https://huggingface.co/modelloosrvcc/DracoBS/resolve/main/Draco.zip
+Kylie Harding from HFJONE | OV2 | RVCv2 | RVMPE | 200 EPOCHS,https://huggingface.co/loganhuggingface/kyliehardinghfjone/resolve/main/kylie%20harding.zip?download=true
+Glamrock Freddy (FNaF: Security Breach) (RVC v2) (RIN_E3) (RMVPE) (400 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/GlamrockFreddy_400e.zip
+character eliminated from the pilot episode of The owl house (leked) [RVCV2] [OV2] [300 Epochs],https://huggingface.co/Loren85/PG-Tth-Owl-House-Pilot-leked/resolve/main/The%20owl%20House%20PG%20Pilot%20voice.zip?download=true
+"Aroma (Arknights, Japanese - CV: Kio Fukamachi) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/MiscellaneousRVCModels/resolve/main/AromaAKJP.zip?download=true
+Gawr Gura [RVC v2] [RMVPE] [Itaila] 200 Epochs 92600 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/GawrGura_RVC_v2_Itaila_e200_s92600.zip?download=true
+Shino Kiryuu (Girlfriend Girlfriend) (RVC V2) (RVMPE) (300 Epochs),https://huggingface.co/1ski/1skiRVCModels/resolve/main/shinov2.zip?download=true
+"Milo J (Rmvpe) (RVC v2, 300 Epochs)",https://huggingface.co/PlayerBPlaytime/My-Models/resolve/main/MiloJ.zip
+Enterprise (Erica Lindbeck) (Azur Lane) [EN] (RVC v2) (1330 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Enterprise-EN-Lindbeck.zip?download=true
+Ollie (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam846/Poppy_Spanish/resolve/main/OllieLatino.zip?download=true
+"Zenon Martyniuk (ZENEK) - RMVPE, RVC v2, 300 epochs)",https://huggingface.co/xmo0n/RVC_MODELS/resolve/main/Zenon%20Martyniuk.zip?download=true
+"Playboi Carti - DeepVoice (RMVPE, RVC v2, 250 Epochs, OV2)",https://huggingface.co/y0usly/DeepVoiceCarti_250_Epochs/resolve/main/DeepVoiceCarti_250_Epochs.zip?download=true
+Karl Mollison RVCV2 300 Epochs,https://huggingface.co/MrJordanL/KarlMollisonRVCV2/resolve/main/KarlMollison.zip?download=true
+"Serj Tankian (System of a Down) (Toxicity/STA! Era) (Titan pretrain, RVC v2, RMVPE, 200 epochs)",https://huggingface.co/Ryanz48/RyanzRVCModels/resolve/main/SerjToxSTATitan.zip?download=true
+"Lil Dicky - Earth (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/EarthDrums.zip?download=true
+"Rocko Rama (Rocko's Modern Life/Nicktoons: Attack of the Toybots) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/RockoRamaAOTTB.zip
+"Mahito ENG (JJK) (RVC v2, RMVPE) (200 Epochs)",https://huggingface.co/jay-was-unavailable/mahitoENG/resolve/main/mahitoENG.zip?download=true
+"Casey (The Loud House/The Casagrandes, Christian Simon) (RVC V2) [250 Epochs] (RMVPE)",https://huggingface.co/iamalexcaspian/Casey-TheCasagrandes-ChristianSimon/resolve/main/Casey-TheCasagrandes-ChristianSimon.zip?download=true
+"Cave Johnson (Portal/LEGO Dimensions) (Español Latino) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/CaveJohnsonLA.zip
+"Ra1nb0w K1tty 101 (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/rainbowkitty101.zip
+"Aku Aku (Crash Team Racing Nitro-Fueled) (Español Latino) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/AkuAkuLA.zip
+Genshin Furina Korean Voice (원신 푸리나) - [RVC2 / 600 Epochs / KLMv7s],https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/Genshin_Furnia.zip?download=true
+"The Score - On and On (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/OnAndOnDrums.zip?download=true
+Lisa (BP: BLACKPINK) RVC2 500EPOCHS (MODIFICADO),https://huggingface.co/maxmashup/Lisa/resolve/main/LisaBPver2.zip?download=true
+Valentino (Hazbin Hotel/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam846/Hazbin_Spanish/resolve/main/ValentinoLatinoV2.zip?download=true
+"DJ Spit [Smiling Friends] (OV2, RMVPE) (RVC V2) 300 Epochs",https://huggingface.co/MrSneakyD/SmilingFriends_RVC_Models/resolve/main/DJ-Spit.zip
+"Carlitos Casagrande (The Casagrandes, Cristina Milizia) (RVC V2) [150 Epochs] (Ov2 Pretrain) (RMVPE)",https://huggingface.co/iamalexcaspian/Carlitos-TheCasagrandes-CristinaMilizia/resolve/main/Carlitos-TheCasagrandes-CristinaMilizia.zip?download=true
+Soldier (Team Fortress 2) (RVC V2) (240 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Soldier_TF2/resolve/main/Soldier_e240_s27120.zip?download=true
+"Chevy - Welcome to My World (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/WelcomeToMyWorldDrums.zip?download=true
+"Sergeant Hartman (Full Metal Jacket, Italian Dub) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/SergenteHartman/resolve/main/SergenteHartman.zip?download=true
+Мазеллов / Mazellov (CREPE) (RVC Ov2.1Super) 200 epochs,https://huggingface.co/SimplCup/Mazelovv/resolve/main/Mazelovv.zip?download=true
+"Imagine Dragons - Waves (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/WavesDrums.zip?download=true
+Charise Lantigne the Stocking from HFJONE | OV2 | RVCv2 | RVMPE | 175 EPOCHS,https://huggingface.co/loganhuggingface/ChariseLantigneHFJONE/resolve/main/Charise%20Lantigne%20the%20Stocking%20_%20HFJONE%20-%20Weights.gg%20Model%20(1).zip?download=true
+Fly Out(Hatsune Miku Drums)(RVC V2)(RMVPE)(KLMv7Mirror)(510 Epochs - 4584 Steps)(48k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/fly%20out%20hatsune%20drums_e510_s4584.zip?download=true
+"Candyman (Candyman 1992), RVC2,  140 epochs",https://huggingface.co/BostonBrain/CandyMan/blob/main/Candyman.zip
+"Weegeepie (YouTuber) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/Weegeepie.zip
+"Mo Qingxian (Chinese Vocaloid) (RVC V2, Original) (200 Epochs)",https://huggingface.co/FanFierik/MoQingxian/resolve/main/MoQingxian.zip?download=true
+Korean actor Han Ji-Min (RVC v2 | RMVPE | 100 Epochs,https://huggingface.co/YangPa/HanJiMin/resolve/main/HanJiMin.zip?download=true
+Korean actor Lee Chung-ah (RVC v2 | RMVPE | 100 Epochs,https://huggingface.co/YangPa/LeeChungAh/resolve/main/chungah_v1.zip?download=true
+Rise Kujikawa -Persona 4 Golden ENG (Laura Bailey ) (RVC v2) -150 epochs,https://huggingface.co/SelectOkay/Rise_Kujikawa/resolve/main/Rise%20Kujikawa.zip?download=true
+"Young Stolas (Helluva Boss) | RVC V2, 200 epochs",https://huggingface.co/DaRkSpyro/YoungStolasHelluvaBoss/resolve/main/YoungStolas.zip?download=true
+Logitech G432 Flute Microphone (RVC V2) (900 Epochs),https://huggingface.co/LopunGerts/Celeb/resolve/main/FluteMicrophone.zip?download=true
+Poldo (New Version) (italian Youtuber)  [RVCV2] [Italia] [300 Epochs],https://huggingface.co/Loren85/Poldo-New-version/resolve/main/Poldo%20Nuova%20versione.zip?download=true
+Peter Glantz (RVC V2) (500 Epochs) (Trained on Snowie V3),https://huggingface.co/Player1444/AI.models/resolve/main/Peter%20Glantz%20(Trained%20on%20Snowie%20V3).zip?download=true
+IKE (Japenese Singer) (RVC V2) (300 epochs),https://huggingface.co/2star/IKE/resolve/main/IKE.zip?download=true
+PuzzleVision (Angry) (RVC V2) 300 Epochs,https://huggingface.co/jkhgf/SLWooly/resolve/main/PuzzleVision.zip?download=true
+Klaus Meine (Scorpions) (1977-79 era) (RVC v2) (OV2) (700 Epochs),https://huggingface.co/ryuseiken/Klaus_MeineV3/resolve/main/Klaus_Meinev3-700e.zip?download=true
+Cloni (Italian dub) (The Clone Wars) (Voice actor Alessandro Ballico) (RVCV2) (OV2) 350 Epochs,https://huggingface.co/Gianlu0712/Clone/resolve/main/The%20Clone%20Wars%20ITA%20Clone.zip?download=true
+"Chevy - Welcome to My World (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/WelcomeToMyWorldDrums.zip?download=true
+"Sergeant Hartman (Full Metal Jacket, Italian Dub) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/SergenteHartman/resolve/main/SergenteHartman.zip?download=true
+Мазеллов / Mazellov (CREPE) (RVC Ov2.1Super) 200 epochs,https://huggingface.co/SimplCup/Mazelovv/resolve/main/Mazelovv.zip?download=true
+"Imagine Dragons - Waves (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/DrumKitRVCModels/resolve/main/WavesDrums.zip?download=true
+Charise Lantigne the Stocking from HFJONE | OV2 | RVCv2 | RVMPE | 175 EPOCHS,https://huggingface.co/loganhuggingface/ChariseLantigneHFJONE/resolve/main/Charise%20Lantigne%20the%20Stocking%20_%20HFJONE%20-%20Weights.gg%20Model%20(1).zip?download=true
+Fly Out(Hatsune Miku Drums)(RVC V2)(RMVPE)(KLMv7Mirror)(510 Epochs - 4584 Steps)(48k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/fly%20out%20hatsune%20drums_e510_s4584.zip?download=true
+"Candyman (Candyman 1992), RVC2,  140 epochs",https://huggingface.co/BostonBrain/CandyMan/blob/main/Candyman.zip
+"Weegeepie (YouTuber) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/Weegeepie.zip
+"Mo Qingxian (Chinese Vocaloid) (RVC V2, Original) (200 Epochs)",https://huggingface.co/FanFierik/MoQingxian/resolve/main/MoQingxian.zip?download=true
+Korean actor Han Ji-Min (RVC v2 | RMVPE | 100 Epochs,https://huggingface.co/YangPa/HanJiMin/resolve/main/HanJiMin.zip?download=true
+Korean actor Lee Chung-ah (RVC v2 | RMVPE | 100 Epochs,https://huggingface.co/YangPa/LeeChungAh/resolve/main/chungah_v1.zip?download=true
+Rise Kujikawa -Persona 4 Golden ENG (Laura Bailey ) (RVC v2) -150 epochs,https://huggingface.co/SelectOkay/Rise_Kujikawa/resolve/main/Rise%20Kujikawa.zip?download=true
+"Young Stolas (Helluva Boss) | RVC V2, 200 epochs",https://huggingface.co/DaRkSpyro/YoungStolasHelluvaBoss/resolve/main/YoungStolas.zip?download=true
+Logitech G432 Flute Microphone (RVC V2) (900 Epochs),https://huggingface.co/LopunGerts/Celeb/resolve/main/FluteMicrophone.zip?download=true
+Poldo (New Version) (italian Youtuber)  [RVCV2] [Italia] [300 Epochs],https://huggingface.co/Loren85/Poldo-New-version/resolve/main/Poldo%20Nuova%20versione.zip?download=true
+Peter Glantz (RVC V2) (500 Epochs) (Trained on Snowie V3),https://huggingface.co/Player1444/AI.models/resolve/main/Peter%20Glantz%20(Trained%20on%20Snowie%20V3).zip?download=true
+IKE (Japenese Singer) (RVC V2) (300 epochs),https://huggingface.co/2star/IKE/resolve/main/IKE.zip?download=true
+PuzzleVision (Angry) (RVC V2) 300 Epochs,https://huggingface.co/jkhgf/SLWooly/resolve/main/PuzzleVision.zip?download=true
+Klaus Meine (Scorpions) (1977-79 era) (RVC v2) (OV2) (700 Epochs),https://huggingface.co/ryuseiken/Klaus_MeineV3/resolve/main/Klaus_Meinev3-700e.zip?download=true
+Cloni (Italian dub) (The Clone Wars) (Voice actor Alessandro Ballico) (RVCV2) (OV2) 350 Epochs,https://huggingface.co/Gianlu0712/Clone/resolve/main/The%20Clone%20Wars%20ITA%20Clone.zip?download=true
+"Kirara (Genshin Impact, Korean - CV: Kang Eun-ae) (RVC v2, KLM v7s, RMVPE, 300 epochs)",https://huggingface.co/RegalHyperus/MiscellaneousRVCModels/resolve/main/KiraraGIKRV2.zip?download=true
+ขนมจีน Knomjean (Thai singer) (RVC v2) (Ov2Super) (1000 Epochs),https://huggingface.co/sixtyfoursixtyone6461/knomjean/resolve/main/knomjean.zip
+DanTDM(TheDiamondMinecart)(RVC V2)(RMVPE)(OV2)(600 Epochs - 4188 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/DanTDM_e600_s4188.zip?download=true
+TheSpiffingBrit (RMVPE) (RVC Ov2.1Super) 200 epochs,https://huggingface.co/SimplCup/TheSpiffingBritV2/resolve/main/TheSpiffingBritV2.zip?download=true
+Coconut Mall OST (Drums) (RVC V2) (280 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Coconut_Mall_Drums/resolve/main/Coconut_Mall_Drums_v2.zip?download=true
+Boris Anderson (RVC V2) (250 Epochs) [RMVPE] (RETRAINED),https://huggingface.co/Coolwowsocoolwow/Boris_Anderson/resolve/main/Boris_Anderson_v2.zip?download=true
+Mrs Martin (RVC V2) (280 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Mrs_Martin/resolve/main/Mrs_Martin.zip?download=true
+Caillou Narrator (RVC V2) (300 Epochs) [RMVPE] (RETRAINED),https://huggingface.co/Coolwowsocoolwow/Caillou_Narrator/resolve/main/Caillou_Narrator_e300_s13500.zip?download=true
+Trento (Azur Lane) [JP] (RVC v2) (250 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Trento-JP.zip?download=true
+"Zhen eating a cookie (Kung Fu Panda 4) | RVC V2, 200 epochs",https://huggingface.co/DaRkSpyro/ZhenKungFuPanda4/resolve/main/Zhen%20eating%20a%20cookie.zip?download=true
+Ted [Latin American Spanish Dub] (RMVPE) (RVC V2 - 400 Epochs),https://huggingface.co/AmanBOT/Ted/resolve/main/Ted.zip?download=true
+Mr. Krabs (Spongebob) (Version 2) [Latin American Spanish Dub] (RMVPE) (RVC V2 - 400 Epochs),https://huggingface.co/AmanBOT/DonCangrejoV2/resolve/main/DonCangrejoV2.zip?download=true
+Doris Anderson (RVC V2) (280 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Doris_Anderson/resolve/main/Doris_Anderson_v2.zip?download=true
+"Birdie (Street Fighter V) [RVC V2, Ov2, 50 epochs]",https://huggingface.co/dacoolkid44/VGames-RVC/resolve/main/Birdie.zip?download=true
+[KOR] Gorou (Genshin Impact) | RMVPE | RVC Version 2 | 100EPOCHI,https://huggingface.co/Torido/RVC-Models/resolve/main/gorou_v1.zip?download=true
+[KOR] Xinyan(Genshin Impact) | RMVPE | RVC Version 2 | 50EPOCHI,https://huggingface.co/Torido/RVC-Models/resolve/main/Xinyan_v1.zip?download=true
+"[RETRAINED AGIAN] Barry Buns (Kiff) (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/barrybuns2/resolve/main/barrybuns-v2.zip?download=true
+[FIXED] KLM v7s Batch2 (RVC) PRE-TRAINED Model,https://huggingface.co/SeoulStreamingStation/KLMv7s/resolve/main/Fixed_KLMv7s_Batch2.zip?download=true
+"LiSA - Homura (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/HomuraDrums.zip?download=true
+"Amy Rose (Lisa Ortiz, Sonic the Hedgehog games) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/AmyLO.zip
+"Kirara (Genshin Impact, Korean - CV: Kang Eun-ae) (RVC v2, KLM v7s, RMVPE, 300 epochs)",https://huggingface.co/RegalHyperus/MiscellaneousRVCModels/resolve/main/KiraraGIKRV2.zip?download=true
+ขนมจีน Knomjean (Thai singer) (RVC v2) (Ov2Super) (1000 Epochs),https://huggingface.co/sixtyfoursixtyone6461/knomjean/resolve/main/knomjean.zip
+DanTDM(TheDiamondMinecart)(RVC V2)(RMVPE)(OV2)(600 Epochs - 4188 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/DanTDM_e600_s4188.zip?download=true
+TheSpiffingBrit (RMVPE) (RVC Ov2.1Super) 200 epochs,https://huggingface.co/SimplCup/TheSpiffingBritV2/resolve/main/TheSpiffingBritV2.zip?download=true
+Coconut Mall OST (Drums) (RVC V2) (280 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Coconut_Mall_Drums/resolve/main/Coconut_Mall_Drums_v2.zip?download=true
+Boris Anderson (RVC V2) (250 Epochs) [RMVPE] (RETRAINED),https://huggingface.co/Coolwowsocoolwow/Boris_Anderson/resolve/main/Boris_Anderson_v2.zip?download=true
+Mrs Martin (RVC V2) (280 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Mrs_Martin/resolve/main/Mrs_Martin.zip?download=true
+Caillou Narrator (RVC V2) (300 Epochs) [RMVPE] (RETRAINED),https://huggingface.co/Coolwowsocoolwow/Caillou_Narrator/resolve/main/Caillou_Narrator_e300_s13500.zip?download=true
+Trento (Azur Lane) [JP] (RVC v2) (250 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Trento-JP.zip?download=true
+"Zhen eating a cookie (Kung Fu Panda 4) | RVC V2, 200 epochs",https://huggingface.co/DaRkSpyro/ZhenKungFuPanda4/resolve/main/Zhen%20eating%20a%20cookie.zip?download=true
+Ted [Latin American Spanish Dub] (RMVPE) (RVC V2 - 400 Epochs),https://huggingface.co/AmanBOT/Ted/resolve/main/Ted.zip?download=true
+Mr. Krabs (Spongebob) (Version 2) [Latin American Spanish Dub] (RMVPE) (RVC V2 - 400 Epochs),https://huggingface.co/AmanBOT/DonCangrejoV2/resolve/main/DonCangrejoV2.zip?download=true
+Doris Anderson (RVC V2) (280 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Doris_Anderson/resolve/main/Doris_Anderson_v2.zip?download=true
+"Birdie (Street Fighter V) [RVC V2, Ov2, 50 epochs]",https://huggingface.co/dacoolkid44/VGames-RVC/resolve/main/Birdie.zip?download=true
+[KOR] Gorou (Genshin Impact) | RMVPE | RVC Version 2 | 100EPOCHI,https://huggingface.co/Torido/RVC-Models/resolve/main/gorou_v1.zip?download=true
+[KOR] Xinyan(Genshin Impact) | RMVPE | RVC Version 2 | 50EPOCHI,https://huggingface.co/Torido/RVC-Models/resolve/main/Xinyan_v1.zip?download=true
+"[RETRAINED AGIAN] Barry Buns (Kiff) (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/barrybuns2/resolve/main/barrybuns-v2.zip?download=true
+[FIXED] KLM v7s Batch2 (RVC) PRE-TRAINED Model,https://huggingface.co/SeoulStreamingStation/KLMv7s/resolve/main/Fixed_KLMv7s_Batch2.zip?download=true
+"LiSA - Homura (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/HomuraDrums.zip?download=true
+"Amy Rose (Lisa Ortiz, Sonic the Hedgehog games) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/AmyLO.zip
+"Lincoln Loud (The Loud House, season 1, Grant Palmer) (RVC V2) [450 Epochs]",https://huggingface.co/iamalexcaspian/LincolnLoud-TLH-GrantPalmer/resolve/main/LincolnLoud-TLH-GrantPalmer.zip?download=true
+[KOR] Wriothesley(Genshin Impact) | RMVPE | RVC Version 2 | 50EPOCHI,https://huggingface.co/Torido/RVC-Models/resolve/main/wriothesley_v1.zip?download=true
+[KOR] Baizhu (Genshin Impact) | RMVPE | RVC Version 2 | 50EPOCHI,https://huggingface.co/Torido/RVC-Models/resolve/main/baizhu_v1.zip?download=true
+"The Faim - Summer Is a Curse (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/SummerIsACurseDrums.zip?download=true
+Medic (Team Fortress 2) (RVC V2) (280 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/TF2_Medic/resolve/main/Medic_v2.zip?download=true
+Effect voice Train (Old Disney's cartoon) ( Disney ) [RVCV2] [OV2] [300 Epochs],https://huggingface.co/Loren85/effect-Voice-train-Old-Disney-cartoon/resolve/main/Old%20Train%20Cartoon%20Disney%20Effect%20voice%20(2).zip?download=true
+Мастерская Настроения / Masterskaya Nastroeniya (RMVPE) (RVC Ov2.1Super) 100 epochs,https://huggingface.co/SimplCup/MasterskayaNastroeniya/resolve/main/Masterskaya.zip?download=true
+Brooklyn Guy (SML) [381 Epochs] [RVC 2/RMVPE],https://huggingface.co/MusologyWavey/MusologyRVC/resolve/main/Brooklyn%20Guy.zip?download=true
+"Tyler Dinky Doo (Pinky Dinky Doo) (redone version) (RVC v2, RMVPE) (350 epochs)",https://drive.google.com/file/d/13DaTpukRrVYEcMJpXRP-03hLp2Yj7JOc/view?usp=sharing
+"Negative Legend (YouTuber) (RVC v2, RMVPE) (200 epochs)",https://drive.google.com/file/d/1-BCsACABXyh_zk3B1cz0zTshFjWD1GBS/view?usp=sharing
+"Gazzelle (Italian Singer) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/Gazzelle/resolve/main/Gazzelle.zip?download=true
+"Dario Greggio V2 (Italian Meme) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/DarioGreggioV2/resolve/main/DarioGreggioV2.zip?download=true
+"Pinky Dinky Doo (redone version) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/PinkyDinkyDooV2.zip
+Bo Burnham - Welcome to the Internet (Singer) (RVC V2) (300 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Bo_Burnham_Welcome_to_the_Internet/resolve/main/Bo_Burnham_Welcome_to_the_Internet.zip?download=true
+[KOR] Nilou (Genshin Impact) | RMVPE | RVC Version 2 | 100EPOCHI,https://huggingface.co/Torido/RVC-Models/resolve/main/Nliou_v1.zip?download=true
+Neil deGrasse Tyson (RVC V2) (240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Neil_deGrasse_Tyson/resolve/main/Neil_deGrasse_Tyson_v2.zip?download=true
+CS188 (RVC V2) (200 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/CS188/resolve/main/CS188_e200_s4800.zip?download=true
+[KOR] Xiao (Genshin Impact) | RMVPE | RVC Version 2 | 100EPOCHI,https://huggingface.co/Torido/RVC-Models/resolve/main/Xioa_v1.zip?download=true
+"Kodaline - Head Held High (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/HeadHeldHighDrums.zip?download=true
+DogDay Poppy Playtime Brazilian Portuguese (RVC V2),https://huggingface.co/juaow/modelosia/resolve/main/dogdaybr.zip
+"Bo Burnham - Welcome to the Internet (Drums) (RVC v2, RMVPE, Snowie V3 x Rin_E3, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/WelcomeToTheInternetDrums.zip?download=true
+Shoukaku (Azur Lane) [JP] (RVC v2) (530 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Shoukaku-JP.zip?download=true
+Sinta (FNF:Golden Apple) (RVC V2) (400 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Sinta/resolve/main/_Sinta_v2.zip?download=true
+"Moxxie (Helluva Boss) | RVC V2, 200 epochs",https://huggingface.co/DaRkSpyro/MoxxieHelluvaBoss/resolve/main/Moxxie.zip?download=true
+Izanami Chiara - Re:Memories - 300 epoch - RVC V2,https://huggingface.co/Fanixtar/RVC-Models/resolve/main/izanami-chiara-40k-Ov2-v1.zip?download=true
+Singer First OP Dragon Ball Heroes (JAP)(voice singer Takayoshi Tanimo)[RVCV2][SnowieV3][200 Epochs],https://huggingface.co/Loren85/Singer-DBH-SnowieV3-version/resolve/main/Singer%20DBH%20200%20Epochs.zip?download=true
+Marin Goldlock - Re:Memories - 250 epoch - RVC V2,https://huggingface.co/Fanixtar/RVC-Models/resolve/main/marin-goldlock-40k-v1.zip?download=true
+"Kirara (Genshin Impact, Korean - CV: Kang Eun-ae) (RVC v2, Weights-trained, 93 epochs)",https://huggingface.co/RegalHyperus/miscellaneous-rvc-models/resolve/main/KiraraGIKR.zip?download=true
+Nozomi Aso (RVC V2 Ov2Super) (250 Epochs),https://huggingface.co/CrimsonZockt/RVC-Model/resolve/main/NozomiAso.zip
+"Skillet - Finish Line (Drums) (RVC v2, RMVPE, Ov2 Super, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/FinishLineDrums.zip?download=true
+Pinku Rimu - Re:Memories - 200 epoch - RVC V2,https://huggingface.co/Fanixtar/RVC-Models/resolve/main/pinku-rimu-40k-v1.zip?download=true
+"OKA RUTO (CAITLIN MYERS/MOM0KI) | YANDERE SIMULATOR | RVMPE, RVC V2, 300 EPOCHS",https://huggingface.co/AdjoA/OtherModels/resolve/main/Oka_Ruto_V1.zip
+"The Fly Guy Five - When the Cat's Away (Drums) (RVC v2, RMVPE, Ov2 Super, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/WhenTheCatIsAwayDrums.zip?download=true
+"AYANO AISHI/AYEKA (MICHAELA LAWS) | YANDERE SIMULATOR/CRUSH CRUSH | RVMPE, RVC V2, 200 EPOCHS",https://huggingface.co/AdjoA/OtherModels/resolve/main/Ayano_Aishi_AyekaV1.zip
+"Eazy-E (RVC V2 - SnowieV3, 250 Epochs)",https://huggingface.co/CRoyce/Models_I_make/resolve/main/Eazy_E_v3.zip?download=true
+"Martin Klem - Muffin Cuffin (Drums) (RVC v2, RMVPE, Ov2 Super, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/MuffinCuffinDrums.zip?download=true
+Voltar (League Of Super Evil) [Latin American Spanish Dub] (RMVPE) (RVC V2 - 400 Epochs),https://huggingface.co/Elinvasor12/Otros_Personajes/resolve/main/Voltar_ESP.zip
+"Silver (Pete Capella, Sonic the Hedgehog games) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/SilverPC.zip
+[KOR] zhongli (Genshin Impact) | RMVPE | RVC Version 2 | 100EPOCHI,https://huggingface.co/Torido/RVC-Models/resolve/main/zhongli_v1.zip?download=true
+Bane (Lego Dimensions) (RVC V2) (350 Epochs) [RMVPE],https://huggingface.co/Coolwowsocoolwow/Bane_Lego_Dimensions/resolve/main/Bane.zip?download=true
+Literally a recording Mandolin - Mandolino (Classic italian Guitar) [RVCV2] [OV2] [300 epochs],https://huggingface.co/Loren85/mandolino-Mandalin/resolve/main/Mandolino.zip?download=true
+"Ronnie Anne Santiago (The Loud House, seasons 1-3, Breanna Yde) (RVC V2, RMVPE) [300 Epochs]",https://huggingface.co/iamalexcaspian/RonnieAnne-TLH-BreannaYde/resolve/main/RonnieAnne-TLH-BreannaYde.zip?download=true
+Red Flags (femmale voice) (voice actor Montaigne) [RVCV2] [OV2] [300 Epochs],https://huggingface.co/Loren85/Red-flags-Femmale-voice/resolve/main/Red%20Flags%20femmale%20voice.zip?download=true
+Red-Flags (male voice) (voice actor tom cardy) [RVCV2] [OV2] [300 Epochs],https://huggingface.co/Loren85/Red-Flags-Male-voice/resolve/main/Red%20Flags%20male%20voice.zip?download=true
+Woody Woodpecker (Woody Woodpecker Show/Latin American Dub) (RVC V2) (Ov2) (RMVPE - 200 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/PajaroLocoLatino_200e.zip
+"Carlos Alazraqui (voice actor) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/CarlosAlazraqui.zip
+Old PC Speaker Noise(RVC V2 - RVMPE - OV2 - 1230 Epochs - 2458 Steps - 40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/old%20pc%20speaker%20noise_e1230_s2458.zip?download=true
+"Beatrice (Over The Garden Wall) (RVC V2, RMVPE, OV2 Pretrain) [350 Epochs]",https://huggingface.co/iamalexcaspian/Beatrice-OverTheGardenWall/resolve/main/Beatrice-OverTheGardenWall.zip?download=true
+"Boyfriend (RecD) (RVC V2, RMVPE) (300 Epochs)",https://huggingface.co/Timur04129/Boyfriend-RecD/resolve/main/Boyfriend-RecD.zip?download=true
+Brandon Roberts (Dork Diaries) (RVC V2-Ov2) [160 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Brandon_Roberts_Dork_Diaries/resolve/main/Brandon_Roberts_v2.zip?download=true
+"Korya_mc (RVC V2, 500 Epochs) (RMVPE)",https://huggingface.co/zapominau96/korya/resolve/main/added_IVF469_Flat_nprobe_1_Korya_mc_v2.zip?download=true
+"Haruka Nana (UTAU) (RVC V2, 200 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/HarukaNana.zip
+"Mr Nosey (The Mr Men Show) (RVC V2, 200 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/mrnosey.zip
+"Mr Small (The Mr Men Show) (RVC V2, 190 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/mrsmall.zip
+Big Boss / Old Snake (Metal Gear Solid: Peace Walker) (RVC V2) (RMPVE 32K) (140 epochs),https://huggingface.co/Cauthess/Bigboss/resolve/main/Big%20Boss%20-%20MGS%20Peace%20Walker.zip?download=true
+"[RETRAINED] Barry Buns (Kiff) (RVC V2) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/barrybunsretrained/resolve/main/Barry_Buns_RETRAINED.zip?download=true
+"Marth (Yuri Lowenthal, Fire Emblem series) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/MarthFE.zip
+Art Garfunkel [The Sound Of Silence Era] (RVC V2) (RMVPE) (400 epochs) (OV2),https://huggingface.co/Freddie-Dassin/Art-Garfunkel/resolve/main/Art-Garfunkel.zip?download=true
+Star Wars: The Bad Batch - Hunter (RVC V2) (500 Epochs),https://huggingface.co/ZengerFake/Bad_Batch_Hunter_500/resolve/main/BadBatch_Hunter_RVC_500.rar?download=true
+"Vexus [My Life as a Teenage Robot] [VA: Eartha Kitt] (OV2, RMVPE) (RVC V2) 250 Epochs",https://huggingface.co/MrSneakyD/Vexus_RVC/resolve/main/Vexus.zip
+La Camaleona (Kung Fu Panda/Latin American Spanish Dub) (RVC V2) (RMVPE) (OV2) - 400 Epochs,https://huggingface.co/Sam846/My_Models/resolve/main/CamaleonaLatino.zip?download=true
+Vestal (Azur Lane) [EN] (RVC v2) (840 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Vestal-EN.zip?download=true
+Billy (SML) (RVC V2) [250 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Billy/resolve/main/Billy.zip?download=true
+"Korean Guy Voice Vol 2 (RVC v2, RMVPE, KLMv7s, 200 Epochs)",https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/KoreanGuy_Share_Vol2.zip?download=true
+Buzz Buzzard (Woody Woodpecker/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam846/My_Models/resolve/main/BuzzBuzzardLatino.zip?download=true
+"Imagine Dragons - Zero (Drums) (RVC v2, RMVPE, Ov2 Super, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/ZeroDrums.zip?download=true
+Elmo (Italian Dub) (vocie actor Davide Garbolino) [RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/Elmo-Italian-Dub/resolve/main/Elmo%20(italian%20Dub).zip?download=true
+"Frank Sinatra - My Way (Drums) (RVC v2, RMVPE, Ov2 Super, 300 epochs)",https://huggingface.co/RegalHyperus/drum-kit-rvc-models/resolve/main/MyWayDrums.zip?download=true
+"Little Miss Magic (The Mr Men Show S2) (RVC V2, 230 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/missmagic.zip
+DarkDreams ASMR | RVC 32k | RMVPE 80 Epochs,https://huggingface.co/Razer112/DarkDreamsASMR/resolve/main/DarkDreamsASMR.zip?download=true
+"El Cool P (Incredibox, Wekiddy) | RVC v2 | RMVPE | OV2 | 300 Epochs",https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/El_Cool_P.zip?download=true
+"Mr Lazy (The Mr Men Show) (RVC V2, 200 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/mrlazy.zip
+Ultra M (Mario Madness) (RVC V2-Ov2) [160 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Ultra_M/resolve/main/Ultra_M_v2.zip?download=true
+Joseph His Friend From School (SML) (RVC V2) [250 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Joseph_His_Friend_From_School/resolve/main/Joseph_His_Friend_From_School_v2.zip?download=true
+Danny Metal (italian Singer) (talking voice) [RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/Danny-Metal-Parlato/resolve/main/Danny%20Metal.zip?download=true
+Logan Thrityacre (RVC V2) [350 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Logan_Thrityacre/resolve/main/Logan_Thrityacre.zip?download=true
+Taylor Swift (Speaking Voice) (RVC V2) [RMVPE] 200 Epochs,https://huggingface.co/frankmurray/Taylorswift/resolve/main/Taylor%20Swift.zip?download=true
+"Baby Bot v2 (RVC V1) (OV2, RMVPE, 200 Epochs)",https://huggingface.co/GoldoBasic/babybotrvcv1/resolve/main/Baby_Bot_RVC_v1.zip?download=true
+John Wetton [RVC v2] [RMVPE] [Itaila] 1325 Epochs 29150 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/JohnWetton_RVC_v2_Itaila_e1325_s29150.zip?download=true
+"Guy Hamdon/SheZow (David Myles Brown) (redone version) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/SheZowDMBV2.zip
+"Mario (Charles Martinet) (Español) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/MarioES.zip
+"Wirt (Over The Garden Wall) (RVC V2, RMVPE, OV2 Pretrain) [350 Epochs]",https://huggingface.co/iamalexcaspian/Wirt-OverTheGardenWall/resolve/main/Wirt-OverTheGardenWall.zip?download=true
+"Симка/Simka (Фиксики/Fixies) (RVC V2, RMVPE) 300 Epochs",https://huggingface.co/Timur04129/Simka/resolve/main/Simka.zip?download=true
+MJ - Thriller background vocal Song (voice actor Vincent Price) [RVCV2] [OV2] [300 Epochs],https://huggingface.co/Loren85/Mj-Thriller-Background-voice/resolve/main/Voice%20%20Background%20Thriller%20MJ.zip?download=true
+Beerus [DB-FighterZ | 🇺🇸] (RVC v2 | 150 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/Beerus-FighterZ.zip?download=true
+Cameel Habib Habab (SML) (RVC V2) [300 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Cameel_Habib_Habab/resolve/main/Cameel_Habib_Habab.zip?download=true
+Black Yoshi (SML) (RVC V2) [180 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Black_Yoshi/resolve/main/Black_Yoshi_e180_s3600.zip?download=true
+"Claptrap (Borderlands GOTY Enhanced) (RVC V2, RMVPE, Ov2Super-40K)",https://huggingface.co/dread1900/Claptrap/resolve/main/Claptrap.rar?download=true
+Frank Honey (Lego Dimensions) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Frank_Honey_Lego_Dimensions/resolve/main/Frank_Honey_v2.zip?download=true
+Faker (Nominal Dingus) (FNF/Vs Sonic.EXE) (RVC V2-Ov2) [180 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Faker_Nominal_Dingus_FNF_Vs_Sonic_EXE/resolve/main/Faker_Nominal_Dingus_FNF_Vs_Sonic_EXE_v2.zip?download=true
+"Iago (Aladdin/Kingdom Hearts) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/IagoKH.zip
+"Woody (Jim Hanks, Toy Story series) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/WoodyJH.zip
+Nanakoe Nina (VOICE AVATAR) (RVC v2) - 700 Epochs,https://huggingface.co/sxndypz/rvc-v2-models/resolve/main/nanakoenina.zip
+Sir Pentious (Hazbin Hotel/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam845/Hazbin_Spanish/resolve/main/SirPentiousV2Latino.zip?download=true
+Nevada (Azur Lane) [JP] (RVC v2) (630 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Nevada-JP.zip?download=true
+Kazuhira Miller (Metal Gear Solid: Peacewalker) (RVC V2) (RMVPE 32K) (210 Epochs),https://huggingface.co/Cauthess/Kazmiller/resolve/main/Kaz%20Miller%20-%20MGS%20Peace%20Walker.zip?download=true
+(RETRAINED) Azulin (Unicorn Wars) | RVC v2 | RMVPE | OV2 | 300 Epochs,https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/azulinV2.zip?download=true
+"Nonono Nono (Million Production VTuber) (RMVPE) (RVC v2, 300 Epochs)",https://huggingface.co/maryishi/IshiMary_RVC_Models/resolve/main/NononoNono_RMVPE_300Epochs.zip?download=true
+"Fierik (Italian Streamer, V2) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/FierikV2/resolve/main/FierikV2.zip?download=true
+"Baby Finn (Adventure Time, Italian Dub) (RVC V2, OV2) (200 Epochs)",https://huggingface.co/FanFierik/BabyFinn/resolve/main/BabyFinn.zip?download=true
+"Jake (Adventure Time, Italian Dub) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/Jake/resolve/main/Jake.zip?download=true
+"Sfera Ebbasta (Italian Rapper, Talking) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/SferaEbbasta/resolve/main/SferaEbbasta.zip?download=true
+"Alessandro Warcard (Italian Youtuber) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/AlessandroWarcard/resolve/main/AlessandroWarcard.zip?download=true
+"Riccardo Warcard (Italian Youtuber) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/RiccardoWarcard/resolve/main/RiccardoWarcard.zip?download=true
+GeorgeNotFound(George Davidson)(RVC V2)(RVMPE)(OV2)(480 Epochs - 3824 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/GeorgeNotFound_e480_s3824.zip?download=true
+"Laird (The Casagrandes) (RVC V2, RMVPE, OV2 Pretrain) [200 Epochs]",https://huggingface.co/iamalexcaspian/Laird-TheCasagrandes/resolve/main/Laird-TheCasagrandes.zip?download=true
+Bbno$ / Bbnos (RMVPE) (RVC Ov2.1Super) 350 epochs,https://huggingface.co/SimplCup/BbnosV2/resolve/main/Bbnos.zip?download=true
+Gamer Meld (RMVPE) (RVC V2) 400 epochs,https://huggingface.co/SimplCup/GamerMeld/resolve/main/GamerMeld.zip?download=true
+Johnny Bravo (RVC V2) [180 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Johnny_Bravo/resolve/main/Johnny_Bravo_v2.zip?download=true
+"Michael Jackson (This Is It Era) (Rmvpe) (RVC v2, 200 Epochs)",https://huggingface.co/PlayerBPlaytime/My-Models/resolve/main/MJThisIsIt.zip
+Rex Fury (Lego Dimensions) (RVC V2) [180 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Rex_Fury_Lego_Dimensions/resolve/main/Rex_Fury_e180_s1260.zip?download=true
+Young Freddie Mercury (RVC V2) (RMVPE) (500 epochs) (OV2),https://huggingface.co/Freddie-Dassin/Young-Freddie-Mercury/resolve/main/Young-Freddie-Mercury.zip?download=true
+"Ayatsuno Yuni (StelLive) [RVC V2, 50 epochs, Ov2]",https://huggingface.co/dacoolkid44/VTuber-RVC/resolve/main/AyatsunoYuni.zip?download=true
+Moon Landing (1969) - Neil Armstrong - Apollo 11 (RVC V2) (rmvpe) (140 Epochs),https://huggingface.co/Freaky98/Apollo11-Armstrong-rvc-v2-140e/resolve/main/A11-Armstrong-140e.zip?download=true
+Freddie Mercury 50s [Fake Era] (RVC V2) (RMVPE) (330 epochs) (OV2),https://huggingface.co/Freddie-Dassin/Freddie-Mercury-1950-Radio-Style/resolve/main/Freddie-50s_e330.zip?download=true
+DMZ Overlord (Call of Duty: Modern Warfare II / Warzone 2.0) | RVC V2 - 270 Epochs,https://huggingface.co/TheCucumber/CucumberVoice/resolve/main/DMZ.zip?download=true
+Kuroko Kamenaga (Yandere Simulator) (RVC v2) (695 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Kuroko-Kamenaga.zip?download=true
+Ross Lynch (RVC v2 | RMVPE | Ov2) (200 Epochs),https://huggingface.co/MusicBox27/2010sSingers/resolve/main/Ross_Lynch_e200_s17200.zip?download=true
+Carlitos Casagrande (The Loud House/The Casagrandes) (RVC V2) [120 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/CarlitosCasagrandeTLH-CG/resolve/main/CarlitosCasagrandeTLH-CG.zip?download=true
+Azulin (Unicorn Wars) | RVC v2 | RMVPE | OV2 | 300 Epochs,https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/azulin.zip?download=true
+Claris Zeinburg (Ryuusei World Actor) | RVC v2 | RVMPE | 300 Epochs,https://huggingface.co/samkey/Claris_Zeinburg/resolve/main/Claris_Zeinburg.zip?download=true
+"Ermac (Mortal Kombat 1) (RVC v2, RMVPE) (250 epochs)",https://huggingface.co/MystyTom/RVC-Models/resolve/main/Ermac.zip?download=true
+"Somari (FNF: Mario's Madness) (RVC V2, OV2Super Pretrain) (RMVPE) 300 Epochs",https://huggingface.co/Timur04129/Somari-FNF/resolve/main/Somari-FNF.zip?download=true
+Concas HD (V2) (Old Italian Youtuber) [RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/Concas-HD-New-version/resolve/main/Concas%20HD%20New%20Version.zip?download=true
+J-HOPE - RVC 2 (BTS) 300 EPOCHS,https://huggingface.co/maxmashup/JHOPE/resolve/main/J-HOPE%20BTS.zip?download=true
+Rosa Casagrande (The Loud House/The Casagrandes) (RVC V2) [350 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/RosaCasagrandeTLH-CG/resolve/main/RosaCasagrandeTLH-CG.zip?download=true
+Mr. L / Too Late Luigi (FNF: Mario Madness) | RVC v2 | RVMPE | OV2 | 300 Epochs,https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/MrLToolate.zip?download=true
+SpongeBob SquarePants (Seasons 3–9A) (RVC v2) (500 Epochs) (RMVPE),https://huggingface.co/Gosmokeless28/AI_models/resolve/main/Post-Movie_SpongeBob.zip?download=true
+2017 Moist Cr1tikal (RVC V2) [120 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/2017_Moist_Cr1tikal/resolve/main/2017_Moist_Cr1tikal_e120_s3600.zip?download=true
+"Cheval Grand (Uma Musume Pretty Derby) (RMVPE) (RVC v2, 600 Epochs)",https://huggingface.co/maryishi/IshiMary_RVC_Models/resolve/main/ChevalGrand_RMVPE_600Epochs.zip?download=true
+Chase McCain (Lego Dimensions) (RVC V2) [250 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Chase_Mcain_Lego_Dimensions/resolve/main/Chase_McCain_Lego_Dimensions_v2.zip?download=true
+Professor Girafalde (El Chavo The Animated Series English) [(Ov2) (RVC V2) - 500 Epochs],https://huggingface.co/Elinvasor12/El_Chavo_English_Dub/resolve/main/Professor_Girafalde_eng500.zip
+Maidum (RVC V2) (Колобанга) (500 Epochs) (Trained on Snowie V3),https://huggingface.co/Player1444/AI.models/resolve/main/Maidum%20(Trained%20on%20Snowie%20V3).zip?download=true
+Sharkl (V2) (Italian Youtuber) [RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/Sharkl-Italian-youtuber-2024/resolve/main/Sharkl-New-version-2024.zip?download=true
+Delsin Rowe (Sercan Gidişoğlu) (OV2) (RVC V2) (40k) (Rmvpe) (125 epoch),https://huggingface.co/Goldeath/inFamousSecondSon/resolve/main/DelsinTurkishOV2.zip?download=true
+"Cam (Untamed Era - 2015) (Camaron Ochs) (RVCv2, RMVPE - 300 epochs)",https://huggingface.co/lintu/Cam/resolve/main/Cam.zip?download=true
+"Spongebobby Sweatpants (DashieXP, 2014-2015) (Rmvpe) (RVC 2) (230 Epochs)",https://huggingface.co/MrDorian/Spongebobby/resolve/main/spongebobby.zip?download=true
+The Act Man (RMVPE) (RVC V1) 50 epochs,https://huggingface.co/SimplCup/ActmanV1Pretrain/resolve/main/ActmanV1Pretrain.zip?download=true
+"Kinito (Whispering) (RVC V2, RMVPE) 300 Epochs",https://huggingface.co/Timur04129/Kinito-Whispering/resolve/main/Kinito%20(Whispering).zip?download=true
+Ai Uehara (Singing Model) (RVC V2 Ov2Super) (RMVPE) (400 Epochs),https://huggingface.co/CrimsonZockt/RVC-Model/resolve/main/AiUeharaSinging.zip
+Technoblade(Alex)(RVC V2)(RVMPE)(OV2)(505 Epochs - 4032 Steps)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/Technoblade_e505_s4032.zip?download=true
+Phoenix Connexion / Terrorist (CS:GO/CS2) | RVC2 | RVMPE | OV2 | 300 Epochs,https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/PhoenixCS.zip?download=true
+Peppa Pig Narrator (RVC V2) [240 Epochs] (RMVPE) (RETRAINED),https://huggingface.co/Coolwowsocoolwow/Peppa_Pig_Narrator_Retrained/resolve/main/Peppa_Pig_Narrator_e240_s4800.zip?download=true
+H2oSakana (CEO of Phase Connect) (RVC v2) - 520 Epochs,https://huggingface.co/sxndypz/rvc-v2-models/resolve/main/h2osakana.zip
+Vanilla Ice (Ice Ice baby era) (album To The Extreme) [RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/Vanilla-ice-80s-voice/resolve/main/Vanilla%20ICe%20%20To%20The%20Extreme%20Album.zip?download=true
+Basil [DB-Legends | 🇺🇸] (RVC v2 | 450 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/Basil-DBLegends.zip?download=true
+Lavender [DB-Legends | 🇺🇸] (RVC v2 | 450 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/Lavender-DBLegends.zip?download=true
+Korean Girl Voice PRO VOL 2 (RVC / 1000Epochs 109k Steps / KLMv7s),https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/KoreanGirlPro_Vol2_KLMv7s.zip?download=true
+Clyde Donovan [V2] (South Park) (RMVPE / RVC-V2 / 500 Epochs),https://huggingface.co/RandomlyCreatedAI/ClydeDonovanV2/resolve/main/ClydeDonovanV2.zip
+Johnny Vincent (Bully) (RVC v2) (250 Epochs),https://huggingface.co/DeckerIsland/JohnnyVincent/resolve/main/JohnnyVincent.zip?download=true
+Crazy Dave (Plants Vs. Zombies) (RVC v2) (425 Epochs),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/CrazyDave.zip?download=true
+Seymour Skinners (The Simpsons Game) (RVC V2) [300 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Seymour_Skinners_The_Simpsons_Game/resolve/main/Seymour_Skinners_The_Simpsons_Game.zip?download=true
+"Ginger [Chicken Run] [VA: Julia Sawalha] (OV2, RMVPE) (RVC V2) 250 Epochs",https://huggingface.co/MrSneakyD/Ginger_RVC/resolve/main/Ginger.zip
+Penny Sanchez - ChalkZone (RVC) 400 Epochs,https://huggingface.co/joeldabest638/pennysanchez-chalkzone/resolve/main/pennysanchez-chalkzone.zip
+YOASOBI (Japenese Singer) (RVC V2) (300 epochs),https://huggingface.co/2star/YOASOBI/resolve/main/YOASOBI_VER1_e300_s10800.zip?download=true
+Arturo Santiago (The Loud House/The Casagrandes) (RVC V2) [250 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/ArturoSantiagoTLH-CG/resolve/main/ArturoSantiagoTLH-CG.zip?download=true
+Kokichi Oma (EN) RVC V2 - 710 Epochs,https://huggingface.co/TheCucumber/CucumberVoice/resolve/main/kokichiEN.zip?download=true
+PickyPiggy (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam845/Poppy_Spanish/resolve/main/PickyPiggyLatino.zip?download=true
+Sticks (Sonic Boom:Rise Of Lyric) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Sticks_Sonic_Boom_Rise_Of_Lyric/resolve/main/Sticks_v2.zip?download=true
+Peppa Pig Narrator (RVC V2) [240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Peppa_Pig_Narrator/resolve/main/Peppa_Pig_Narrator_v2.zip?download=true
+"Loona (Helluva Boss) | RVC V2, 200 epochs",https://huggingface.co/DaRkSpyro/LoonaHelluvaBoss/resolve/main/Loona.zip?download=true
+Godfield (FNF: Vs Gorefield) | RVC2 | RVMPE | Original | 250 Epochs,https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/Godfield_FNF.zip?download=true
+"Dmitry Dibrov/Дмитрий Дибров | Russian TV host, presenter (RVC V2, RMVPE, OV2 Pretrain) [400 Epochs]",https://huggingface.co/iamalexcaspian/DmitryDibrov/resolve/main/DmitryDibrov.zip?download=true
+Saya Sairroxs (Phase Connect / Vtuber) (RVC v2) - 360 Epochs,https://huggingface.co/sxndypz/rvc-v2-models/resolve/main/saya.zip
+Tutorial Unit(FNAF 6)(RVC V2)(RVMPE)(OV2)(Crepe:320)(40k Rate)(500 Epochs - 2988 Steps),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/Tutorial%20Unit_e500_s2988.zip?download=true
+The Act Man (RMVPE) (RVC TITAN) 400 epochs,https://huggingface.co/SimplCup/TheActMan/resolve/main/TheActMan.zip?download=true
+"Mr Noisy (The Mr Men Show) (RVC V2, 200 Epochs) (RMVPE) (OV2) (RETRAINED)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/mrnoisy.zip
+Zhekastoporom / Профессионал жека (Russian Minecraft Youtuber) | RVC 2 | 300 Epochs | RMVPE | OV2,https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/ZhekaPro.zip?download=true
+(Randomly Generated) (Veggietales) (RVC V2) [1000 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Randomly_Generated/resolve/main/Randomly_Generated_v2.zip?download=true
+Infamous Delsin Rowe Español Latino - Rmvp - 300 Epoch - RVC 2,https://huggingface.co/Keon5500/Delsin_Rowe_Latino/resolve/main/Delsin_Rowe_Latino.zip?download=true
+Crazy Ukranian Kid/Sasha Fokin (RVC v2 | 400 Epochs),https://huggingface.co/SyberGen/Main-VModels/resolve/main/CrazyUkranianKid.zip?download=true
+Derzko69 (Russian Twitch Streamer) | RVC2 | Epochs 300 | RMVPE | OV2,https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/derzko69.zip?download=true
+Randy Cunningham Ninja Total Español Latino - rmvp - RVC V2 300 Epochs,https://huggingface.co/Keon5500/Randy_Cunningham_Latino/resolve/main/Randy_Cunningham_Latino.zip?download=true
+DakPlayHD (Russian Minecraft Youtuber) | RVC2 | Epochs 300 | RMVPE | OV2,https://huggingface.co/Mlaofmd/silly-homework-shit/resolve/main/DakPlayHD.zip?download=true
+Robin EN (Chevy) - Honkai: Star Rail (RVC2) (150epoch) (4500steps) (RMVPE),https://huggingface.co/GIyph/RVC2/blob/main/RobinENChevy_150e_4500s.zip
+"Michael Jackson (Invincible Era) (Rmvpe) (RVC v2, 150 Epochs)",https://huggingface.co/PlayerBPlaytime/My-Models/resolve/main/MJInvincibleEra.zip
+Z23 (Azur Lane) [JP] (RVC v2) (510 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Z23-JP.zip?download=true
+Rudy Tabootie - ChalkZone (RVC) 350 Epochs,https://huggingface.co/joeldabest638/rudytabootie-chalkzone/resolve/main/rudytabootie-chalkzone.zip
+Baldi Laugh (RVC V2) [600 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Baldi_Laugh/resolve/main/Baldi_Laugh.zip?download=true
+Meg (FNAFHS Season 2) (RVC V2) [140 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Meg_FNAFHS_Season_2/resolve/main/Meg_FNAFHS_Season_2_v2.zip?download=true
+"Greg (Over The Garden Wall) (RVC V2, RMVPE, OV2 Pretrain) [350 Epochs]",https://huggingface.co/iamalexcaspian/Greg-OverTheGardenWall/resolve/main/Greg-OverTheGardenWall.zip?download=true
+"Korean actor Jung Woo Sung RVC v2, rmvpe, 100 Epochs",https://huggingface.co/YangPa/woosung/resolve/main/Jung_WooSung.zip?download=true
+Tomoko Kuroki [WataMote] (RVC v2) (rmvpe) (original) (350 Epochs),https://huggingface.co/alhures/tomokoRVCv2/resolve/main/tomoko.zip?download=true
+Yosuke Hanamura -Persona 4 Golden ENG (Yuri Lowenthal) (RVC v2) -225 epochs,https://huggingface.co/SelectOkay/AI_Models/resolve/main/Yosuke_Hanamura.zip?download=true
+Twomad (RVC v2) 500 Epochs,https://huggingface.co/MrDawg/Twomad/resolve/main/Twomad.zip
+Duley Pig (RVC v2) (RMVPE) (OV2) (250 Epochs),https://huggingface.co/NewTab/RVCModelsV1orV2/resolve/main/DuleyPig.zip?download=true
+Korean actor Hwang Jung-min (RVC v2) 250 Epochs,https://huggingface.co/YangPa/JungMin/resolve/main/JungMin_V2_250.zip?download=true
+Perfect Cell [DB-FighterZ | 🇺🇸] (RVC v2 | 100 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/PerfectCell-FighterZ.zip?download=true
+jschlatt (RMVPE) (RVC Ov2Super) 200 epochs,https://huggingface.co/SimplCup/JschlattNew/resolve/main/Jschlatt.zip?download=true
+"Paky (Italian Singer) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/Paky/resolve/main/Paky.zip?download=true
+"Nitro (Italian Singer) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/Nitro/resolve/main/Nitro.zip?download=true
+"Shikokujin (Italian Youtuber) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/Shikokujin/resolve/main/Shikokujin.zip?download=true
+"xCarme (Italian Tiktoker) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/xCarme/resolve/main/xCarme.zip?download=true
+"Lois Griffin (Family Guy, Italian Dub) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/Lois/resolve/main/Lois.zip?download=true
+"Meg Griffin (Family Guy, Italian Dub) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/Meg/resolve/main/Meg.zip?download=true
+Foxo (Foxo's Fun Schoolhouse) (RVC V2) [260 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Foxo/resolve/main/Foxo_e260_s2080.zip?download=true
+If (VeggieTales/ShapeTales) (RVC V2) (1000 Epochs),https://huggingface.co/LopunGerts/QWERVCModels/resolve/main/IfVeggieTales.zip?download=true
+Timotei with Extra lines (Konata Izumi) (Lucky Star) (RVC V2) (1000 Epochs),https://huggingface.co/LopunGerts/LuckyStarRVCModels/resolve/main/KonataIzumiTimoteiWithExtraLines.zip?download=true
+Timotei (Konata Izumi) (Lucky Star) (RVC V2) (1000 Epochs),https://huggingface.co/LopunGerts/LuckyStarRVCModels/resolve/main/KonataIzumiTimotei.zip?download=true
+"Little Miss Whoops (The Mr Men Show) (RVC V2, 200 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/misswhoops.zip
+Sucrose (Genshin Impact) (RVC V2) [240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Sucrose-From-Genshin-Impact/resolve/main/Sucrose-From-Genshin-Impact_e240_s13200.zip?download=true
+Ayato Aishi (Yandere Simulator/Yandere No Sutoka) (RVC v2) (985 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Ayato-Aishi.zip?download=true
+PHEN-228 (THE BOILED ONE PHENOMENON) (RVC v2) (200 Epochs),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/TheBoiledOne.zip?download=true
+KLM v7 Share Version (PreTrained Model for Applio / RVC 2),https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/KLMv7s_32k.zip?download=true
+"Little Miss Curious (The Mr Men Show S2) (RVC V2, 100 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/misscurious.zip
+"Little Miss Giggles (The Mr Men Show S2) (RVC V2, 120 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/missgiggles.zip
+"Alastor ""Cantando"" (Hazbin Hotel/Latin American Spanish Dub) (OV2) (RVC V2) - 500 Epochs",https://huggingface.co/Sam845/Hazbin_Spanish/resolve/main/AlastorCantandoV2.zip?download=true
+Paz Ortega (Metal Gear Solid: Peace Walker) (RVC V2) (RMVPE 32K) (120 Epochs),https://huggingface.co/Cauthess/PazOrtega/resolve/main/Paz%20Ortega%20MGS%20Peace%20Walker.zip?download=true
+"Adele (30 Era) - 250 Epochs, RVC V2, RMVPE",https://huggingface.co/Bilious/30Adele250/resolve/main/30Adele.zip?download=true
+Bobby Bearhug (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam845/Poppy_Spanish/resolve/main/BobbyBearhugLatino.zip?download=true
+Furnace (VS. Sonic.EXE/Prey) (RVC V2) (OV2 Super) (RMVPE - 250 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/FurnacePrey_250e_750s.zip?download=true
+"Billy Joel (1973 - 1980) (RVC v2, RMVPE, 540 Epochs, 83.7k Steps)",https://huggingface.co/TamanegiSensei/RVC-Models/resolve/main/Billy%20Joel%20(RVCv2)%20540%20Epoch%2C%2083.7k%20Steps.zip?download=true
+"Marmalade (Nigel the Tiny Wizard), (RVC V2), (250 epochs)",https://huggingface.co/Thecalmperson/ThecalmpersonRVC/resolve/main/Marmalade.zip?download=true
+Snap - ChalkZone (RVC) 400 Epochs,https://huggingface.co/joeldabest638/snap-chalkzone/resolve/main/snap-chalkzone.zip
+"Baloo (The Jungle Book - Disney) [Phil Harris], RVC v2 - 300 Epochs",https://huggingface.co/RosinoSuperRosa/Baloo/resolve/main/Baloo.zip
+Sonic the Hedgehog (VS. Sonic.EXE/Prey) (RVC V2) (OV2 Super) (RMVPE - 250 Epochs),https://huggingface.co/FurnTheFurnace/RVCModels/resolve/main/SonicPrey_250e_750s.zip
+ชัชชาติ สิทธิพันธุ์ / Chadchart Sittipunt (17th Governor of Bangkok Thailand) (RVCv2) 185 Epoch,https://huggingface.co/Starlight/Starlight_Model/resolve/main/ChadChartV2%20by%20ShikiYuri.zip?download=true
+"Lincoln Loud (The Loud House, seasons 1-3, Collin Dean) (RVC V2) [350 Epochs]",https://huggingface.co/iamalexcaspian/LincolnLoud-TLH-CollinDean/resolve/main/LincolnLoud-TLH-CollinDean.zip?download=true
+Lovestruck Kasumi (Paladins Champions of the realm) RVC2 | 250 epochs | rmvpe,https://huggingface.co/MrDorian/lovestruckkasumi/resolve/main/lovestruck.zip?download=true
+Elevenlabs Thomas (RVC V2) [200 Epochs],https://huggingface.co/AstralBlade/Model/blob/main/Thomas.zip
+Donut (BFDI) [Latin American Spanish Dub] (RMVPE) (RVC V2 - 300 Epochs),https://huggingface.co/AmanBOT/DonaBFDI/resolve/main/DonaBFDI.zip?download=true
+moistcritical but he's angy (RMVPE) (RVC Ov2) 350 epochs,https://huggingface.co/SimplCup/AngryMoistcritical/resolve/main/moistcriticalangry.zip?download=true
+"Chain Chomp (Super Mario Franchise) - RMVPE, OV2, RVC v2, 300 Epochs",https://huggingface.co/Xhepyxopila/MiscCartoonModelsRVC/resolve/main/chainchomp.zip?download=true
+"Mr Tall (The Mr Men Show S2) (RVC V2, 150 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/mrtall.zip
+"Little Miss Helpful (The Mr Men Show) (RVC V2, 200 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/misshelpful.zip
+Luigi (RVC V2) [160 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Luigi/resolve/main/Luigi_e160_s800.zip?download=true
+"Little Miss Hug (Sanrio's Mr Men and Little Miss Kawaii Remake) (RVC V2, 250 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/misshug.zip
+Devonshire (Azur Lane) [JP] (RVC v2) (210 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Devonshire-JP.zip?download=true
+Adam (LankyBox) (RVC v2) (200 Epochs),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/LBAdam.zip?download=true
+Justin (LankyBox) (RVC v2) (400 Epochs),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/LBJustin.zip?download=true
+Bruna Hipólito Saori  RVC V2,https://huggingface.co/juaow/modelosflop/resolve/main/saori.zip
+KickinChicken (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam845/Poppy_Spanish/resolve/main/KickinChickenLatino.zip?download=true
+"shortcxke (rmvpe) (RVC v2) (2,150 Epochs)",https://huggingface.co/WolfMK/goodmodels/resolve/main/shortcxke.zip?download=true
+Lovestruck Kasumi (Paladins Champions of the realm) RVC2 | 250 epochs | rmvpe,https://huggingface.co/MrDorian/lovestruckkasumi/resolve/main/lovestruck.zip?download=true
+Elevenlabs Thomas (RVC V2) [200 Epochs],https://huggingface.co/AstralBlade/Model/blob/main/Thomas.zip
+Donut (BFDI) [Latin American Spanish Dub] (RMVPE) (RVC V2 - 300 Epochs),https://huggingface.co/AmanBOT/DonaBFDI/resolve/main/DonaBFDI.zip?download=true
+moistcritical but he's angy (RMVPE) (RVC Ov2) 350 epochs,https://huggingface.co/SimplCup/AngryMoistcritical/resolve/main/moistcriticalangry.zip?download=true
+"Chain Chomp (Super Mario Franchise) - RMVPE, OV2, RVC v2, 300 Epochs",https://huggingface.co/Xhepyxopila/MiscCartoonModelsRVC/resolve/main/chainchomp.zip?download=true
+"Mr Tall (The Mr Men Show S2) (RVC V2, 150 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/mrtall.zip
+"Little Miss Helpful (The Mr Men Show) (RVC V2, 200 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/misshelpful.zip
+Luigi (RVC V2) [160 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Luigi/resolve/main/Luigi_e160_s800.zip?download=true
+"Little Miss Hug (Sanrio's Mr Men and Little Miss Kawaii Remake) (RVC V2, 250 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/misshug.zip
+Devonshire (Azur Lane) [JP] (RVC v2) (210 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Devonshire-JP.zip?download=true
+Adam (LankyBox) (RVC v2) (200 Epochs),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/LBAdam.zip?download=true
+Justin (LankyBox) (RVC v2) (400 Epochs),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/LBJustin.zip?download=true
+Bruna Hipólito Saori  RVC V2,https://huggingface.co/juaow/modelosflop/resolve/main/saori.zip
+KickinChicken (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam845/Poppy_Spanish/resolve/main/KickinChickenLatino.zip?download=true
+"shortcxke (rmvpe) (RVC v2) (2,150 Epochs)",https://huggingface.co/WolfMK/goodmodels/resolve/main/shortcxke.zip?download=true
+Johnny Hallyday [60s] (RMVPE) (RVC V2) (300 epochs) (OV2),https://huggingface.co/Freddie-Dassin/Johnny-Hallyday-60s/resolve/main/Johnny-Hallyday-60s.zip?download=true
+Melvin (Harvey Street Kids/Harvey Girls Forever!) (RVC v2 RMVPE) (OV2) (500 Epochs),https://huggingface.co/Elinvasor12/Harveygirlsforevercharacters/resolve/main/Melvin.zip
+Hoppy Hopscotch (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam845/Poppy_Spanish/resolve/main/HoppyHopscotchLatino.zip?download=true
+Playboi Carti - WLR V2 (RVC V2) [250 Epochs] (RMVPE),https://huggingface.co/lioooooooooo/v2/resolve/main/cartiv2.zip?download=true
+Minidisky [ Animatic Battle ] RVC V2 - 100 EPOCHS,https://huggingface.co/cheir/minidisky/resolve/main/minidisky.zip?download=true
+ElecroBOOM (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/ElectroBOOM/resolve/main/ElectroBOOM_e200_s5600.zip?download=true
+Korean Male Voice (RVC V2 - Vocal Data NOT Included) [1000 Epochs],https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/Kor_Male_KLMv7.zip?download=true
+Troydan (Youtuber) (RVC V2) [180 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Troydan/resolve/main/Troydan_e180_s8460.zip?download=true
+Steven Hawking's Real Voice (RVC V2) [400 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Steven-Hawking-Voice/resolve/main/Steven-Hawking-Voice.zip?download=true
+Sl4sh (Path To Deicide) (RVC V2) [240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Sl4sh_Path_To_Deicide/resolve/main/Sl4sh_Path_To_Deicide_e240_s7680.zip?download=true
+CraftyCorn (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam845/Poppy_Spanish/resolve/main/CraftyCornLatino.zip?download=true
+Bubba Bubbaphant (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam845/Poppy_Spanish/resolve/main/Bubba%20BubbaphantLatino.zip?download=true
+Liam Hunnicutt (The Loud House) (RVC V2) [200 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/LiamHunnicuttTLH/resolve/main/LiamHunnicuttTLH.zip?download=true
+Sheen Estevez (Jimmy Neutron) [Latin American Spanish Dub] (RMVPE) (RVC V2 - 400 Epochs),https://huggingface.co/AmanBOT/Sheen/resolve/main/Sheen.zip?download=true
+Zuikaku (Azur Lane) [JP] (RVC v2) (470 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Zuikaku-JP.zip?download=true
+"Han (Kung Fu Panda 4) (RVC (V2, 200 epochs)",https://huggingface.co/DaRkSpyro/HanKungFuPanda4/resolve/main/Han.zip?download=true
+DogDay (Poppy Playtime/Latin American Spanish Dub) (RVC V2) (OV2) (RMVPE) - 400 Epochs),https://huggingface.co/Sam845/Poppy_Spanish/resolve/main/DogDayCartoon.zip?download=true
+Mixer - (Voce del Pulitore CD Anni 90) (voice Italian femmale) [RVCV2] [Itaila] [100 Epochs],https://huggingface.co/Loren85/Mixer-voce-Pulizia-Cd-anni-90/resolve/main/Mixer-voce-Pulizia-cd-anni-90.zip?download=true
+Eggnog Jr. [ Animatic Battle ] RVC V2 - 150 EPOCHS,https://huggingface.co/cheir/eggnog_jr/resolve/main/eggnog_jr_v2.zip?download=true
+Zach Gurdle (The Loud House) (RVC V2) [200 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/ZachGurdleTLH/resolve/main/ZachGurdleTLH.zip?download=true
+"Wubzzy(Youtuber,Funny Mic)(RVC V2)(RVMPE)(OV2)(40k Rate)(460 Epochs - 2748 Steps)(Crepe:320",https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/Wubzzy_e460_s2748.zip?download=true
+Hagrid (Ps1) (Harry Potter) (italian DUB) [RVCV2] [Itaila] [250 Epochs],https://huggingface.co/Loren85/Hagrid-ps1-v2-ita/resolve/main/Hagrid%20PS1%20Ita%20V2.zip?download=true
+"Rusty Spokes (The Loud House) (RMVPE) (RVC, 150 epochs)",https://huggingface.co/iamalexcaspian/RustySpokesTLH/resolve/main/RustySpokesTLH.zip?download=true
+"Cherami Leigh (RMVPE) (RVC, 300 epochs)",https://huggingface.co/Astral-P/CheramiLeigh/resolve/main/cheramileigh.zip?download=true
+"Paracelsia (Arcana Heart 2/3) (300 Epochs, RMVPE, RVC2)",https://huggingface.co/lyery/mymodels/resolve/main/paracelsia.zip?download=true
+St. Louis (Azur Lane) [JP] (RVC v2) (240 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/St-Louis-JP.zip?download=true
+"Nyatasha Nyanners (RVC V2) (50 Epochs, Ov2)",https://huggingface.co/dacoolkid44/VTuber-RVC/resolve/main/Nyanners.zip?download=true
+Mecha Sonic (RVC V2) (Rmvpe) (RIN_E3) (550 Epochs),https://huggingface.co/AlexisBv/AlexisModels/resolve/main/MechaSonic.zip
+Freddy (FHSZ3R0) (RVC V2) [220 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Freddy_FHSZ3RO/resolve/main/Freddy_FHSZ3R0_e220_s3520.zip?download=true
+"Isshiki Ōtsutsuki [JPN] From ""Boruto: Naruto Next Generations"" (RVC 2) (Ov2) (RVMPE) (300 Epochs)",https://huggingface.co/spxrks3x/Isshiki/resolve/main/Isshiki.zip
+Jim Morrison [The Doors] (RVC V2) (RMVPE) (500 epochs) (OV2),https://huggingface.co/Freddie-Dassin/Jim_Morrison/resolve/main/Jim-Morrison.zip?download=true
+Frida Puga-Casagrande (The Loud House/The Casagrandes) (RVC V2) [200 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/FridaPugaCasagrandeTLH-CG/resolve/main/FridaPugaCasagrandeTLH-CG.zip?download=true
+fpt (RMVPE) (RVC Ov2Super) 400 epochs,https://huggingface.co/SimplCup/fpt/resolve/main/fpt.zip?download=true
+Jam(Micheal Jackson Drums)(RVC V2)(RVMPE)(OV2)(450 Epochs - 7216 Steps)(48k Rate)(Crepe:320),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/MJ%20Jam%20Drums_e450_s7616.zip?download=true
+NMIXX Lily (400epoch/RVC V2),https://huggingface.co/coreliastreet/nmixxlily/resolve/main/NMIXX%20Lily?download=true
+Lana Del Rey (2019) RVC v2 - 400 Epochs,https://huggingface.co/pinguG/Lana-Del-Rey/resolve/main/LanaDelRey.zip
+Bettino Craxi (V2) (Italian politic) (90s audio era) [RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/Bettino-craxi-v2-2/resolve/main/Bettino-Craxi-V2.zip?download=true
+Pabllo Vittar (Batidão Tropical 2) RVC2 500EPOCHS,https://huggingface.co/maxmashup/PABLLOVITTAR/resolve/main/pabllovittarVOL2.zip?download=true
+Babylon(Lady Gaga Drums)(RVC V2)(RVMPE)(RIN_E3)(550 Epochs - 3290 Steps)(40k Rate)(Crepe:320),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/babylon_e550_s3290.zip?download=true
+Variable voice model [Mixture of Human Voice] (RVC2/RMPVE/550Epochs),https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/MixtureofHuman.zip?download=true
+Youtube Poop Intro Voice  [RVC v2 [Rmvpe] - 600 Epochs] [OV2],https://huggingface.co/Arakun97/RVCModels3/resolve/main/YTP%20Voice.zip?download=true
+Clyde Donovan (South Park) (RMVPE / RVC-V2 / 510 Epochs),https://huggingface.co/RandomlyCreatedAI/ClydeDonovan/resolve/main/ClydeDonovan.zip
+Marina Sena RVC2 RMVPE 500EPOCHS,https://huggingface.co/maxmashup/MarinaSena/resolve/main/500epochsmarinasena.zip?download=true
+Angel Dust (Hazbin Hotel/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam845/Hazbin_Spanish/resolve/main/AngelDustLatino.zip?download=true
+Lisa (BP: BLACKPINK) RVC2 500EPOCHS,https://huggingface.co/maxmashup/Lisa/resolve/main/LalisaBP.zip?download=true
+"You Are My Sunshine (LeBron James Meme, Christina Perri) (RVC V2, ItaIla) (100 Epochs)",https://huggingface.co/FanFierik/MySunshine/resolve/main/MySunshine.zip?download=true
+"Pip (Paladins) [360 Epochs, RMVPE, RVC2]",https://huggingface.co/lyery/mymodels/resolve/main/pip.zip?download=true
+Half-Life: Full-Life Consequences: Free Man  (RVC V2) (rmvpe) (100 Epochs),https://huggingface.co/Freaky98/Full-Life_Consequences_Free_man-rvc-v2-100e/resolve/main/Full-Life_Consequences_Free_man-rvc-v2-100e.zip?download=true
+"Cherri Bomb V2 (Hazbin Hotel, Italian Dub) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/CherriBombV2/resolve/main/CherriBombV2.zip?download=true
+"Tony Effe (Italian Rapper) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/TonyEffe/resolve/main/TonyEffe.zip?download=true
+"ElMatadorMc7 (Italian Rapper) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/ElMatadorMc7/resolve/main/ElMatadorMc7.zip?download=true
+"Mac64 (Italian Tiktoker) (RVC V2, ItaIla) (150 Epochs)",https://huggingface.co/FanFierik/Mac64/resolve/main/Mac64.zip?download=true
+"New Brian (Family Guy, Italian Dub) (RVC V2, ItaIla) (75 Epochs)",https://huggingface.co/FanFierik/NuovoBrian/resolve/main/NuovoBrian.zip?download=true
+"Jerry (Tom & Jerry, Italian voice from the 1992 movie) (RVC V2, ItaIla) (50 Epochs)",https://huggingface.co/FanFierik/Jerry/resolve/main/Jerry.zip?download=true
+Moka Akashiya (Rosario Vampire) (Outer Persona) (ENG Dub) (RVC V2) (250 Epochs),https://huggingface.co/ABF54/ABFRVC/resolve/main/Moka_Akashiya(outer_persona32k).zip?download=true
+"Korean Female Voice Vol2 (RVMPE, RVC2, 1000Epochs)",https://huggingface.co/SeoulStreamingStation/IU-Voice-MultiLanguage-V1/resolve/main/KoreanGirl_KLMv7.zip?download=true
+The Fisherman - Half-Life 2: Lost Coast  (RVC V2) (rmvpe) (240 Epochs),https://huggingface.co/Freaky98/The_Fisherman-rvc2-240e/resolve/main/The_Fisherman-rvc2-240e.zip?download=true
+SZA (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/szajean/imaniv2-by-szajean/resolve/main/imaniv2-by-szajean.zip?download=true
+Nino Egyn (RVMPE) RVC V2 [700 Epochs],https://huggingface.co/HinaBl/Nino-Egyn/resolve/main/NinoEgyn_700.zip?download=true
+CodeMiko (RVC v2) (300 Epochs) [RMVPE],https://huggingface.co/Sekuro/my_models/resolve/main/CodeMiko.zip
+GameHut (Jon Burton/Traveller's Tales) (RVC V2) (300 Epochs),https://huggingface.co/LopunGerts/Celeb/resolve/main/GameHut.zip?download=true
+SoraASMR | RVC 2 32K | RMVPE 230 Epochs,https://huggingface.co/Razer112/SoraASMR/resolve/main/SoraASMR.zip?download=true
+Rui (Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles) (RVC V2 300 E RMVPE),https://huggingface.co/Coolwowsocoolwow/Rui_Demon_Slayer_Kimetsu_no_Yaiba_The_Hinokami_Chronicles/resolve/main/Rui_Demon_Slayer_Kimetsu_no_Yaiba_The_Hinokami_Chronicles_v2.zip?download=true
+(FNF:The Sonic.EXE Rerun UST) (RVC V2) [250 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/FNF_The_Sonic.EXE_Rerun_UST/resolve/main/FNF_The_Sonic.EXE_Rerun_UST.zip?download=true
+"Tinky Winky (Robot Chicken) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/TinkyWinkyRC.zip
+"Kim Possible (Robot Chicken) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/KimPossibleRC.zip
+"Jingbah (Robot Chicken) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/JingbahRC.zip
+"Mario (Robot Chicken) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/MarioRC.zip
+Cooper2723(RVC V2)(RVMPE)(OV2)(450 Epochs - 4867 Steps)(Crepe:320)(40k Rate),https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/Cooper2723_e450_s4867.zip?download=true
+Karl Jobst (RVC V2) [140 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Karl-Jobst/resolve/main/Karl-Jobst_e140_s5460.zip?download=true
+Mato Kuroi (Black Rock Shooter OVA Japanese)  [RVC [Rmvpe] - 550 Epochs] [OV2],https://huggingface.co/Arakun97/RVCModels3/resolve/main/Mato%20Kuroi.zip?download=true
+Gwimbly (Smiling Friends) (RVC v2 RMVPE) (OV2) (200 Epochs),https://huggingface.co/EvanTheToonGuy40/RVC_Models/resolve/main/GwimblySmilingFriends.zip?download=true
+Comet (Azur Lane) [JP] (RVC v2) (550 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Comet-JP.zip?download=true
+IPhone Radar Ringtone (RVC V2) [500 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/IPhone-Radar-Ringtone/resolve/main/IPhone-Radar-Ringtone_v2.zip?download=true
+Snapchat Calling Sound (RVC V2) [400 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Snapchat-Call-Sound/resolve/main/Snapchat-Call-Tone_v2.zip?download=true
+Chica (FHSZ3R0) (RVC V2) [200 Epochs] (0v2 Pretrain) (RMVPE),https://huggingface.co/Coolwowsocoolwow/Chica-FHSZ3R0/resolve/main/Chica_250_s2000.zip?download=true
+Blink SFX (Sgt. Frog/Keroro Gunsou) (RVC V2) (1000 Epochs),https://huggingface.co/LopunGerts/KeroroGunsouCharactersRVC/resolve/main/KeroroGunsouBlinkSFX.zip?download=true
+Cartoon Blinking SFX (RVC V2) (1000 Epochs),https://huggingface.co/LopunGerts/MooseAMooseRVC/resolve/main/BlinkingSFX.zip?download=true
+Messenger Call And Notification Sounds (RVC V2) [500 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Messenger-Notification-And-Call-Sound/resolve/main/Messenger-Call-And-Message-Sound_v2.zip?download=true
+Gus Porter (italian dub) (the owl House) (vocie actor Gabriele Meoni) [RVCV2] [Itaila] [150 Epochs],https://huggingface.co/Loren85/Gus-Tho-Ita/resolve/main/Gus-Tho-Ita.zip?download=true
+Mrs. Worthmore (El Chavo The Animated Series English) (Ov2) (RVC V2) - 450 Epochs),https://huggingface.co/Elinvasor12/El_Chavo_English_Dub/resolve/main/Mrs_Worthmore_eng450.zip
+"Todd (ToddWorld) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/ToddTW.zip
+Sabine Hossenfelder (RVC V2 RMVPE) (350 Epochs),https://huggingface.co/swagmaster69/sabhos_rvc_v2/resolve/main/sabinehossenfelder.zip?download=true
+Tessa Elliott (RVC V2) (Murder Drones) (Rus Dub) (500 Epochs) (Trained on Snowie V3),https://huggingface.co/Player1444/AI.models/resolve/main/Tessa%20Elliott-rus%20dub%20(Trained%20on%20Snowie%20V3.1).zip?download=true
+"Lisa Simpson (The Simpsons) (Latin American Spanish) (RVC v2, RMVPE - 600 epochs)",https://huggingface.co/AITony70100/LisaSimpsonESLA/resolve/main/LisaSimpsonESLA_v2_600e.zip
+Lincoln Loud (all known voice actors combined) (255 Epochs) RVC V2,https://huggingface.co/TheCyiTriangularDevil/LincolnLoudMA/resolve/main/Lincoln%20Loud%20(Mixed%20Actors).zip?download=true
+"Yoru(Japanese,Valorant)(RVC V2)(RVMPE)(OV2)(40k)(500 Epochs - 6981 Steps)",https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/YoruJP_e500_s6981.zip?download=true
+Kiara Takanashi [RVC v2] [RMVPE] [Itaila] 175 Epochs 82600 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/KiaraTakanashi_RVC_v2_Itaila_e175_s82600.zip?download=true
+"Eazy-E (RVC V2) 120 Epochs, RMVPE",https://huggingface.co/SpydahX/EazyERVC/resolve/main/Eazy-E.zip?download=true
+Rosé (BP: BLACKPINK) BY Pockymashup RVC2 (RMVPE) 500EPOCHS,https://huggingface.co/maxmashup/RoseByPockymashup/resolve/main/Rosé500epochs.zip?download=true
+"Lemon Demon (Friday Night Funkin) RVC V2, RIN E3, 300 Epochs, RMVPE",https://huggingface.co/BunnyToon/lemon/resolve/main/lemon-demon.zip?download=true
+Literally the Windows XP Shutdown Sound (300 Epochs) RVC V2,https://huggingface.co/TheCyiTriangularDevil/xpshutdown/resolve/main/Windows%20XP%20Shutdown.zip?download=true
+Literally the Windows XP Startup Sound (300 Epochs) RVC V2,https://huggingface.co/TheCyiTriangularDevil/xpstartup/resolve/main/Windows%20XP%20Startup.zip?download=true
+"Dr. Andre Lee [Inside Job] [VA: Bobby Lee] (OV2, RMVPE) (RVC V2) 250 Epochs",https://huggingface.co/MrSneakyD/InsideJob_RVC_Models/resolve/main/DrAndreLee.zip
+Kipo (and the Age of Wonderbeasts) (RVC V2) (RMVPE 32K) (120 Epochs),https://huggingface.co/Cauthess/Kipo/resolve/main/Kipo%20-%20Age%20of%20WonderBeast.zip?
+"Melodie (Brawl Stars - Amplify this Melodie) RVC V2, 300 Epochs, RMVPE, Rin E3",https://huggingface.co/BunnyToon/melodie/resolve/main/melodie-sing.zip?download=true
+"Gaylord Steambath (Minecraft: The Noob Adventures) (RVC v2, RMVPE)  (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/GaylordSteambath.zip
+Husk (Hazbin Hotel/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam845/Hazbin_Spanish/resolve/main/HuskLatino.zip?download=true
+Doctor Merlot (RWBY) (RVC v2) (270 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Doctor-Merlot-V2.zip?download=true
+Papa Francesco - Pope Francis (Iconic religious figure) (new model) [RVCV2] [Itaila] [300 Epochs],https://huggingface.co/Loren85/Papa-Francesco-New-Model/resolve/main/Papa-francesco-New-version.zip?download=true
+Radio - P.T. Silent Hill [RVC v2] [125 epochs],https://huggingface.co/RYUMIXTAPE/RVC-v2/resolve/main/SilentHill-radio.zip
+"Big Chow Slim (SheZow) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/BigChowSlim.zip
+"Phoenix(Valorant,Japanese)(RVC V2)(RVMPE)(OV2)(450 Epochs - 5844 Steps)",https://huggingface.co/notiscBalbalEko/MYCRAPRVCMODELS/resolve/main/PhoenixJP_e450_s5844.zip?download=true
+Lucifer Morningstar (Hazbin Hotel/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam845/Lucifer_Spanish_Dub/resolve/main/LuciferV2Latino.zip?download=true
+"Dylan Mulvaney (Bud Light) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/DylanMulvaney.zip
+Lillia (League of Legends) - RVCv2 | 500 Epochs/RMVPE,https://huggingface.co/AyyMann/AyyMannAI/resolve/main/LilliaTheBashfulBloom.zip?download=true
+Rammus (League of Legends) - RVCv2 | 500 Epochs/RMVPE,https://huggingface.co/AyyMann/AyyMannAI/resolve/main/RammusTheArmordillo.zip?download=true
+Malphite (League of Legends) - RVCv2 | 500 Epochs/RMVPE,https://huggingface.co/AyyMann/AyyMannAI/resolve/main/MalphiteShardOfTheMonolithV2.zip?download=true
+Eden Golan (Israeli Eurovision Candidate) [RVC V2] [RMVPE] [400 Epochs],https://huggingface.co/yraziel/edengolan/resolve/main/eden_golan.zip?download=true
+Chloe Bailey (300 EPOCHS) (RVC V2) (OV2),https://huggingface.co/JustBill/ChloeBailey/resolve/main/Chloe%20Bailey%20(300%20Epochs).zip?download=true
+"Mr Funny (The Mr Men Show S2) (RVC V2, 200 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/mrfunny.zip
+Mommy Girl Voice (RVC 2 - 150 Epochs) (Tune -> [8-10]),https://huggingface.co/EnduGalletaa/GoatMommy/resolve/main/GoatMommy.zip?download=true
+"Mr Fussy / Mr Per(s)nickety (The Mr Men Show) (RVC V2, 250 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/mrfussy.zip
+Nekomata Okayu (HoloLive JP) (RVC V2) [180 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Nekomata_Okayu_HoloLive_JP/resolve/main/Nekomata_Okayu_HoloLive_JP_v2.zip?download=true
+Girlfriend (FNF Logic/Gametoons) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Girlfriend-FNF-Logic-Gametoons/resolve/main/Girlfriend-FNF-Logic-Gametoons_v2.zip?download=true
+"Stimpson J. Cat [Ren & Stimpy] [S1 era/1991-1992] (OV2, RMVPE) (RVC V2) 250 Epochs",https://huggingface.co/MrSneakyD/Ren-and-Stimpy_RVCs/resolve/main/Stimpy-S1.zip
+"Sheldon (Splatoon series) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/SheldonSplatoon.zip
+Vox (Hazbin Hotel/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam845/Vox_Latin_American_Spanish_Dub/resolve/main/VoxV2Latino.zip?download=true
+The Weather Channel IntelliStar Voice (RVC V2) [160 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Weather-Channel-IntelliStar-Voice/resolve/main/Weather-channel-intellistar-voice_e160_s9600.zip?download=true
+Mark VII Limited hammer & timpani (RVC v2) (Ov2) (400 epochs) (rvmpe),https://huggingface.co/FrankZ/FrankZs-RVC-models/resolve/main/MarkVIILimited.zip
+S.A.M. (voice Commodore 64 Software) (1982) [RVCV2] [itaila] [250 Epochs],https://huggingface.co/Loren85/C64-Voice-sam/resolve/main/C64-Voice-sam.zip?download=true
+"Mr Messy (The Mr Men Show) (RVC V2, 250 Epochs) (RMVPE) (OV2)",https://huggingface.co/ToffeeChad/toffeesmodernrvcmodels/resolve/main/mrmessy.zip
+Santi The Food Theorist (RMVPE) (RVC V2) 250 epochs,https://huggingface.co/SimplCup/SantiTheFoodTheorist/resolve/main/SantiTheFoodTheorist.zip?download=true
+Lincoln Loud (mixed actors) (uberduck.ai) (755 Epochs) RVC V2,https://huggingface.co/TheCyiTriangularDevil/LincolnLouduberduck.ai/resolve/main/Lincoln%20Loud%20(mixed%20actors)%20(uberduck.ai).zip?download=true
+Apricot aka Froot RVMPE RVC v2 500 Epochs,https://huggingface.co/JespeRRR/Apricot/resolve/main/Froot.zip
+Carlos Casagrande (The Loud House/The Casagrandes) (RVC V2) [300 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/CarlosCasagrandeTLH-CG/resolve/main/CarlosCasagrandeTLH-CG.zip?download=true
+Sora Amamiya [RVC v2] [RMVPE] [Itaila] 450 Epochs 26550 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/SoraAmamiya_RVC_v2_Itaila_e450_s26550.zip?download=true
+taylor swift-1989 era (RVC V2/450epoch),https://huggingface.co/coreliastreet/taylorswift1989/resolve/main/taylorswift.zip?download=true
+Everest (PAW Patrol) (500 Epochs) (RVC V2) (RMVPE),https://huggingface.co/huggingfaceuser2004/RVC-Models/resolve/main/Everest.zip?download=true
+Tashkent (Azur Lane) [JP] (RVC v2) (590 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Tashkent-JP.zip?download=true
+Boyfriend (FNF Logic/Gametoons) (RVC V2) [250 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Boyfriend-FNF-Tails-Gets-Trolled/resolve/main/Boyfriend-FNF-Tails-Gets-Trolled_v2.zip?download=true
+Zote (from Hollow knight) RVC v2 985 epochs rmvpe,https://huggingface.co/mrcreeper5/zotev2/resolve/main/zotev2.zip?download=true
+Fred (FHSZ3R0) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Fred-FHSZ3R0/resolve/main/Fred-FHSZ3R0_v2.zip?download=true
+Zeb89 (italian Youtuber) (new version model) (2015 era) [RVCV2] [ITALIA] [300 Epochs],https://huggingface.co/Loren85/Zeb89-New-Version/resolve/main/Zeb89%20new%20version.zip?download=true
+"Splatoon 1 Commercial Singer (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/Splatoon1CommercialSinger.zip
+Bushwhack18 (RVC V2) [240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Bushwhack18/resolve/main/Bushwhack18.zip?download=true
+Mai (FNAFHS Season 2) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Mai-FNAFHS-Season-2/resolve/main/Mai-FNAFHS-Season-2.zip?download=true
+"Lorenzomango (Italian Youtuber) (RVC V2, OV2) (60 Epochs)",https://huggingface.co/FanFierik/LorenzoMango/resolve/main/LorenzoMango.zip?download=true
+"Giuseppe ""Mandrake"" Ninno (Italian Tiktoker) (RVC V2, OV2) (80 Epochs)",https://huggingface.co/FanFierik/Mandrake/resolve/main/Mandrake.zip?download=true
+"Clementino (Italian Singer) (RVC V2, OV2) (80 Epochs)",https://huggingface.co/FanFierik/Clementino/resolve/main/Clementino.zip?download=true
+"ThaSup 2.0 (Italian Rapper, Talking Voice) (RVC V2, OV2) (300 Epochs)",https://huggingface.co/FanFierik/ThaSup2/resolve/main/ThaSup2.zip?download=true
+"Penelope (Family Guy, Italian Dub) (RVC V2, OV2) (100 Epochs)",https://huggingface.co/FanFierik/Penelope/resolve/main/Penelope.zip?download=true
+"Zameninja (Italian Singer) (RVC V2, OV2) (80 Epochs)",https://huggingface.co/FanFierik/Zameninja/resolve/main/Zameninja.zip?download=true
+Superman Superman (Lego Dimensions) (RVC V2) (RIN_E3) [300 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Superman-Lego-Dimensions/resolve/main/Superman-Lego-Dimensions_300e_1200s.zip?download=true
+Akira Nishikiyama (Yakuza Kiwami) - RVC2 600 EPOCHS,https://huggingface.co/ruubi727/Akira_Nishikiyama/resolve/main/Akira_Nishikiyama.zip?download=true
+The Living Tombstone - FNAF 1 Song Voice (RMVPE) (RVC V2) 600 epochs,https://huggingface.co/SimplCup/FNAF1SongVoice/resolve/main/TLTFNAF1Voice%20.zip?download=true
+Tom The Game Theorist (RMVPE) (RVC V2) 300 epochs,https://huggingface.co/SimplCup/TomTheTheorist/resolve/main/Tom.zip?download=true
+SML Ronald Mcdonald (RVC V2) [160 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/SML-Ronald-McDonald/resolve/main/SML-Ronald-MdDonald_e160_s2560.zip?download=true
+Joker (Joaquin Phoenix) (RVC V2) [300 Epochs] (Remade),https://huggingface.co/frankmurray/Jokers/resolve/main/Joker%20(2).zip?download=true
+Dr. Phil (RVC V2) [220 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Dr.Phill/resolve/main/Dr.Phil_v2.zip?download=true
+"Neptune (Super Neptunia RPG) (RVC V2) [Ov2, 170 Epochs] (RMVPE)",https://huggingface.co/Coolwowsocoolwow/Neptune-Super-Neptunia-RPG/resolve/main/_Neptune%20(Super%20Neptunia%20RPG)_v2.zip?download=true
+"Usada Pekora & PekoMama (RVC V2) (Ov2, 50 Epochs)",https://huggingface.co/dacoolkid44/VTuber-RVC/resolve/main/Pekora%20and%20PekoMama.zip?download=true
+Dan Reynolds (Singer of Imagine Dragons) (RVC V2) (RMVPE/250 epochs),https://huggingface.co/MusologyWavey/MusologyRVC/resolve/main/Dan%20Reynolds.zip?download=true
+Alastor (Hazbin Hotel/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam845/Alastor_Latino/resolve/main/AlastorV2Latino.zip?download=true
+Ninomae Ina’nis (HoloLive ENG) (RVC V2) [250 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Ninomae-Inanis-HoloLive-ENG/resolve/main/Ninomae-Inanis-HoloLive-ENG-.zip?download=true
+Zeb89 (italian Youtuber) (new version model) (2015 era) [RVCV2] [ITALIA] [300 Epochs],https://huggingface.co/Loren85/Zeb89-New-Version/resolve/main/Zeb89%20new%20version.zip?download=true
+"Splatoon 1 Commercial Singer (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/Splatoon1CommercialSinger.zip
+Bushwhack18 (RVC V2) [240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Bushwhack18/resolve/main/Bushwhack18.zip?download=true
+Mai (FNAFHS Season 2) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Mai-FNAFHS-Season-2/resolve/main/Mai-FNAFHS-Season-2.zip?download=true
+"Lorenzomango (Italian Youtuber) (RVC V2, OV2) (60 Epochs)",https://huggingface.co/FanFierik/LorenzoMango/resolve/main/LorenzoMango.zip?download=true
+"Giuseppe ""Mandrake"" Ninno (Italian Tiktoker) (RVC V2, OV2) (80 Epochs)",https://huggingface.co/FanFierik/Mandrake/resolve/main/Mandrake.zip?download=true
+"Clementino (Italian Singer) (RVC V2, OV2) (80 Epochs)",https://huggingface.co/FanFierik/Clementino/resolve/main/Clementino.zip?download=true
+"ThaSup 2.0 (Italian Rapper, Talking Voice) (RVC V2, OV2) (300 Epochs)",https://huggingface.co/FanFierik/ThaSup2/resolve/main/ThaSup2.zip?download=true
+"Penelope (Family Guy, Italian Dub) (RVC V2, OV2) (100 Epochs)",https://huggingface.co/FanFierik/Penelope/resolve/main/Penelope.zip?download=true
+"Zameninja (Italian Singer) (RVC V2, OV2) (80 Epochs)",https://huggingface.co/FanFierik/Zameninja/resolve/main/Zameninja.zip?download=true
+Superman Superman (Lego Dimensions) (RVC V2) (RIN_E3) [300 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Superman-Lego-Dimensions/resolve/main/Superman-Lego-Dimensions_300e_1200s.zip?download=true
+Akira Nishikiyama (Yakuza Kiwami) - RVC2 600 EPOCHS,https://huggingface.co/ruubi727/Akira_Nishikiyama/resolve/main/Akira_Nishikiyama.zip?download=true
+The Living Tombstone - FNAF 1 Song Voice (RMVPE) (RVC V2) 600 epochs,https://huggingface.co/SimplCup/FNAF1SongVoice/resolve/main/TLTFNAF1Voice%20.zip?download=true
+Tom The Game Theorist (RMVPE) (RVC V2) 300 epochs,https://huggingface.co/SimplCup/TomTheTheorist/resolve/main/Tom.zip?download=true
+SML Ronald Mcdonald (RVC V2) [160 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/SML-Ronald-McDonald/resolve/main/SML-Ronald-MdDonald_e160_s2560.zip?download=true
+Joker (Joaquin Phoenix) (RVC V2) [300 Epochs] (Remade),https://huggingface.co/frankmurray/Jokers/resolve/main/Joker%20(2).zip?download=true
+Dr. Phil (RVC V2) [220 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Dr.Phill/resolve/main/Dr.Phil_v2.zip?download=true
+"Neptune (Super Neptunia RPG) (RVC V2) [Ov2, 170 Epochs] (RMVPE)",https://huggingface.co/Coolwowsocoolwow/Neptune-Super-Neptunia-RPG/resolve/main/_Neptune%20(Super%20Neptunia%20RPG)_v2.zip?download=true
+"Usada Pekora & PekoMama (RVC V2) (Ov2, 50 Epochs)",https://huggingface.co/dacoolkid44/VTuber-RVC/resolve/main/Pekora%20and%20PekoMama.zip?download=true
+Dan Reynolds (Singer of Imagine Dragons) (RVC V2) (RMVPE/250 epochs),https://huggingface.co/MusologyWavey/MusologyRVC/resolve/main/Dan%20Reynolds.zip?download=true
+Alastor (Hazbin Hotel/Latin American Spanish Dub) (Ov2) (RMVPE) (RVC V2) - 400 Epochs,https://huggingface.co/Sam845/Alastor_Latino/resolve/main/AlastorV2Latino.zip?download=true
+Ninomae Ina’nis (HoloLive ENG) (RVC V2) [250 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Ninomae-Inanis-HoloLive-ENG/resolve/main/Ninomae-Inanis-HoloLive-ENG-.zip?download=true
+Gascogne (Azur Lane) [JP] (RVC v2) (350 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Gascogne-JP.zip?download=true
+Joy (FNAFHS Season 2) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Joy-FNAFHS-Season-2/resolve/main/Joy-FNAFHS-Season-2.zip?download=true
+Dipper Pines/Диппер (Gravity Falls Russian Dub Гравити Фолз) (RVC V2) (OV2 Pretrain) [200 Epochs],https://huggingface.co/iamalexcaspian/DipperPines-GravityFalls-RusDub/resolve/main/DipperPines-GravityFalls-RusDub.zip?download=true
+"Ellie Rose (The Henry Stickmin Collection) | RVC V2, 200 epochs",https://huggingface.co/DaRkSpyro/EllieRoseHenryStickminSeries/resolve/main/Ellie%20Rose.zip?download=true
+Mivi Aivori (Triple A Club Vtuber) (RVC V2) (Ov2) (250 EPOCHS),https://huggingface.co/FredDoes2/FredsRVCModels/resolve/main/MiviAivori-E250.zip?download=true
+"Sora (Kingdom Hearts III) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/SoraKH3.zip
+Грустный Пакет (RMVPE) (RVC V2) 400 epochs,https://huggingface.co/SimplCup/GrustnyPacket/resolve/main/GrustnyPacket.zip?download=true
+Wheatley (RVC V2) [170 Epochs],https://huggingface.co/Amplify-TF/Wheatley/resolve/main/WheatleyV2.zip?download=true
+Firefly(JP) | Honkai: Star Rail | RVC V2 | rmvpe | 250 epochs,https://huggingface.co/riezzz/firefly_jp/resolve/main/hotaru.zip?download=true
+"Vivlos (Uma Musume Pretty Derby) (RMVPE) (RVC v2, 600 Epochs)",https://huggingface.co/maryishi/IshiMary_RVC_Models/resolve/main/Vivlos_RMVPE_600Epochs.zip?download=true
+Bismarck V2 (Azur Lane) [JP] (RVC v2) (130 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Bismarck-JP-V2.zip?download=true
+Luigi [Hotel Mario Beta/Pilot Ver] (RVC v2 | 500 Epochs),https://huggingface.co/SyberGen/Mario-VModels/resolve/main/Luigi-HotelMarioCDiBeta.zip?download=true
+Real Mommy-Girl voice (RVC 2 - 110 Epochs),https://huggingface.co/EnduGalletaa/Real_Mommy_girl/resolve/main/Finalmmy_110e_7700s.zip?download=true
+Egg Boiz (Hazbin Hotel/Latin American Spanish Dub) (RVC V2) (RMVPE) (OV2) - 400 Epochs,https://huggingface.co/Sam845/Egg_Bois_Latino/resolve/main/EggBois.zip?download=true
+Singer First OP Dragon Ball Heroes (JAP) (voice singer Takayoshi Tanimo)  [RVCV2] [OV2] [300 Epochs],https://huggingface.co/Loren85/Singer-DBH-Jap/resolve/main/Singer%20DBH%20JAP.zip?download=true
+Gascogne (Azur Lane) [JP] (RVC v2) (350 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Gascogne-JP.zip?download=true
+Joy (FNAFHS Season 2) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Joy-FNAFHS-Season-2/resolve/main/Joy-FNAFHS-Season-2.zip?download=true
+Dipper Pines/Диппер (Gravity Falls Russian Dub Гравити Фолз) (RVC V2) (OV2 Pretrain) [200 Epochs],https://huggingface.co/iamalexcaspian/DipperPines-GravityFalls-RusDub/resolve/main/DipperPines-GravityFalls-RusDub.zip?download=true
+"Ellie Rose (The Henry Stickmin Collection) | RVC V2, 200 epochs",https://huggingface.co/DaRkSpyro/EllieRoseHenryStickminSeries/resolve/main/Ellie%20Rose.zip?download=true
+Mivi Aivori (Triple A Club Vtuber) (RVC V2) (Ov2) (250 EPOCHS),https://huggingface.co/FredDoes2/FredsRVCModels/resolve/main/MiviAivori-E250.zip?download=true
+"Sora (Kingdom Hearts III) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/SoraKH3.zip
+Грустный Пакет (RMVPE) (RVC V2) 400 epochs,https://huggingface.co/SimplCup/GrustnyPacket/resolve/main/GrustnyPacket.zip?download=true
+Wheatley (RVC V2) [170 Epochs],https://huggingface.co/Amplify-TF/Wheatley/resolve/main/WheatleyV2.zip?download=true
+Firefly(JP) | Honkai: Star Rail | RVC V2 | rmvpe | 250 epochs,https://huggingface.co/riezzz/firefly_jp/resolve/main/hotaru.zip?download=true
+"Vivlos (Uma Musume Pretty Derby) (RMVPE) (RVC v2, 600 Epochs)",https://huggingface.co/maryishi/IshiMary_RVC_Models/resolve/main/Vivlos_RMVPE_600Epochs.zip?download=true
+Bismarck V2 (Azur Lane) [JP] (RVC v2) (130 Epochs),https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Bismarck-JP-V2.zip?download=true
+Luigi [Hotel Mario Beta/Pilot Ver] (RVC v2 | 500 Epochs),https://huggingface.co/SyberGen/Mario-VModels/resolve/main/Luigi-HotelMarioCDiBeta.zip?download=true
+Real Mommy-Girl voice (RVC 2 - 110 Epochs),https://huggingface.co/EnduGalletaa/Real_Mommy_girl/resolve/main/Finalmmy_110e_7700s.zip?download=true
+Egg Boiz (Hazbin Hotel/Latin American Spanish Dub) (RVC V2) (RMVPE) (OV2) - 400 Epochs,https://huggingface.co/Sam845/Egg_Bois_Latino/resolve/main/EggBois.zip?download=true
+Singer First OP Dragon Ball Heroes (JAP) (voice singer Takayoshi Tanimo)  [RVCV2] [OV2] [300 Epochs],https://huggingface.co/Loren85/Singer-DBH-Jap/resolve/main/Singer%20DBH%20JAP.zip?download=true
+Hector Casagrande (The Loud House/The Casagrandes) (RVC V2) [210 Epochs] (OV2) (RMVPE),https://huggingface.co/iamalexcaspian/HectorCasagrandeTLH-CG/resolve/main/HectorCasagrandeTLH-CG.zip?download=true
+Novasaur GF (Friday Night Funkin') (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Novasaur-GF-Friday-Night-Funkin/resolve/main/Novasaur-GF-Friday%20Night%20Funkin'.zip?download=true
+Pigstep Drums (RMVPE) (RVC V2) 300 epochs,https://huggingface.co/SimplCup/PigstepDrums/resolve/main/PigstepDrums.zip?download=true
+Gamers Nexus (RMVPE) (RVC V2) 100 epochs,https://huggingface.co/SimplCup/GamersNexus/tree/main
+Maria Casagrande Santiago (The Loud House/The Casagrandes) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/iamalexcaspian/MariaCasagrandeSantiagoTLH-CG/resolve/main/MariaCasagrandeSantiagoTLH-CG.zip?download=true
+"Birdo (Super Mario Franchise) - RVC v2, OV2, RMVPE, 500 Epochs",https://huggingface.co/Xhepyxopila/MiscCartoonModelsRVC/resolve/main/Birdo.zip?download=true
+Ryan Hall Y'all (Weather Youtuber) [RVC V2] [450 Epochs],https://huggingface.co/MusologyWavey/MusologyRVC/resolve/main/RyanHallYall.zip?download=true
+Farmer (DBL Voice) (April full) [RVCV2] [OV2] [300 Epochs],https://huggingface.co/Loren85/FarmerDBl/resolve/main/FarmerDBJAP.zip?download=true
+EN Dub Boothill CV: Andrew Russell (Star Rail) (RVC V2) 290 Epochs,https://huggingface.co/makiligon/RVC-Models/resolve/main/Boothill.zip
+Parn Tanaphorn (Pre-Debut era.) (RVC V2/Ov2/rmvpe) 500 epochs,https://huggingface.co/Gridsada/YSNAiVoiceModel/resolve/main/PredebutParn.zip?download=true
+LinusTechTips \ Linus (RMVPE) (RVC V2) 300 epochs,https://huggingface.co/SimplCup/Linus/resolve/main/Linus.zip?download=true
+LEFT RIGHT LEFT RIGHT Voice [Hotel Mario Beta/Pilot Ver] (RVC v2 | 450 Epochs),https://huggingface.co/SyberGen/Mario-VModels/resolve/main/LeftRight-HotelMarioCDiPilot.zip?download=true
+"Hannah Mrozak (RVC V2, RMVPE, OV2, 200 Epochs)",https://huggingface.co/Wenardelle/Hannah-Mrozak-RVC-Request/resolve/main/Hannah-Mrozak_e200.zip?download=true
+Mario [Hotel Mario Beta/Pilot Ver] (RVC v2 | 450 Epochs),https://huggingface.co/SyberGen/Mario-VModels/resolve/main/Mario-HotelMarioCDiPilot.zip?download=true
+Schaffrillas Productions (Youtuber) (250 Epochs) (RVC v2),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/SchaffrillasProd.zip?download=true
+Spider Gwen/Gwen Stacy (Lego Marvel Superheroes 2) (RVC V2) [100 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Spider-Gwen/resolve/main/Spider-Gwen.zip?download=true
+"Rival Octoling (Splatoon series) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/RivalOctolingSplatoon.zip
+Tech Rax (RVC V2) [140 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Tech-Rax/resolve/main/Tech-Rax.zip?download=true
+Morty Smith (Rick and Morty) (Turkish Dub) (OV2) (RVC V2) (40k) (Rmvpe) (175 epoch),https://huggingface.co/Goldeath/RickAndMorty/resolve/main/MortyTR.zip?download=true
+Portal Announcer [Joe Micheals] (RVC V2) [400 Epochs],https://huggingface.co/Amplify-TF/Portal-Announcer/resolve/main/Portal-Announcer.zip?download=true
+JVKE (RVC V2) [160 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/JVKE/resolve/main/JVKE_e160_s12000.zip?download=true
+SCP-079 - SCP: Containment Breach (RVC V2) (rmvpe) (80 Epochs),https://huggingface.co/Freaky98/SCP-079-rvc-v2-80e/resolve/main/SCP-079-rvc-v2-80e.zip?download=true
+Girlfriend (Super Funkin Galaxy V1 Demo) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Girlfriend-Super-Funkin-Galaxy-V1-Demo/resolve/main/Girlfriend-Super-Funkin%20Galaxy%20V1-Demo_e200_s600.zip?download=true
+Flushy_GT (GT Youtuber) (RVC V2) 300 Epochs,https://huggingface.co/jkhgf/SLWooly/resolve/main/Flushy_GT.zip
+"Yuta Okkotsu ENG (JJK 0) [RVC v2, RMVPE, 200 Epochs]",https://huggingface.co/jay-was-unavailable/YutaENG/resolve/main/YutaENG.zip?download=true
+Dawid Does Tech Stuff (RMVPE) (RVC V2) 200 epochs,https://huggingface.co/SimplCup/DawidDoesTechStuff/resolve/main/DawidDoesTechStuff.zip?download=true
+Donald Trump (RVC V2) [220 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Donald-J.-Trump/resolve/main/Donald-Trump.zip?download=true
+"Pearl Krabs (SpongeBob SquarePants) - RVC v2, OM2, RMVPE, 500 Epochs",https://huggingface.co/Xhepyxopila/MiscCartoonModelsRVC/resolve/main/PearlKrabsV2.zip?download=true
+Literally The Sounds From The Little Einsteins Rocket Toy (RVC V2) [500 E] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Little-Einsteins-Rocket/resolve/main/added_IVF84_Flat_nprobe_1_Rocket.zip?download=true
+Mario Clock Alarm [RVC V2 [Rmvpe] - 550 Epochs],https://huggingface.co/Arakun97/RVCModels3/resolve/main/MarioWakeUp.zip?download=true
+Donald Trump (RVC V2) [135 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Donald-Trump/resolve/main/Donald-Trump_e135_s6480.zip?download=true
+Ada Wong (Resident Evil 4) (2023) (RVC Ov2) (300 Epochs) (RMVPE),https://huggingface.co/Sekuro/my_models/resolve/main/adawongre4.zip
+Thomasin McKenzie (RVC v2) (300 Epochs) (RMVPE),https://huggingface.co/Sekuro/my_models/resolve/main/thomasinmckenzie.zip
+Mangle [FNaF 2] (RVC V2)(800 Epochs),https://huggingface.co/Doubledare/Mangle_rvc2/resolve/main/Mangle.zip?download=true
+Kanna Kamui (Maid Dragon) (RVC 2)(RMVPE)(500 epochs),https://huggingface.co/nicolobos77/KannaRVC/resolve/main/Kanna.zip
+Diane Foxington (The Bad Guys) (RVC V2) (OV2) (RMVPE) (440 Epochs),https://huggingface.co/Wenardelle/Diane-Foxington-RVC/resolve/main/Diane%20Foxington%20RVC%20e440.zip?download=true
+Mr. Wolf (The Bad Guys) (RVC V2) (OV2) (RMVPE) (560 Epochs),https://huggingface.co/Wenardelle/Mr-Wolf-RVC/resolve/main/Mr.%20Wolf%20RVC%20e560.zip?download=true
+Kai From (Lego Dimensions) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Kai-Lego-Dimensions/resolve/main/added_IVF163_Flat_nprobe_1_%20Kai-(Lego%20Dimensions).zip?download=true
+"Azumi Takahashi (RVC V2 - Ov2 Super Pretrain, 200 Epochs, RVMPE)",https://huggingface.co/echoesp/EchoesRVCCompendium/resolve/main/AzumiTakahashi.zip?download=true
+Dunk Pankorn (RVC v2/OV2/rmvpe) 300 epochs,https://huggingface.co/Gridsada/YSNAiVoiceModel/resolve/main/DunkPankornOV2.zip?download=true
+Little Bits (Wander Over Yonder) (RVC V2) (Ov2) (150 EPOCHS),https://huggingface.co/FredDoes2/FredsRVCModels/resolve/main/LittleBits-E150.zip?download=true
+Carlota Casagrande (The Loud House/The Casagrandes) (RVC V2) [450 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/CarlotaCasagrandeTLH-CG/resolve/main/CarlotaCasagrandeTLH-CG.zip?download=true
+"Bad Cop (The LEGO Movie/LEGO Dimensions) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/BadCopLEGODimensions.zip
+Moistcritical \ penguinz0 (RMVPE) (RVC V2) 200 epochs,https://huggingface.co/SimplCup/moistcriticalv2/resolve/main/Moistcritical.zip?download=true
+"Jackson 5 - I Want You Back (Drums) (RVC v2) (RMVPE, Ov2) (300 Epochs)",https://huggingface.co/MusicBox27/MusicInstrumentSoundsRVC/resolve/main/IWantYouBackDrums.zip?download=true
+adele 21-25 era (450epoch/RVC V2),https://huggingface.co/coreliastreet/adele2011-2015/resolve/main/adele.zip?download=true
+NAV | RVC V2 | OV2 | 35 Epochs | RVMPE,https://huggingface.co/RUXHIR2828/NAV/resolve/main/NAV.zip
+Tweener (Italian Youtuber) (250 Epochs) (RVC V2) (Magio-crepe),https://huggingface.co/SmashAle/Tweener/resolve/main/Tweener_v2.zip?download=true
+CLASH ROYLE KING / RVC v2 / rmvpe / 1000 epoch,https://huggingface.co/AIVOICENOOB/clash/resolve/main/probe.zip?download=true
+Broomer from EEE/THREEE/Excellent Entities | OV2 | RVCv2 | RVMPE | 250 EPOCHS,https://huggingface.co/loganhuggingface/broomereee/resolve/main/broomer_eee.zip?download=true
+Acheron (JP) | Honkai: Star Rail | RVC V2 | rmvpe | 300 epochs,https://huggingface.co/riezzz/acheron_jp/resolve/main/acheron_jp.zip?download=true
+Boris Anderson From Caillou (RVC V2) [340 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Boris-Anderson/resolve/main/Boris-Anderson_e340_s2720.zip?download=true
+Shiva V2 (110 epoch) (RVC V2) (RMVPE),https://huggingface.co/AngeT10/shiva_2/resolve/main/shiva%20(3).zip?download=true
+Judy Hopps (Zootopia) (500 Epochs) (RVC V2) (RMVPE),https://huggingface.co/huggingfaceuser2004/RVC-Models/resolve/main/Judy%20Hopps.zip?download=true
+Skye (PAW Patrol) (500 Epochs) (RVC V2) (RMVPE),https://huggingface.co/huggingfaceuser2004/RVC-Models/resolve/main/Skye.zip?download=true
+Chase (PAW Patrol) (500 Epochs) (RVC V2) (RMVPE),https://huggingface.co/huggingfaceuser2004/RVC-Models/resolve/main/Chase.zip?download=true
+Doctor ER (Youtuber/Spanish Dub) (RVC V2) (RMVPE) (OV2) - 400 Epochs,https://huggingface.co/Sam845/Doctor_Er_Latino/resolve/main/DoctorErLatino.zip?download=true
+Caillou Narrator (RVC V2) [240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Caillou-Narrator/resolve/main/Caillou-Narrator.zip?download=true
+"HVEMND (Male), 80 files, 1090 epochs, RVC v2 using Ov2.",https://huggingface.co/Kryptone/RVCollection-Revamped/resolve/main/Ov2Models/HVEMND_Male.zip?download=true
+Hermione (Lego Dimensions) (RVC V2) [240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Hermione_From_Lego_Dimensions/resolve/main/Hermione%20(Lego%20Dimensions).zip?download=true
+DezguisedASMR (RVC V2 RMVPE) (350 Epochs),https://huggingface.co/swagmaster69/dezguisedasmr_rvc_v2/resolve/main/DezguisedASMR.zip?download=true
+Male 1 (TikTok TTS) (400 Epochs) (RVC v2),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/Male1TikTok.zip?download=true
+"Shadow (Jason Griffith, Sonic the Hedgehog games) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/ShadowJG.zip
+"Scatman John (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/ScatmanJohn.zip
+Lancey Foux ( Life In Hell era ) 405 Epochs RVC v2 RMVPE,https://huggingface.co/RXKNephew/LanceyFoux/resolve/main/lancey.zip?download=true
+"Cherri Bomb (Hazbin Hotel, Italian Dub) (RVC V2, Original) (100 Epochs)",https://huggingface.co/FanFierik/CherriBomb/resolve/main/CherriBomb.zip?download=true
+Ikemori Shuichi (DEEN's Vocalist) (2000s era) [RVC V2/OV2/RMVPE - 400 epochs],https://huggingface.co/pattypouline/pplplay/resolve/main/Shuichi-Ikemori-Deen.zip?download=true
+Real E-girl (RVC 2 - 60 Epochs),https://huggingface.co/EnduGalletaa/E-girl/resolve/main/Realistic_e-girl.zip?download=true
+Chocolate Milk Carton from Animatic Battle | OV2 | RVCv2 | RVMPE | 250 EPOCHS,https://huggingface.co/loganhuggingface/chocolatemilkcarton/resolve/main/choco%20milk%20carton.zip?download=true
+Boris Anderson From Caillou (RVC V2) [340 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Boris-Anderson/resolve/main/Boris-Anderson_e340_s2720.zip?download=true
+Shiva V2 (110 epoch) (RVC V2) (RMVPE),https://huggingface.co/AngeT10/shiva_2/resolve/main/shiva%20(3).zip?download=true
+Judy Hopps (Zootopia) (500 Epochs) (RVC V2) (RMVPE),https://huggingface.co/huggingfaceuser2004/RVC-Models/resolve/main/Judy%20Hopps.zip?download=true
+Skye (PAW Patrol) (500 Epochs) (RVC V2) (RMVPE),https://huggingface.co/huggingfaceuser2004/RVC-Models/resolve/main/Skye.zip?download=true
+Chase (PAW Patrol) (500 Epochs) (RVC V2) (RMVPE),https://huggingface.co/huggingfaceuser2004/RVC-Models/resolve/main/Chase.zip?download=true
+Doctor ER (Youtuber/Spanish Dub) (RVC V2) (RMVPE) (OV2) - 400 Epochs,https://huggingface.co/Sam845/Doctor_Er_Latino/resolve/main/DoctorErLatino.zip?download=true
+Caillou Narrator (RVC V2) [240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Caillou-Narrator/resolve/main/Caillou-Narrator.zip?download=true
+"HVEMND (Male), 80 files, 1090 epochs, RVC v2 using Ov2.",https://huggingface.co/Kryptone/RVCollection-Revamped/resolve/main/Ov2Models/HVEMND_Male.zip?download=true
+Hermione (Lego Dimensions) (RVC V2) [240 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Hermione_From_Lego_Dimensions/resolve/main/Hermione%20(Lego%20Dimensions).zip?download=true
+DezguisedASMR (RVC V2 RMVPE) (350 Epochs),https://huggingface.co/swagmaster69/dezguisedasmr_rvc_v2/resolve/main/DezguisedASMR.zip?download=true
+Male 1 (TikTok TTS) (400 Epochs) (RVC v2),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/Male1TikTok.zip?download=true
+"Shadow (Jason Griffith, Sonic the Hedgehog games) (RVC v2, RMVPE) (350 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/ShadowJG.zip
+"Scatman John (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/ScatmanJohn.zip
+Lancey Foux ( Life In Hell era ) 405 Epochs RVC v2 RMVPE,https://huggingface.co/RXKNephew/LanceyFoux/resolve/main/lancey.zip?download=true
+"Cherri Bomb (Hazbin Hotel, Italian Dub) (RVC V2, Original) (100 Epochs)",https://huggingface.co/FanFierik/CherriBomb/resolve/main/CherriBomb.zip?download=true
+Ikemori Shuichi (DEEN's Vocalist) (2000s era) [RVC V2/OV2/RMVPE - 400 epochs],https://huggingface.co/pattypouline/pplplay/resolve/main/Shuichi-Ikemori-Deen.zip?download=true
+Real E-girl (RVC 2 - 60 Epochs),https://huggingface.co/EnduGalletaa/E-girl/resolve/main/Realistic_e-girl.zip?download=true
+Chocolate Milk Carton from Animatic Battle | OV2 | RVCv2 | RVMPE | 250 EPOCHS,https://huggingface.co/loganhuggingface/chocolatemilkcarton/resolve/main/choco%20milk%20carton.zip?download=true
+Peppino (RVC V2) (Pizza Tower) (Russian voiceover JF Voice youtube channel) (500 Epochs),https://huggingface.co/Player1444/AI.models/resolve/main/Peppino-rus%20dub%20(Russian%20voiceover%20JF%20Voice%20youtube%20channel)%20(Trained%20on%20Snowie%20V3).zip?download=true
+Bridget (Ikumi Hasegawa) (Punishing Gray Raven) (RVC v2) (RMVPE) (Ov2) (370 Epochs),https://huggingface.co/PGR-RVC/Punishing_Gray_Raven_RVC_v2/resolve/main/JP/BridgetJP_RVC_v2_RMVPE_370e_Ov2.zip?download=true
+Bad Apple!! (Drums) (RVC V2) [220 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Bad-Apple-Drums/resolve/main/Bad-Apple!!-(Drums).zip?download=true
+Ernie From Sesame Street (RETRAINED) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Ernie-2/resolve/main/Ernie_e200_s5800.zip?download=true
+Teen Gohan [FighterZ | 🇺🇸] (RVC v2 | 250 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/GohanTeen-FighterZ.zip?download=true
+Sora Amamiya [RVC v2] [RMVPE] [Ov2Super] 225 Epochs 6975 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/SoraAmamiya_RVC_v2_Ov2Super_e225_s6975.zip?download=true
+Caillou (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Caillou/resolve/main/Caillou.zip?download=true
+Gandhi (Clone High) (RVC v2 RMVPE) (OV2) (200 Epochs),https://huggingface.co/EvanTheToonGuy40/RVC_Models/resolve/main/GandhiCloneHigh.zip?download=true
+Superman (Injustice 2) (390 Epochs) (RVC v2),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/InjusticeSupermanv2.zip?download=true
+Gérard Lenorman [ Michèle ] (RVC V2) (RMVPE) (500 epochs) (OV2),https://huggingface.co/Freddie-Dassin/Gerard-Lenorman-Michele/resolve/main/Gerard-Lenorman.zip?download=true
+"Gaige (Borderlands) (RMVPE) (RVC v2, 302 epochs)",https://huggingface.co/Astral-P/GaigeV2/resolve/main/GaigeV2.zip?download=true
+Henchman (Fortnite) (RVC V2 - RMVPE) [93 Epochs],https://huggingface.co/GARGOS69Junior/Stuff-n-Crap/blob/main/Fortnite-Henchman.zip
+Sid Chang (The Loud House/The Casagrandes) (RVC V2) [250 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/SidChangTLH-CG/resolve/main/SidChangTLH-CG.zip?download=true
+"Scissors (Rock, Paper, Scissors) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/ScissorsRPS.zip
+"I Daccini (Italian Youtuber) (RVC V2, OV2) (80 Epochs)",https://huggingface.co/FanFierik/IDaccini/resolve/main/IDaccini.zip?download=true
+Peppino (RVC V2) (Pizza Tower) (Russian voiceover JF Voice youtube channel) (500 Epochs),https://huggingface.co/Player1444/AI.models/resolve/main/Peppino-rus%20dub%20(Russian%20voiceover%20JF%20Voice%20youtube%20channel)%20(Trained%20on%20Snowie%20V3).zip?download=true
+Bridget (Ikumi Hasegawa) (Punishing Gray Raven) (RVC v2) (RMVPE) (Ov2) (370 Epochs),https://huggingface.co/PGR-RVC/Punishing_Gray_Raven_RVC_v2/resolve/main/JP/BridgetJP_RVC_v2_RMVPE_370e_Ov2.zip?download=true
+Bad Apple!! (Drums) (RVC V2) [220 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Bad-Apple-Drums/resolve/main/Bad-Apple!!-(Drums).zip?download=true
+Ernie From Sesame Street (RETRAINED) (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Ernie-2/resolve/main/Ernie_e200_s5800.zip?download=true
+Teen Gohan [FighterZ | 🇺🇸] (RVC v2 | 250 Epochs),https://huggingface.co/SyberGen/DragonBall-Ov2Super/resolve/main/GohanTeen-FighterZ.zip?download=true
+Sora Amamiya [RVC v2] [RMVPE] [Ov2Super] 225 Epochs 6975 Steps,https://huggingface.co/Gigrig/GigrigRVC/resolve/main/SoraAmamiya_RVC_v2_Ov2Super_e225_s6975.zip?download=true
+Caillou (RVC V2) [200 Epochs] (RMVPE),https://huggingface.co/Coolwowsocoolwow/Caillou/resolve/main/Caillou.zip?download=true
+Gandhi (Clone High) (RVC v2 RMVPE) (OV2) (200 Epochs),https://huggingface.co/EvanTheToonGuy40/RVC_Models/resolve/main/GandhiCloneHigh.zip?download=true
+Superman (Injustice 2) (390 Epochs) (RVC v2),https://huggingface.co/thedoodooman/myverycoolaimodels/resolve/main/InjusticeSupermanv2.zip?download=true
+Gérard Lenorman [ Michèle ] (RVC V2) (RMVPE) (500 epochs) (OV2),https://huggingface.co/Freddie-Dassin/Gerard-Lenorman-Michele/resolve/main/Gerard-Lenorman.zip?download=true
+"Gaige (Borderlands) (RMVPE) (RVC v2, 302 epochs)",https://huggingface.co/Astral-P/GaigeV2/resolve/main/GaigeV2.zip?download=true
+Henchman (Fortnite) (RVC V2 - RMVPE) [93 Epochs],https://huggingface.co/GARGOS69Junior/Stuff-n-Crap/blob/main/Fortnite-Henchman.zip
+Sid Chang (The Loud House/The Casagrandes) (RVC V2) [250 Epochs] (Ov2 Pretrain) (RMVPE),https://huggingface.co/iamalexcaspian/SidChangTLH-CG/resolve/main/SidChangTLH-CG.zip?download=true
+"Scissors (Rock, Paper, Scissors) (RVC v2, RMVPE) (200 epochs)",https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/ScissorsRPS.zip
+"I Daccini (Italian Youtuber) (RVC V2, OV2) (80 Epochs)",https://huggingface.co/FanFierik/IDaccini/resolve/main/IDaccini.zip?download=true
