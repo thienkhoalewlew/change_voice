@@ -4,17 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="8eac5b6f-c236-4e7c-b42b-c7c463d933bf" name="Changes" comment="done filter model and convert">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/myapp.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.csv" beforeDir="false" />
+=======
+    <list default="true" id="8eac5b6f-c236-4e7c-b42b-c7c463d933bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TestDeepfake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/04.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/generated.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/models/vox-cpk.pth.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/vox-256.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/animate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/augmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/frames_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/modules/dense_motion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/modules/discriminator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/modules/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/modules/keypoint_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/modules/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/modules/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/sync_batchnorm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/sync_batchnorm/batchnorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/sync_batchnorm/comm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/sync_batchnorm/replicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deepfake/sync_batchnorm/unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestUIRVC.py" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,9 +78,16 @@
   "keyToString": {
     "Python.TestUI.executor": "Run",
     "Python.crawler.executor": "Run",
+<<<<<<< Updated upstream
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/baitap/PBL5RealRealTime",
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/DaiHoc/PBL/change_voice/lib/deepfake",
+>>>>>>> Stashed changes
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +98,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DaiHoc\PBL\change_voice\lib\deepfake" />
+      <recent name="D:\DaiHoc\PBL\change_voice" />
+      <recent name="D:\DaiHoc\PBL\change_voice\lib\config" />
       <recent name="D:\baitap\python\change_voice" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -98,6 +143,20 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="PBL5Real" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PBL5Real" />
       <option name="ENV_FILES" value="" />
@@ -119,20 +178,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="PBL5Real" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -222,8 +267,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
