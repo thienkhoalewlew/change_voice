@@ -4,36 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eac5b6f-c236-4e7c-b42b-c7c463d933bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ClientVaServer/Client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientVaServer/Server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/hubert/tu tai hubert_base ve day.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/rmvpe/tu tai rmvpe ve day.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagged/log.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/config/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/attentions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/commons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/models_dml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/models_onnx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/modules/F0Predictor/DioF0Predictor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/modules/F0Predictor/F0Predictor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/modules/F0Predictor/HarvestF0Predictor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/modules/F0Predictor/PMF0Predictor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/modules/F0Predictor/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/onnx_inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/infer_pack/transforms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vc/audio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vc/rmvpe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vc/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vc/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vc/vc_infer_pipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/change_voice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/change_voice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestUI.py" afterDir="false" />
+    <list default="true" id="8eac5b6f-c236-4e7c-b42b-c7c463d933bf" name="Changes" comment="done filter model and convert">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/myapp.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,21 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.TestUI.executor&quot;: &quot;Run&quot;,
-    &quot;Python.crawler.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/baitap/python/change_voice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.TestUI.executor": "Run",
+    "Python.crawler.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/baitap/PBL5RealRealTime",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\baitap\python\change_voice" />
@@ -262,15 +238,42 @@
       <workItem from="1715060354274" duration="1351000" />
       <workItem from="1715061862571" duration="3565000" />
       <workItem from="1715086764815" duration="8097000" />
-      <workItem from="1715100344727" duration="3791000" />
+      <workItem from="1715100344727" duration="4492000" />
+      <workItem from="1715127719711" duration="3751000" />
+      <workItem from="1715146969343" duration="26000" />
+      <workItem from="1715153658602" duration="3719000" />
+      <workItem from="1715177391205" duration="3399000" />
+      <workItem from="1715404384139" duration="11420000" />
+      <workItem from="1715580485587" duration="46000" />
     </task>
+    <task id="LOCAL-00001" summary="done filter model and convert">
+      <option name="closed" value="true" />
+      <created>1715105236623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715105236623</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done filter model and convert">
+      <option name="closed" value="true" />
+      <created>1715105273137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715105273137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done filter model and convert" />
+    <option name="LAST_COMMIT_MESSAGE" value="done filter model and convert" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/change_voice$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1715104927662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/change_voice$TestUI.coverage" NAME="TestUI Coverage Results" MODIFIED="1715103972794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/change_voice$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1715424269684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/change_voice$TestUI.coverage" NAME="TestUI Coverage Results" MODIFIED="1715427016192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
