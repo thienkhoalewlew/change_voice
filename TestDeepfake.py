@@ -9,8 +9,8 @@ from lib.deepfake.demo import make_animation
 
 warnings.filterwarnings("ignore")
 
-source_image = imageio.imread('content/102210233.jpg')
-reader = imageio.get_reader('content/KhongQuaMon.mp4')
+source_image = imageio.imread('content/102210212.jpg')
+reader = imageio.get_reader('content/trump.mp4')
 
 # Resize image and video to 256x256
 
@@ -32,4 +32,4 @@ generator, kp_detector = load_checkpoints(config_path='lib/config/vox-256.yaml',
 predictions = make_animation(source_image, driving_video, generator, kp_detector, relative=True,cpu=True)
 
 #save resulting video
-imageio.mimsave('content/DemoThienQMGenerated.mp4', [img_as_ubyte(frame) for frame in predictions], fps=fps)
+imageio.mimsave('content/DemoKhoaGenerated.mp4', [img_as_ubyte(frame) for frame in predictions], fps=fps)
