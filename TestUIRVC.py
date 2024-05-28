@@ -11,6 +11,15 @@ import csv
 import requests
 import zipfile
 import shutil
+from scipy.io import wavfile
+import moviepy.editor as mp
+
+import imageio.v2 as imageio
+from skimage import img_as_ubyte
+from skimage.transform import resize
+
+from lib.deepfake.demo import load_checkpoints
+from lib.deepfake.demo import make_animation
 
 from datetime import datetime
 from sympy import true, false
@@ -21,8 +30,6 @@ logger.info('Started')
 
 from lib.config.config import Config
 from lib.vc.vc_infer_pipeline import VC
-from lib.vc.settings import change_audio_mode
-from lib.vc.audio import load_audio
 from lib.infer_pack.models import (
     SynthesizerTrnMs256NSFsid,
     SynthesizerTrnMs256NSFsid_nono,
@@ -30,9 +37,6 @@ from lib.infer_pack.models import (
     SynthesizerTrnMs768NSFsid_nono,
 )
 from lib.vc.utils import (
-    combine_vocal_and_inst,
-    cut_vocal_and_inst,
-    download_audio,
     load_hubert
 )
 
@@ -59,13 +63,7 @@ with open('output.csv', 'r', encoding='utf-8') as file:
     for row in reader:
         model_data.append(row)
 
-def search_models(query):
-    results = []
-    for model in model_data:
-        if query.lower() in model[0].lower():
-            results.append(model)
-    return results
-
+audio_output_path = None
 def run_convert(
         vc_upload,
         f0_up_key,
@@ -75,14 +73,25 @@ def run_convert(
         resample_sr,
         rms_mix_rate,
         protect,
+        source_image_upload,
+        reader_upload,
 ):
     try:
         logs = []
         logger.info(f"Converting ...")
         logs.append(f"Converting ...")
-        yield "\n".join(logs), None
+        yield "\n".join(logs), None, None  # Thêm None cho kết quả hình ảnh
+
         if vc_upload is None:
-            return "You need to upload an audio", None
+            return "You need to upload an audio", None, None
+
+        if source_image_upload is None:
+            return "You need to upload a source image", None, None
+
+        if reader_upload is None:
+            return "You need to upload a reader file", None, None
+
+        # Xử lý chuyển đổi âm thanh
         sampling_rate, audio = vc_upload
         audio = (audio / np.iinfo(audio.dtype).max).astype(np.float32)
         if len(audio.shape) > 1:
@@ -102,7 +111,6 @@ def run_convert(
             f0_up_key,
             f0_method,
             file_index,
-            # file_big_npy,
             index_rate,
             if_f0,
             filter_radius,
@@ -113,15 +121,37 @@ def run_convert(
             protect,
             f0_file=None,
         )
+
+        # Xử lý chuyển đổi hình ảnh
+        source_image = source_image_upload
+        reader = imageio.get_reader(reader_upload.name)
+        source_image = resize(source_image, (256, 256))[..., :3]
+        fps = reader.get_meta_data()['fps']
+        driving_video = []
+        try:
+            for im in reader:
+                driving_video.append(im)
+        except RuntimeError:
+            pass
+        reader.close()
+        driving_video = [resize(frame, (256, 256))[..., :3] for frame in driving_video]
+        predictions = make_animation(source_image, driving_video, generator, kp_detector, relative=True, cpu=False)
+        imageio.mimsave('content/generated.mp4', [img_as_ubyte(frame) for frame in predictions], fps=fps)
+
+        # Lưu file âm thanh sử dụng librosa
+        global audio_output_path
+        audio_output_path = "content/converted_audio.wav"
+        wavfile.write(audio_output_path, tgt_sr, audio_opt)
+
         info = f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}]: npy: {times[0]}, f0: {times[1]}s, infer: {times[2]}s"
         logger.info(f" | {info}")
         logs.append(f"Successfully Convert \n{info}")
-        yield "\n".join(logs), (tgt_sr, audio_opt)
+        yield "\n".join(logs), audio_output_path, "content/generated.mp4"  # Trả về đường dẫn file âm thanh và video riêng biệt
     except Exception as err:
         info = traceback.format_exc()
         logger.error(info)
         logger.error(f"Error when using .\n{str(err)}")
-        yield info, None
+        yield info, None, None
     return run_convert
 
 def load_model():
@@ -152,7 +182,7 @@ def load_model():
         if config.is_half:
             net_g = net_g.half()
         else:
-            net_g = net_g.float()
+           net_g = net_g.float()
         vc = VC(tgt_sr, config)
     print(model_name)
     return model_name
@@ -162,7 +192,6 @@ def change_model_name(tobechangeto):
     model_name = tobechangeto
     load_model()
     return tobechangeto
-
 
 def download_model(model):
     model_directory = 'models'
@@ -210,47 +239,88 @@ def delete_model(model_name):
 def get_model_dirs():
     return [d for d in os.listdir('models') if os.path.isdir(os.path.join('models', d))]
 
+def detach_audio_from_video(video_file):
+    video = mp.VideoFileClip(video_file)
+    audio = video.audio
+    if audio:
+        audio_path = "content/detached_audio.wav"
+        video_path = "content/detached_video.mp4"
+        audio.write_audiofile(audio_path)
+        video.without_audio().write_videofile(video_path, codec='libx264')
+        return audio_path, video_path
+    else:
+        return None, None
+
+# Hàm mới để ghép âm thanh và video
+def combine_audio_video( video_file):
+    global audio_output_path
+
+    # Kiểm tra xem đường dẫn có phải là chuỗi hay không
+    if not isinstance(audio_output_path, str) or not isinstance(video_file, str):
+        return None  # Hoặc giá trị mặc định nào đó
+
+    audio = mp.AudioFileClip(audio_output_path)
+    video = mp.VideoFileClip(video_file)
+
+    combined_clip = video.set_audio(audio)
+    output_path = "content/combined_output.mp4"
+    combined_clip.write_videofile(output_path)
+
+    return output_path
+
 if __name__ == '__main__':
     with gr.Blocks() as main_app:
+        generator, kp_detector = load_checkpoints(config_path='lib/config/vox-256.yaml',
+                                                  checkpoint_path='content/models/vox-cpk.pth.tar',
+                                                  cpu=False)
         with gr.Row():
             dl_model_dropdown = gr.Dropdown(choices=[model for model in model_data], label="Download Model")
             dl_btn = gr.Button("Download Model")
 
-        with gr.Tab("Chuyển đổi giọng nói"):
-                model_dirs = get_model_dirs()
-                models_dropdown = gr.Dropdown(choices=model_dirs, label="Chọn model:")
-                models_dropdown.change(fn=change_model_name, inputs=models_dropdown)
-                vc_upload = gr.Audio(label="Upload audio file", interactive=True)
-                f0_up_key = gr.Number(label="Transpose(f0_up_key)", interactive=True)
-                f0_method = gr.Radio(label="Pitch extraction algorithm(f0_method)", choices=["rmvpe", "pm"],
-                                     value="rmvpe",
-                                     interactive=True)
-                index_rate = gr.Slider(minimum=0, maximum=1, value=0.7, label="Retrieval feature ratio(index_rate)",
-                                       interactive=True)
-                filter_radius = gr.Slider(minimum=0, maximum=7, value=3, step=1,
-                                          label="Apply Median Filtering(filter_radius)",
-                                          interactive=True)
-                resample_sr = gr.Slider(minimum=0, maximum=48000, value=0, label="Resampling(resample_sr)",
-                                        interactive=True)
-                rms_mix_rate = gr.Slider(minimum=0, maximum=1, value=1, label="Volume Envelope(rms_mix_rate)",
-                                         interactive=True)
-                protect = gr.Slider(minimum=0, maximum=0.5, value=0.5, label="Voice Protection(protect)",
-                                    interactive=True)
-                Convertbtn = gr.Button("Convert", variant="primary")
-                vc_log = gr.Textbox(label="Output Information", visible=True, interactive=False)
-                vc_output = gr.Audio(label="Output Audio", interactive=False)
-                Convertbtn.click(fn=run_convert,
-                                 inputs=[vc_upload, f0_up_key, f0_method, index_rate, filter_radius, resample_sr,
-                                         rms_mix_rate,
-                                         protect],
-                                 outputs=[vc_log, vc_output]
-                                 )
-                dl_btn.click(download_model, inputs=[dl_model_dropdown], outputs=models_dropdown)
+        with gr.Tab("AI cover"):
+            model_dirs = get_model_dirs()
+            video_upload = gr.Video(label="Upload video file", interactive=True)
+            detach_btn = gr.Button("Detach Audio and Video")
+            vc_upload = gr.Audio(label="Upload audio file", interactive=True)
+            models_dropdown = gr.Dropdown(choices=model_dirs, label="Chọn model:")
+            models_dropdown.change(fn=change_model_name, inputs=models_dropdown)
+            f0_up_key = gr.Number(label="Transpose(f0_up_key)", interactive=True)
+            f0_method = gr.Radio(label="Pitch extraction algorithm(f0_method)", choices=["rmvpe", "pm"], value="rmvpe", interactive=True)
+            index_rate = gr.Slider(minimum=0, maximum=1, value=0.7, label="Retrieval feature ratio(index_rate)", interactive=True)
+            filter_radius = gr.Slider(minimum=0, maximum=7, value=3, step=1, label="Apply Median Filtering(filter_radius)", interactive=True)
+            resample_sr = gr.Slider(minimum=0, maximum=48000, value=0, label="Resampling(resample_sr)", interactive=True)
+            rms_mix_rate = gr.Slider(minimum=0, maximum=1, value=1, label="Volume Envelope(rms_mix_rate)", interactive=True)
+            protect = gr.Slider(minimum=0, maximum=0.5, value=0.5, label="Voice Protection(protect)", interactive=True)
+            source_image_upload = gr.Image(label="Upload source image", interactive=True)
+            reader_upload = gr.File(label="Upload reader file", interactive=True)
+            Convertbtn = gr.Button("Convert", variant="primary")
+            vc_log = gr.Textbox(label="Output Information", visible=True, interactive=False)
+            vc_output = gr.Audio(label="Output Audio", interactive=False)
+            output_image = gr.Video(label="Output video file", interactive=True)
+            Convertbtn.click(fn=run_convert,
+                             inputs=[vc_upload, f0_up_key, f0_method, index_rate, filter_radius, resample_sr, rms_mix_rate, protect, source_image_upload, reader_upload],
+                             outputs=[vc_log, vc_output, output_image]
+                             )
+            detach_btn.click(
+                fn=detach_audio_from_video,
+                inputs=[video_upload],
+                outputs=[vc_upload, reader_upload]
+            )
+            dl_btn.click(download_model, inputs=[dl_model_dropdown], outputs=models_dropdown)
+
+            # Thêm nút ghép âm thanh và video
+            combine_btn = gr.Button("Combine Audio and Video")
+            combine_btn.click(
+                fn=combine_audio_video,
+                inputs=[ output_image],
+                outputs=[gr.Video(label="Combined Output")]
+            )
+
         main_app.queue(
             max_size=20,
             api_open=config.api,
         ).launch(
-            share=false,
+            share=True,
             max_threads=1,
             allowed_paths=["models"]
         )

@@ -27,9 +27,9 @@ reader.close()
 
 driving_video = [resize(frame, (256, 256))[..., :3] for frame in driving_video]
 generator, kp_detector = load_checkpoints(config_path='lib/config/vox-256.yaml',
-                            checkpoint_path='content/models/vox-cpk.pth.tar',cpu=True)
+                            checkpoint_path='content/models/vox-cpk.pth.tar',cpu=False)
 
-predictions = make_animation(source_image, driving_video, generator, kp_detector, relative=True,cpu=True)
+predictions = make_animation(source_image, driving_video, generator, kp_detector, relative=True,cpu=False)
 
 #save resulting video
 imageio.mimsave('content/DemoKhoaGenerated.mp4', [img_as_ubyte(frame) for frame in predictions], fps=fps)
