@@ -38,3 +38,4 @@ scipy==1.9.1
 torchvision==0.13.1
 tqdm==4.64.1
 pillow~=10.3.0
+moviepy

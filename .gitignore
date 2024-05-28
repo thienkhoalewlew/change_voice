@@ -4,3 +4,4 @@ assets/hubert/hubert_base.pt
 /models
 content/models/vox-cpk.pth.tar
 content/models/vox-cpk.pth.tar
+myapp.log

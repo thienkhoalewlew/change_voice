@@ -13,6 +13,8 @@ import zipfile
 import shutil
 from scipy.io import wavfile
 import moviepy.editor as mp
+import matplotlib
+import matplotlib.pyplot as plt
 
 import imageio.v2 as imageio
 from skimage import img_as_ubyte
@@ -80,7 +82,7 @@ def run_convert(
         logs = []
         logger.info(f"Converting ...")
         logs.append(f"Converting ...")
-        yield "\n".join(logs), None, None  # Thêm None cho kết quả hình ảnh
+        yield "\n".join(logs), None, None,None  # Thêm None cho kết quả hình ảnh
 
         if vc_upload is None:
             return "You need to upload an audio", None, None
@@ -143,15 +145,46 @@ def run_convert(
         audio_output_path = "content/converted_audio.wav"
         wavfile.write(audio_output_path, tgt_sr, audio_opt)
 
+        #tttttttttttttttttttttttt
+        # Vẽ phổ âm thanh trước xử lý
+        fft_data_before = np.fft.rfft(audio)
+        freq_before = np.fft.rfftfreq(len(audio), d=1.0 / sampling_rate)
+
+        # Vẽ phổ âm thanh sau xử lý
+        fft_data_after = np.fft.rfft(audio_opt)
+        freq_after = np.fft.rfftfreq(len(audio_opt), d=1.0 / tgt_sr)
+
+        # Tạo trục tần số mới để đồng bộ hóa hai đồ thị
+        new_freq = np.linspace(0, max(freq_before.max(), freq_after.max()), 1000)
+        amp_before = np.interp(new_freq, freq_before, np.abs(fft_data_before))
+        amp_after = np.interp(new_freq, freq_after, np.abs(fft_data_after))
+
+        # Vẽ đồ thị
+        fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(8, 8))  # Tạo hai đồ thị trên cùng một hình ảnh
+
+        ax1.plot(new_freq, amp_before)
+        ax1.set_xlabel('Frequency (Hz)')
+        ax1.set_ylabel('Amplitude')
+        ax1.set_title('Audio Spectrum Before')
+
+        ax2.plot(new_freq, amp_after)
+        ax2.set_xlabel('Frequency (Hz)')
+        ax2.set_ylabel('Amplitude')
+        ax2.set_title('Audio Spectrum After')
+
+        # Lưu hình ảnh phổ vào file
+        spectrum_path = "content/audio_spectrum.png"
+        fig.savefig(spectrum_path)
+        #tttttttttttttttttttttttt
         info = f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}]: npy: {times[0]}, f0: {times[1]}s, infer: {times[2]}s"
         logger.info(f" | {info}")
         logs.append(f"Successfully Convert \n{info}")
-        yield "\n".join(logs), audio_output_path, "content/generated.mp4"  # Trả về đường dẫn file âm thanh và video riêng biệt
+        yield "\n".join(logs), audio_output_path, "content/generated.mp4",spectrum_path   # Trả về đường dẫn file âm thanh và video riêng biệt
     except Exception as err:
         info = traceback.format_exc()
         logger.error(info)
         logger.error(f"Error when using .\n{str(err)}")
-        yield info, None, None
+        yield info, None, None, None
     return run_convert
 
 def load_model():
@@ -195,6 +228,7 @@ def change_model_name(tobechangeto):
 
 def download_model(model):
     model_directory = 'models'
+    print(model)
     parts = model.split("'")
     link = parts[3]
     print(link)
@@ -243,10 +277,12 @@ def detach_audio_from_video(video_file):
     video = mp.VideoFileClip(video_file)
     audio = video.audio
     if audio:
+
         audio_path = "content/detached_audio.wav"
         video_path = "content/detached_video.mp4"
         audio.write_audiofile(audio_path)
         video.without_audio().write_videofile(video_path, codec='libx264')
+
         return audio_path, video_path
     else:
         return None, None
@@ -281,7 +317,8 @@ if __name__ == '__main__':
             model_dirs = get_model_dirs()
             video_upload = gr.Video(label="Upload video file", interactive=True)
             detach_btn = gr.Button("Detach Audio and Video")
-            vc_upload = gr.Audio(label="Upload audio file", interactive=True)
+            vc_upload = gr.Audio(label="Detached audio file", interactive=False)
+            reader_upload = gr.File(label="Detached video file", interactive=False)
             models_dropdown = gr.Dropdown(choices=model_dirs, label="Chọn model:")
             models_dropdown.change(fn=change_model_name, inputs=models_dropdown)
             f0_up_key = gr.Number(label="Transpose(f0_up_key)", interactive=True)
@@ -292,14 +329,14 @@ if __name__ == '__main__':
             rms_mix_rate = gr.Slider(minimum=0, maximum=1, value=1, label="Volume Envelope(rms_mix_rate)", interactive=True)
             protect = gr.Slider(minimum=0, maximum=0.5, value=0.5, label="Voice Protection(protect)", interactive=True)
             source_image_upload = gr.Image(label="Upload source image", interactive=True)
-            reader_upload = gr.File(label="Upload reader file", interactive=True)
             Convertbtn = gr.Button("Convert", variant="primary")
             vc_log = gr.Textbox(label="Output Information", visible=True, interactive=False)
             vc_output = gr.Audio(label="Output Audio", interactive=False)
-            output_image = gr.Video(label="Output video file", interactive=True)
+            output_image = gr.Video(label="Output video file", interactive=False)
+            spectrograms = gr.Image(label="Spectrogram after", interactive=False)
             Convertbtn.click(fn=run_convert,
                              inputs=[vc_upload, f0_up_key, f0_method, index_rate, filter_radius, resample_sr, rms_mix_rate, protect, source_image_upload, reader_upload],
-                             outputs=[vc_log, vc_output, output_image]
+                             outputs=[vc_log, vc_output, output_image,spectrograms]
                              )
             detach_btn.click(
                 fn=detach_audio_from_video,
@@ -320,7 +357,7 @@ if __name__ == '__main__':
             max_size=20,
             api_open=config.api,
         ).launch(
-            share=True,
+            share=False,
             max_threads=1,
             allowed_paths=["models"]
         )
