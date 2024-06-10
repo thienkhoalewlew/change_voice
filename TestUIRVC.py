@@ -56,7 +56,10 @@ f0method_mode = []
 f0method_info = ""
 hubert_model = load_hubert(config)
 model_name = ""
-
+if torch.cuda.is_available():
+    CUDADisable = True
+else:
+    CUDADisable = False
 # Đọc dữ liệu từ file CSV vào danh sách
 model_data = []
 with open('output.csv', 'r', encoding='utf-8') as file:
@@ -70,13 +73,10 @@ def run_convert(
         vc_upload,
         f0_up_key,
         f0_method,
-        index_rate,
-        filter_radius,
         resample_sr,
-        rms_mix_rate,
-        protect,
         source_image_upload,
         reader_upload,
+        relativemode,
 ):
     try:
         logs = []
@@ -113,14 +113,14 @@ def run_convert(
             f0_up_key,
             f0_method,
             file_index,
-            index_rate,
+            0.7,
             if_f0,
-            filter_radius,
+            3,
             tgt_sr,
             resample_sr,
-            rms_mix_rate,
+            1,
             version,
-            protect,
+            0.5,
             f0_file=None,
         )
 
@@ -137,7 +137,7 @@ def run_convert(
             pass
         reader.close()
         driving_video = [resize(frame, (256, 256))[..., :3] for frame in driving_video]
-        predictions = make_animation(source_image, driving_video, generator, kp_detector, relative=True, cpu=False)
+        predictions = make_animation(source_image, driving_video, generator, kp_detector, relative=relativemode, cpu=CUDADisable)
         imageio.mimsave('content/generated.mp4', [img_as_ubyte(frame) for frame in predictions], fps=fps)
 
         # Lưu file âm thanh sử dụng librosa
@@ -322,20 +322,17 @@ if __name__ == '__main__':
             models_dropdown = gr.Dropdown(choices=model_dirs, label="Chọn model:")
             models_dropdown.change(fn=change_model_name, inputs=models_dropdown)
             f0_up_key = gr.Number(label="Transpose(f0_up_key)", interactive=True)
-            f0_method = gr.Radio(label="Pitch extraction algorithm(f0_method)", choices=["rmvpe", "pm"], value="rmvpe", interactive=True)
-            index_rate = gr.Slider(minimum=0, maximum=1, value=0.7, label="Retrieval feature ratio(index_rate)", interactive=True)
-            filter_radius = gr.Slider(minimum=0, maximum=7, value=3, step=1, label="Apply Median Filtering(filter_radius)", interactive=True)
+            f0_method = gr.Radio(label="Pitch extraction algorithm(f0_method)", choices=["rmvpe", "pm"], value="pm", interactive=True)
             resample_sr = gr.Slider(minimum=0, maximum=48000, value=0, label="Resampling(resample_sr)", interactive=True)
-            rms_mix_rate = gr.Slider(minimum=0, maximum=1, value=1, label="Volume Envelope(rms_mix_rate)", interactive=True)
-            protect = gr.Slider(minimum=0, maximum=0.5, value=0.5, label="Voice Protection(protect)", interactive=True)
             source_image_upload = gr.Image(label="Upload source image", interactive=True)
+            relativepick = gr.Checkbox(label="Sử dụng relative cho first order motion", value=True)
             Convertbtn = gr.Button("Convert", variant="primary")
             vc_log = gr.Textbox(label="Output Information", visible=True, interactive=False)
             vc_output = gr.Audio(label="Output Audio", interactive=False)
             output_image = gr.Video(label="Output video file", interactive=False)
             spectrograms = gr.Image(label="Spectrogram after", interactive=False)
             Convertbtn.click(fn=run_convert,
-                             inputs=[vc_upload, f0_up_key, f0_method, index_rate, filter_radius, resample_sr, rms_mix_rate, protect, source_image_upload, reader_upload],
+                             inputs=[vc_upload, f0_up_key, f0_method, resample_sr, source_image_upload, reader_upload,relativepick],
                              outputs=[vc_log, vc_output, output_image,spectrograms]
                              )
             detach_btn.click(
